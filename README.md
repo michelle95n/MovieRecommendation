@@ -1,3 +1,15 @@
+<html>
+	<body>
+  .button1
+  {
+  	background-color: red;
+  	color: white;
+  	width: 150px;
+  	height: 40px;
+  }
+	</body>
+</html>
+
 ## Movie Recommendation for Social Graphs
 
 The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Due to the huge amount of data the small dataset is used. The data consist of 4 csv files where 3 of them is used; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**.
@@ -9,7 +21,7 @@ To get more information about the data and how the webpage is created see the [e
 ### Sentiment for plot description
 All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.  
 
-<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button class="button1" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
@@ -57,10 +69,6 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:600px">
 
-<img src="images/neg_plot.png" alt="hi" class="inline"/>
-
-<img src="images/pos_plot.png" alt="hi" class="inline"/>
-
 ## Wordclouds
 
 ### Visualization of plot description
@@ -88,6 +96,9 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:600px">
 
+<img src="images/neg_plot.png" alt="hi" class="inline"/>
+
+<img src="images/pos_plot.png" alt="hi" class="inline"/>
 
 ### Visualization of tags
 
@@ -117,29 +128,3 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 <img src="images/neg_tag.png" alt="hi" class="inline"/>
 
 <img src="images/pos_tag.png" alt="hi" class="inline"/>
-
-
-## Usefull informations
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
