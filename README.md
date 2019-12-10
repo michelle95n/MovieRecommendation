@@ -3,7 +3,7 @@
 <style>
 .button
 {
-	background-color: red;
+	background-color: black;
 	color: white;
 	width: 75px;
 	height: 20px;
@@ -11,6 +11,9 @@
 </style>
 </body>
 </html>
+
+button:hover{background-color:red;}
+button:focus{background-color:red;}
 
 ## Movie Recommendation for Social Graphs
 
