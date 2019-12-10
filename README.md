@@ -14,6 +14,15 @@ function myFunction() {
 }
 </script>
 
+<button onclick="document.getElementById('no_genres_listed_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('Adventure_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
+
+<img id="no_genres_listed_plot" src="images/plot_sentiment_(no genres listed).png" style="width:100px">
+<img id="Adventure_plot" src="images/plot_sentiment_Adventure.png" style="width:100px">
+
+
+
+
 ## Wordclouds
 
 <img src="images/neg_plot.png" alt="hi" class="inline"/>
