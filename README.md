@@ -1,25 +1,15 @@
-<html>
-<head>
-<style>
-.button {
-
-.button3 {background-color: #f44336;}
-
-</style>
-</head>
-<body>
-
 ## Movie Recommendation for Social Graphs
 
 The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Due to the huge amount of data the small dataset is used. The data consist of 4 csv files where 3 of them is used; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**.
 
-To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**
+To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
 
 ## Sentiment analysis
 
-All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.
+### Sentiment for plot description
+All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.  
 
-<button3 onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button3>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
@@ -42,10 +32,59 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:600px">
 
+### Sentiment for tags
+
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Action.png'">Action</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Adventure.png'">Adventure</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Animation.png'">Animation</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Children.png'">Children</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Comedy.png'">Comedy</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Crime.png'">Crime</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Documentary.png'">Documentary</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Drama.png'">Drama</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Fantasy.png'">Fantasy</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Film-Noir.png'">Film-Noir</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Horror.png'">Horror</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_IMAX.png'">IMAX</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Musical.png'">Musical</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Mystery.png'">Mystery</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Romance.png'">Romance</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Sci-Fi.png'">Sci-Fi</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Thriller.png'">Thriller</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_War.png'">War</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Western.png'">Western</button>
+
+<img id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:600px">
 
 
 
 ## Wordclouds
+
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Action.png'">Action</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Adventure.png'">Adventure</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Animation.png'">Animation</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Children.png'">Children</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Comedy.png'">Comedy</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Crime.png'">Crime</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Documentary.png'">Documentary</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Drama.png'">Drama</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Fantasy.png'">Fantasy</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Film-Noir.png'">Film-Noir</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Horror.png'">Horror</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_IMAX.png'">IMAX</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Musical.png'">Musical</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Mystery.png'">Mystery</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Romance.png'">Romance</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Sci-Fi.png'">Sci-Fi</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Thriller.png'">Thriller</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_War.png'">War</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Western.png'">Western</button>
+
+<img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:600px">
+
+
 
 <img src="images/neg_plot.png" alt="hi" class="inline"/>
 
