@@ -19,7 +19,7 @@ To get more information about the data and how the webpage is created see the [e
 
 All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.
 
-<button3 onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button3 onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button3>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
