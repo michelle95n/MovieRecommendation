@@ -1,4 +1,8 @@
-## Movie Recommendation for Social Graphs
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Movie Recommendation for Social Graphs <h2>
 
 The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Due to the huge amount of data the small dataset is used. The data consist of 4 csv files where 3 of them is used; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**.
 
@@ -6,10 +10,10 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Sentiment analysis
 
-<button onclick="document.getElementById('no_genres_listed_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
-<button onclick="document.getElementById('Adventure_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 
-<img id="no_genres_listed_plot" src="images/plot_sentiment_(no genres listed).png" style="width:200px">
+<img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:600px">
 
 
 
@@ -46,12 +50,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michelle95n/MovieRecommendation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+<html>
