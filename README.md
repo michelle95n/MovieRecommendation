@@ -4,6 +4,13 @@ The data used is from GroupLens and can be downloaded [here](https://grouplens.o
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**
 
+## Sentiment analysis
+
+<button name="(no genres listed)" type="button">
+  <img src="images/plot_sentiment_(no genres listed).png" alt="hi" class="inline"/>
+  Add to favorites
+</button>
+
 ## Wordclouds
 
 <img src="images/neg_plot.png" alt="hi" class="inline"/>
