@@ -1,3 +1,14 @@
+<html>
+<head>
+<style>
+.button {
+
+.button3 {background-color: #f44336;}
+
+</style>
+</head>
+<body>
+
 ## Movie Recommendation for Social Graphs
 
 The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Due to the huge amount of data the small dataset is used. The data consist of 4 csv files where 3 of them is used; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**.
@@ -6,7 +17,9 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Sentiment analysis
 
-<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.
+
+<button3 onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
