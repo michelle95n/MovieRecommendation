@@ -6,19 +6,10 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Sentiment analysis
 
-<button onclick="myFunction()">no genres listed</button>
-
-<script>
-function myFunction() {
-    <img src="images/plot_sentiment_(no genres listed).png" alt="hi" class="inline"/>
-}
-</script>
-
 <button onclick="document.getElementById('no_genres_listed_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('Adventure_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 
-<img id="no_genres_listed_plot" src="images/plot_sentiment_(no genres listed).png" style="width:100px">
-<img id="Adventure_plot" src="images/plot_sentiment_Adventure.png" style="width:100px">
+<img id="no_genres_listed_plot" src="images/plot_sentiment_(no genres listed).png" style="width:200px">
 
 
 
