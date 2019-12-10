@@ -5,21 +5,28 @@
 {
 	background-color: black;
 	color: white;
-	width: 75px;
+	width: 80px;
 	height: 20px;
+}
+</style>
+</body>
+</html>
 
+<html>
+<body>
+<style>
   hover{background-color:red;}
   focus{background-color:red;}
-}
 </style>
 </body>
 </html>
 
 
 
+
 ## Movie Recommendation for Social Graphs
 
-The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**. The largest dataset have the same three csv files used, but with 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
+The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives around 9,000 movies, 100,000 ratings, 3,600 tags and 600 users. The largest dataset have the same three csv files, but with around 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
 
@@ -28,7 +35,7 @@ To get more information about the data and how the webpage is created see the [e
 ### Sentiment for plot description
 All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.  
 
-<button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres</button>
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
@@ -53,7 +60,7 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 ### Sentiment for tags
 
-<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_(no genres listed).png'">no genres</button>
 <button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Animation.png'">Animation</button>
@@ -80,7 +87,7 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 ### Visualization of plot description
 
-<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_(no genres listed).png'">no genres</button>
 <button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Action.png'">Action</button>
 <button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Animation.png'">Animation</button>
@@ -109,7 +116,7 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 ### Visualization of tags
 
-<button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_(no genres listed).png'">no genres</button>
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Action.png'">Action</button>
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Animation.png'">Animation</button>
