@@ -6,10 +6,13 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Sentiment analysis
 
-<button name="(no genres listed)" type="button">
-  <img src="images/plot_sentiment_(no genres listed).png" alt="hi" class="inline"/>
-  Add to favorites
-</button>
+<button onclick="myFunction()">no genres listed</button>
+
+<script>
+function myFunction() {
+    <img src="images/plot_sentiment_(no genres listed).png" alt="hi" class="inline"/>
+}
+</script>
 
 ## Wordclouds
 
