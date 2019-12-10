@@ -57,9 +57,13 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:600px">
 
+<img src="images/neg_plot.png" alt="hi" class="inline"/>
 
+<img src="images/pos_plot.png" alt="hi" class="inline"/>
 
 ## Wordclouds
+
+### Visualization of plot description
 
 <button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Action.png'">Action</button>
@@ -85,6 +89,8 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 <img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:600px">
 
 
+### Visualization of tags
+
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_(no genres listed).png'">no genres listed</button>
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Action.png'">Action</button>
 <button onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Adventure.png'">Adventure</button>
@@ -108,10 +114,9 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="wordcloud_tag" src="images/tag_wordcloud_(no genres listed).png" style="width:600px">
 
+<img src="images/neg_tag.png" alt="hi" class="inline"/>
 
-<img src="images/neg_plot.png" alt="hi" class="inline"/>
-
-<img src="images/pos_plot.png" alt="hi" class="inline"/>
+<img src="images/pos_tag.png" alt="hi" class="inline"/>
 
 
 ## Usefull informations
