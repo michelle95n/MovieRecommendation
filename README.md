@@ -6,7 +6,9 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Wordclouds
 
-<img src="neg_plot.png" alt="hi" class="inline"/>
+<img src="images/neg_plot.png" alt="hi" class="inline"/>
+
+<img src="images/pos_plot.png" alt="hi" class="inline"/>
 
 
 ## Usefull informations
