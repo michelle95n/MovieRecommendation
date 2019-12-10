@@ -4,6 +4,10 @@ The data used is from GroupLens and can be downloaded [here](https://grouplens.o
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**
 
+## Wordclouds
+
+<img src="images/neg_plot.png" alt="hi" class="inline"/>
+
 
 ## Usefull informations
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
