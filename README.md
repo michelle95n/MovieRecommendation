@@ -7,7 +7,25 @@ To get more information about the data and how the webpage is created see the [e
 ## Sentiment analysis
 
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Children.png'">Children</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Comedy.png'">Comedy</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Crime.png'">Crime</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Documentary.png'">Documentary</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Drama.png'">Drama</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Fantasy.png'">Fantasy</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Film-Noir.png'">Film-Noir</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Horror.png'">Horror</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_IMAX.png'">IMAX</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Musical.png'">Musical</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Mystery.png'">Mystery</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Romance.png'">Romance</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Sci-Fi.png'">Sci-Fi</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Thriller.png'">Thriller</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_War.png'">War</button>
+<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Western.png'">Western</button>
 
 <img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:600px">
 
