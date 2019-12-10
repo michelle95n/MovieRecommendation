@@ -7,17 +7,19 @@
 	color: white;
 	width: 75px;
 	height: 20px;
+
+  hover{background-color:red;}
+  focus{background-color:red;}
 }
 </style>
 </body>
 </html>
 
-button:hover{background-color:red;}
-button:focus{background-color:red;}
+
 
 ## Movie Recommendation for Social Graphs
 
-The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Due to the huge amount of data the small dataset is used. The data consist of 4 csv files where 3 of them is used; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**.
+The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives 9742 movies, 100,838 ratings, 3683 tags and 600 users **insert correct number**. The largest dataset have the same three csv files used, but with 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
 
