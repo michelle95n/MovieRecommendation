@@ -1,13 +1,15 @@
 <html>
-	<body>
-  .button1
-  {
-  	background-color: red;
-  	color: white;
-  	width: 150px;
-  	height: 40px;
-  }
-	</body>
+<body>
+<style>
+.button
+{
+	background-color: red;
+	color: white;
+	width: 150px;
+	height: 40px;
+}
+</style>
+</body>
 </html>
 
 ## Movie Recommendation for Social Graphs
@@ -21,8 +23,8 @@ To get more information about the data and how the webpage is created see the [e
 ### Sentiment for plot description
 All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.  
 
-<button class="button1" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
-<button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
+<button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres listed</button>
+<button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Adventure.png'">Adventure</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Animation.png'">Animation</button>
 <button onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Children.png'">Children</button>
