@@ -15,8 +15,15 @@
 <html>
 <body>
 <style>
-  button:hover{background-color:red;}
-  button:focus{background-color:red;}
+  button:hover{background-color:#C0392B;}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+<style>
+  button:focus {background: #C0392B;}
 </style>
 </body>
 </html>
