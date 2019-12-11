@@ -15,6 +15,14 @@
 <html>
 <body>
 <style>
+  button.selected{color:#C21E0D;}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+<style>
   button:hover{background-color:#C21E0D;}
 </style>
 </body>
