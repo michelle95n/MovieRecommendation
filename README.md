@@ -19,6 +19,8 @@
 {
 	background-color: black;
 	color: white;
+  width: 160px;
+	height: 20px;
 	margin: 0 auto
 }
 </style>
