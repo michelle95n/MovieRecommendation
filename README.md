@@ -90,6 +90,7 @@ This were done by computing a weighted average for each user and then, given the
 
 <img class="center" src="images/rating_table.png" style="width:450px">
 
+From the above table it can be seen that rating does not contribute to the partitioning. Every interval has nodes spread across the different partitions and no of them really dominates anything.
 
 
 ## Sentiment analysis
