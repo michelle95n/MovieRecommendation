@@ -70,10 +70,14 @@ Community detection is for exploring whether or not there are some communities f
 
 <img class="center" src="images/graph_partition.png" style="width:700px">
 
+Looking at the partitions in the graph it is not quite clear which factor contributes to this specific partitioning of the nodes. In order to explore which factor might have influence over the partitioning one can compute the confusion matrix, where the rows corresponds to levels of the factor and columns corresponds to the partitions. 
+
 ### Community detection by genres
 
+First of the factor genre is explored.
+
 <img src="images/orig_genre_table.png" style="width:254px">
-<img src="images/stand_genre_table.png" style="width:299px">
+<img src="images/stand_genre_table.png" style="width:295px">
 
 ### Community detection by ratings
 
