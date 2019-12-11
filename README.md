@@ -59,7 +59,7 @@ To get more information about the data and how the webpage is created see the [e
 
 
 <img src="images/orig_genre_table.png" style="width:250px">
-<img src="images/stand_genre_table.png" style="width:250px">
+<img src="images/stand_genre_table.png" style="width:300px">
 
 <img src="images/rating_table.png" style="width:500px">
 
