@@ -59,6 +59,8 @@ Another dataset used is from Kaggle and can be downloaded [here](https://www.kag
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
 
+By using this data, the goal is to create an overview of user behavior regarding movies, and get a feeling of the sentiment and important content for the genres given in the data.
+
 ## Social graph
 
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
@@ -82,9 +84,9 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Sentiment analysis
 
-The sentiment of a text gives a happiness score for one or more words. The scale is from 1 - the least happy to 9 - the most happy. A happiness score of 5 is neutral. In this way it is possible to see whether a word or text is negative or positive.
+The sentiment of a text gives a happiness score for one or more words. The scale is from 1, the least happy, to 9, the most happy, and 5 being neutral. In this way it is possible to see whether a word or text is negative or positive.
 
-By using the sentiment an analysis is made based on the plot description for a movie and the tags given by users. By doing this the overall sentiment for a genre is found in both cases. This will show if the plot description and tags given by users agrees with each other.
+By using the sentiment, an analysis is made based on the plot description for a movie and the tags given by users. By doing this the overall sentiment for a genre is found in both cases. This will show if some genres are more negative or positive than others, and also if the plot description and tags given by users agrees with each other.
 
 ### Sentiment for plot description
 First of all the sentiment for the plot description is looked at. The large dataset from GroupLens was combined with the dataset from Kaggle. In this way the subset of movies was found such that a new dataset with around 14,000 movies were created with a corresponding plot description.
@@ -113,7 +115,7 @@ Afterwards all the movies was divided into genres. For each genre the sentiment 
 
 <img class="center" id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:700px">
 
-When looking at the sentiment distribution for each genre, it can be seen how all the sentiments are distributed around the neutral 5 with a low spreading. This means that the plot descriptions in general are very neutral and does not bias a movie into being negative or positive.
+When looking at the sentiment distribution for each genre, it can be seen how all the sentiments are distributed around the neutral 5, with a low spreading of the sentiments. This means that the plot descriptions in general are fairly neutral, and does not bias a movie into being negative or positive. This makes sense such that when reading a plot description on Wikipedia, one does not get biased into having a certain belief about Wikipedia.
 
 Even though there are no clear negative or positive plots, the movies in each genre have been divided into negative and positive movies. The negative movies are therefore categorized as all movies in the genre with a sentiment lower than the mean - 2 times the standard deviation, and the positive movies are categorized as all movies with a sentiment higher than the mean + 2 times the standard deviation. This will be visualized later, to see if there is a tendency in the movies, even though the sentiment for the plot descriptions are neutral.
 
@@ -214,7 +216,7 @@ The full corpus this time is all the tags for the different genre. One part of t
 
 <img class="center" id="wordcloud_tag" src="images/tag_wordcloud_(no genres listed).png" style="width:700px">
 
-Looking at the genre Children, words as "pixar", "animals" and "cartoon" comes up. Looking at Horror "zombie", "alien" and "twist" are words that can be seen. When comparing these words to the ones for the plot descriptions, it is clear that for each genre they have the same overall sense. It seems that the plot description uses more specific words, whereas the tags uses more general words.
+Looking at the genre Children, words as "pixar", "animals" and "cartoon" comes up. Looking at Horror "zombie", "alien" and "twist" are words that can be seen. When comparing these words to the ones for the plot descriptions, it is clear that for each genre they have the same overall sense. It seems that the plot description uses more specific words, whereas the tags uses more general words. This can give an idea about what to expect of movies in a given genre and therefore if some genres are more compelling.
 
 Next the negative and positive plot descriptions and tags will now be visualized to see if they can be compared as well.
 
@@ -235,4 +237,4 @@ A visualization of the negative plot descriptions compared to the negative tags 
 When looking at the individual wordclouds, it is not clear to see that one is negative movies and one is positive movies. A few words does make sense, for example for the negative movies words as "beast" and "fuck" can be seen. But other than a few words, the words in each cloud seems random. Comparing the plot description with the tags does not show any resemblance either. Of course this is due to the sentiment mean being around the neutral 5, and the standard deviation of these sentiments being very small.
 
 Therefore it can be concluded that based on the Wikipedia plot descriptions and the tags given in the GroupLens dataset, it is not possible to define negative or positive movies or genres.
-On the other hand the wordclouds based on the plot descriptions and the tags, can give an overview of what to expect from a genre, and therefore help with finding a movie based on the feelings one get from this.
+On the other hand, the wordclouds based on the plot descriptions and the tags, can give an overview of what to expect from movies in a genre, and therefore help with finding a movie based on the feelings one get from this.
