@@ -1,0 +1,2748 @@
+,userId,movieId,title,tag,tagSentiment
+0,474,3310,The Kid,orphans,4.957142857142857
+1,474,8609,Our Hospitality,In Netflix queue,4.979
+2,474,8235,Safety Last!,Clock,4.984999999999999
+3,474,25753,Greed,gold,4.975
+4,474,3629,The Gold Rush,mining,5.296
+5,474,8275,College,In Netflix queue,4.979
+6,474,3306,The Circus,big top,5.093333333333334
+7,474,3306,The Circus,circus,5.0075
+8,474,8424,The Divorcee,divorce,4.922857142857143
+9,474,3307,City Lights,blind,5.116
+10,474,2648,Frankenstein,In Netflix queue,4.979
+11,474,8228,The Maltese Falcon,heist,5.064
+12,474,976,A Farewell to Arms,Hemingway,5.005
+13,474,8507,Freaks,circus,5.0075
+14,474,7091,Horse Feathers,Marx brothers,4.845882352941176
+15,474,7049,Flying Down to Rio,Astaire and Rogers,4.969090909090909
+16,474,3932,The Invisible Man,invisibility,5.68625
+17,474,907,The Gay Divorcee,divorce,4.922857142857143
+18,474,905,It Happened One Night,Screwball,5.026000000000001
+19,474,950,The Thin Man,Nick and Nora Charles,5.0539130434782615
+20,474,32160,Twentieth Century,In Netflix queue,4.979
+21,474,6020,Alice Adams,class,5.054285714285714
+22,474,8167,Captain Blood,swashbuckler,4.992857142857143
+23,474,1931,Mutiny on the Bounty,ships,5.134285714285714
+24,474,7132,A Night at the Opera,Marx brothers,4.845882352941176
+25,474,7132,A Night at the Opera,opera,4.952
+26,474,7053,Roberta,Astaire and Rogers,4.969090909090909
+27,474,6984,A Tale of Two Cities,Dickens,5.033333333333333
+28,474,945,Top Hat,Astaire and Rogers,4.969090909090909
+29,474,7834,After the Thin Man,Nick and Nora Charles,5.0539130434782615
+30,474,7050,Follow the Fleet,Astaire and Rogers,4.969090909090909
+31,474,25825,Fury,revenge,4.744615384615385
+32,474,3462,Modern Times,factory,4.805714285714286
+33,474,947,My Man Godfrey,butler,4.996666666666667
+34,474,947,My Man Godfrey,homeless,4.928333333333333
+35,474,947,My Man Godfrey,screwball,5.027272727272727
+36,474,7055,Swing Time,Astaire and Rogers,4.969090909090909
+37,474,6254,The Awful Truth,screwball,5.027272727272727
+38,474,3447,The Good Earth,Pearl S Buck,5.034285714285715
+39,474,944,Lost Horizon,Shangri-La,5.135555555555555
+40,567,8335,Make Way for Tomorrow,heartbreaking,4.953684210526316
+41,474,1066,Shall We Dance,Astaire and Rogers,4.969090909090909
+42,474,594,Snow White and the Seven Dwarfs,Disney,4.996
+43,474,25841,Stage Door,show business,5.045
+44,474,940,The Adventures of Robin Hood,swashbuckler,4.992857142857143
+45,474,955,Bringing Up Baby,leopard,4.965714285714285
+46,474,955,Bringing Up Baby,screwball,5.027272727272727
+47,357,7078,Jezebel,Bette Davis,4.925
+48,357,7078,Jezebel,Oscar (Best Actress),4.91030303030303
+49,474,7831,Another Thin Man,Nick and Nora Charles,5.0539130434782615
+50,474,7061,Dark Victory,terminal illness,5.153103448275862
+51,474,920,Gone with the Wind,Civil War,5.455
+52,474,7079,The Hunchback of Notre Dame,disability,5.4825
+53,474,954,Mr. Smith Goes to Washington,Politics,5.388888888888889
+54,474,936,Ninotchka,Cold War,4.996
+55,474,936,Ninotchka,Russia,5.262857142857143
+56,474,25855,The Roaring Twenties,In Netflix queue,4.979
+57,474,919,The Wizard of Oz,Dorothy,4.8425
+58,474,919,The Wizard of Oz,Toto,4.936
+59,474,927,The Women,divorce,4.922857142857143
+60,474,929,Foreign Correspondent,Europe,5.008
+61,474,929,Foreign Correspondent,journalism,5.1659999999999995
+62,474,929,Foreign Correspondent,war,4.960000000000001
+63,474,3095,The Grapes of Wrath,depression,4.95
+64,474,3095,The Grapes of Wrath,dust bowl,5.0075
+65,474,1281,The Great Dictator,Nazis,5.32
+66,474,951,His Girl Friday,Screwball,5.026000000000001
+67,474,25865,The Letter,In Netflix queue,4.979
+68,474,941,The Mark of Zorro,swashbuckler,4.992857142857143
+69,474,898,The Philadelphia Story,divorce,4.922857142857143
+70,474,596,Pinocchio,Disney,4.996
+71,474,928,Rebecca,Mrs. DeWinter,4.885
+72,474,3097,The Shop Around the Corner,remade,4.835
+73,474,7219,They Drive by Night,truckers,4.894
+74,474,923,Citizen Kane,Rosebud,4.966666666666667
+75,474,1029,Dumbo,Disney,4.996
+76,474,2935,The Lady Eve,gambling,5.0920000000000005
+77,474,4801,The Little Foxes,family,5.1033333333333335
+78,474,913,The Maltese Falcon,statue,4.984999999999999
+79,474,973,Meet John Doe,journalism,5.1659999999999995
+80,474,956,Penny Serenade,adoption,5.044
+81,474,7833,Shadow of the Thin Man,Nick and Nora Charles,5.0539130434782615
+82,474,2206,Suspicion,paranoia,5.192857142857143
+83,474,6912,You'll Never Get Rich,Rita Hayworth can dance!,5.014444444444445
+84,474,912,Casablanca,start of a beautiful friendship,5.092881355932204
+85,474,7713,Cat People,sexuality,5.106666666666666
+86,474,4920,"Now, Voyager",psychology,4.827142857142857
+87,474,2937,The Palm Beach Story,screwball,5.027272727272727
+88,474,25886,Random Harvest,made me cry,4.849230769230769
+89,474,6228,The Talk of the Town,In Netflix queue,4.979
+90,474,8765,This Gun for Hire,In Netflix queue,4.979
+91,474,7584,Woman of the Year,Hepburn and Tracy,4.915789473684211
+92,474,7584,Woman of the Year,marriage,5.06
+93,474,6856,Yankee Doodle Dandy,biopic,5.404999999999999
+94,474,2203,Shadow of a Doubt,small towns,5.075714285714286
+95,474,7479,Watch on the Rhine,World War II,4.915
+96,474,1269,Arsenic and Old Lace,murder,4.8925
+97,474,3435,Double Indemnity,Insurance,4.928
+98,474,906,Gaslight,Brooch,4.8742857142857146
+99,474,2202,Lifeboat,survival,5.042
+100,474,918,Meet Me in St. Louis,1900s,5.04
+101,474,7059,National Velvet,horses,4.9275
+102,474,4969,And Then There Were None,In Netflix queue,4.979
+103,474,1938,The Lost Weekend,alcoholism,5.122857142857143
+104,474,2612,Mildred Pierce,motherhood,4.886666666666666
+105,474,931,Spellbound,amnesia,5.168888888888889
+106,474,7832,The Thin Man Goes Home,Nick and Nora Charles,5.0539130434782615
+107,474,1284,The Big Sleep,Hammett,4.956
+108,474,2940,Gilda,nightclub,5.073333333333333
+109,474,953,It's a Wonderful Life,Christmas,5.08
+110,474,930,Notorious,assassination,5.158857142857143
+111,474,7728,The Postman Always Rings Twice,adultery,4.9475
+112,474,5601,The Yearling,Animal movie,5.257142857142857
+113,474,4184,The Bishop's Wife,Christmas,5.08
+114,474,1068,Crossfire,anti-Semitism,5.366666666666666
+115,474,7217,Dark Passage,amnesia,5.168888888888889
+116,474,1940,Gentleman's Agreement,anti-Semitism,5.366666666666666
+117,474,1940,Gentleman's Agreement,Judaism,5.249999999999999
+118,474,943,The Ghost and Mrs. Muir,ghosts,4.9625
+119,474,25940,The Lady from Shanghai,mirrors,4.923076923076923
+120,474,2066,Out of the Past,memory,4.897499999999999
+121,474,7835,Song of the Thin Man,Nick and Nora Charles,5.0539130434782615
+122,474,32371,Call Northside 777,In Netflix queue,4.979
+123,474,31030,I Remember Mama,motherhood,4.886666666666666
+124,474,8463,Johnny Belinda,deafness,4.871666666666666
+125,474,7070,Red River,cattle drive,4.902666666666666
+126,474,1254,The Treasure of the Sierra Madre,Cold,4.986666666666667
+127,474,7121,Adam's Rib,Hepburn and Tracy,4.915789473684211
+128,474,1942,All the King's Men,Huey Long,4.906666666666667
+129,474,1942,All the King's Men,In Netflix queue,4.979
+130,474,1942,All the King's Men,Robert Penn Warren,4.798709677419355
+131,474,7212,I Was a Male War Bride,cross dressing,4.982962962962964
+132,474,7212,I Was a Male War Bride,men in drag,4.969090909090909
+133,474,25952,A Letter to Three Wives,In Netflix queue,4.979
+134,474,8446,Sands of Iwo Jima,World War II,4.915
+135,474,926,All About Eve,Hollywood,4.98875
+136,474,3341,Born Yesterday,remade,4.835
+137,474,1022,Cinderella,Disney,4.996
+138,474,934,Father of the Bride,wedding,4.904444444444445
+139,474,6273,In a Lonely Place,L.A.,
+140,474,969,The African Queen,missionary,5.227142857142858
+141,474,1032,Alice in Wonderland,Disney,4.996
+142,474,900,An American in Paris,France,4.851999999999999
+143,474,1253,The Day the Earth Stood Still,aliens,5.170000000000001
+144,474,3475,A Place in the Sun,class,5.054285714285714
+145,474,6181,The Red Badge of Courage,Civil War,5.455
+146,474,6181,The Red Badge of Courage,Stephen Crane,4.804444444444444
+147,474,2186,Strangers on a Train,murder,4.8925
+148,474,1104,A Streetcar Named Desire,Tennessee Williams,5.006666666666667
+149,474,2660,The Thing from Another World,aliens,5.170000000000001
+150,474,5114,The Bad and the Beautiful,movie business,5.120869565217391
+151,474,8875,"Come Back, Little Sheba",alcoholism,5.122857142857143
+152,474,8875,"Come Back, Little Sheba",marriage,5.06
+153,474,1283,High Noon,gunfight,5.03
+154,474,3559,Limelight,In Netflix queue,4.979
+155,474,7705,Pat and Mike,Hepburn and Tracy,4.915789473684211
+156,474,7705,Pat and Mike,sports,4.9750000000000005
+157,474,899,Singin' in the Rain,movie business,5.120869565217391
+158,474,970,Beat the Devil,crime,5.036
+159,474,4356,Gentlemen Prefer Blondes,In Netflix queue,4.979
+160,474,2939,Niagara,In Netflix queue,4.979
+161,474,916,Roman Holiday,Italy,4.960000000000001
+162,474,916,Roman Holiday,royalty,4.78
+163,573,2662,The War of the Worlds,classic,5.036363636363636
+164,474,8337,The Caine Mutiny,military,5.336
+165,474,8920,The Country Girl,Oscar (Best Actress),4.91030303030303
+166,474,1945,On the Waterfront,boxing,5.066666666666667
+167,474,1945,On the Waterfront,coulda been a contender,4.84
+168,474,904,Rear Window,voyeurism,5.015555555555555
+169,477,904,Rear Window,imdb top 250,5.057142857142857
+170,477,904,Rear Window,James Stewart,4.93375
+171,477,904,Rear Window,mystery,4.706666666666667
+172,477,904,Rear Window,photographer,4.907
+173,477,904,Rear Window,photography,4.915294117647059
+174,474,915,Sabrina,rich guy - poor girl,5.042222222222222
+175,474,6785,Seven Brides for Seven Brothers,Lonesome Polecat,4.8839999999999995
+176,474,3675,White Christmas,Christmas,5.08
+177,474,8094,Bad Day at Black Rock,In Netflix queue,4.979
+178,474,3549,Guys and Dolls,Gambling,5.1571428571428575
+179,474,2080,Lady and the Tramp,Disney,4.996
+180,474,7013,The Night of the Hunter,good and evil,4.953333333333333
+181,474,7614,Oklahoma!,Rogers and Hammerstein,4.93
+182,474,1103,Rebel Without a Cause,1950s,5.04
+183,474,1103,Rebel Without a Cause,adolescence,4.807368421052631
+184,474,4359,The Seven Year Itch,adultery,4.9475
+185,474,6516,Anastasia,In Netflix queue,4.979
+186,474,2967,The Bad Seed,evil children,5.12
+187,474,1301,Forbidden Planet,Shakespeare sort of,4.896666666666666
+188,474,1301,Forbidden Planet,space,4.952
+189,474,4046,Friendly Persuasion,Quakers,5.05
+190,474,948,Giant,oil,5.386666666666667
+191,474,2664,Invasion of the Body Snatchers,1950s,5.04
+192,474,2726,The Killing,heist,5.064
+193,474,2565,The King and I,Siam,5.406666666666666
+194,474,8153,Lust for Life,Van Gogh,4.952
+195,474,1203,12 Angry Men,court,4.96
+196,567,1203,12 Angry Men,claustrophobic,4.997777777777778
+197,567,1203,12 Angry Men,confrontational,4.956774193548388
+198,567,1203,12 Angry Men,earnest,4.844444444444445
+199,567,1203,12 Angry Men,good dialogue,4.998181818181818
+200,567,1203,12 Angry Men,great screenplay,4.8688
+201,567,1203,12 Angry Men,gritty,4.9350000000000005
+202,567,1203,12 Angry Men,Motivational,5.189473684210526
+203,567,1203,12 Angry Men,thought-provoking,4.954285714285715
+204,474,6970,Desk Set,Hepburn and Tracy,4.915789473684211
+205,474,1178,Paths of Glory,court,4.96
+206,474,1178,Paths of Glory,military,5.336
+207,474,6390,Silk Stockings,Ninotchka remake,4.986
+208,474,7493,The Three Faces of Eve,multiple personalities,5.187111111111111
+209,474,5008,Witness for the Prosecution,Agatha Christie,5.134
+210,474,5008,Witness for the Prosecution,court,4.96
+211,474,3548,Auntie Mame,1920s,5.04
+212,474,971,Cat on a Hot Tin Roof,Tennessee Williams,5.006666666666667
+213,474,4998,The Defiant Ones,racism,5.123333333333334
+214,474,938,Gigi,prostitution,5.104545454545454
+215,474,903,Vertigo,falling,5.1866666666666665
+216,477,903,Vertigo,Alfred Hitchcock,4.840000000000001
+217,477,903,Vertigo,Atmospheric,4.9879999999999995
+218,477,903,Vertigo,imdb top 250,5.057142857142857
+219,477,903,Vertigo,James Stewart,4.93375
+220,474,3801,Anatomy of a Murder,court,4.96
+221,474,6031,Imitation of Life,motherhood,4.886666666666666
+222,474,6031,Imitation of Life,race,4.859999999999999
+223,474,908,North by Northwest,Mount Rushmore,5.065333333333332
+224,477,908,North by Northwest,Alfred Hitchcock,4.840000000000001
+225,477,908,North by Northwest,imdb top 250,5.057142857142857
+226,474,910,Some Like It Hot,men in drag,4.969090909090909
+227,474,909,The Apartment,adultery,4.9475
+228,474,4190,Elmer Gantry,preacher,4.816666666666666
+229,474,4190,Elmer Gantry,religion,5.318
+230,474,3469,Inherit the Wind,court,4.96
+231,474,3469,Inherit the Wind,evolution,5.054545454545454
+232,474,3469,Inherit the Wind,religion,5.318
+233,424,1219,Psycho,Alfred Hitchcock,4.840000000000001
+234,424,1219,Psycho,psychology,4.827142857142857
+235,424,1219,Psycho,suspenseful,5.053333333333334
+236,424,1219,Psycho,tense,4.797142857142857
+237,474,1219,Psycho,Norman Bates,5.016363636363637
+238,477,1219,Psycho,Alfred Hitchcock,4.840000000000001
+239,477,1219,Psycho,black and white,5.030666666666667
+240,477,1219,Psycho,imdb top 250,5.057142857142857
+241,477,1219,Psycho,remade,4.835
+242,474,2728,Spartacus,crucifixion,5.353684210526316
+243,474,2728,Spartacus,Rome,4.913333333333333
+244,474,2728,Spartacus,slavery,4.885714285714286
+245,474,902,Breakfast at Tiffany's,Capote,4.964
+246,474,3468,The Hustler,pool,5.03
+247,474,6579,"One, Two, Three",Japan,5.14
+248,474,1013,The Parent Trap,twins,5.095999999999999
+249,474,3330,Splendor in the Grass,adolescence,4.807368421052631
+250,474,3330,Splendor in the Grass,sexuality,5.106666666666666
+251,474,1947,West Side Story,Gangs,5.01
+252,474,7062,Birdman of Alcatraz,birds,5.06
+253,474,7062,Birdman of Alcatraz,prison,5.096666666666667
+254,474,1344,Cape Fear,lawyer,4.8933333333333335
+255,474,4263,Days of Wine and Roses,alcoholism,5.122857142857143
+256,474,1204,Lawrence of Arabia,Middle East,4.992
+257,474,1267,The Manchurian Candidate,assassination,5.158857142857143
+258,474,1267,The Manchurian Candidate,brainwashing,5.176666666666667
+259,474,26085,Mutiny on the Bounty,Not available from Netflix,5.09906976744186
+260,474,1207,To Kill a Mockingbird,Harper Lee,4.793333333333333
+261,474,1207,To Kill a Mockingbird,racism,5.123333333333334
+262,474,3546,What Ever Happened to Baby Jane?,show business,5.045
+263,474,1333,The Birds,birds,5.06
+264,474,911,Charade,heist,5.064
+265,474,1262,The Great Escape,POW,
+266,474,2550,The Haunting,ghosts,4.9625
+267,474,6662,The Pink Panther,Clousseau,5.203333333333333
+268,474,1025,The Sword in the Stone,Disney,4.996
+269,474,1025,The Sword in the Stone,King Arthur,4.996
+270,474,8190,The Americanization of Emily,In Netflix queue,4.979
+271,435,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,dark comedy,4.8183333333333325
+272,474,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Atomic bomb,4.993333333333334
+273,477,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,black comedy,4.8538461538461535
+274,477,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,dark comedy,4.8183333333333325
+275,477,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,satire,5.09
+276,513,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,purity of essence,4.885217391304347
+277,513,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Slim Pickens,5.3
+278,567,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,black comedy,4.8538461538461535
+279,567,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,dark comedy,4.8183333333333325
+280,567,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Quirky,5.140000000000001
+281,474,1028,Mary Poppins,Disney,4.996
+282,474,1028,Mary Poppins,nanny,4.827272727272727
+283,474,914,My Fair Lady,George Bernard Shaw,4.841428571428572
+284,474,7073,A Shot in the Dark,Clousseau,5.203333333333333
+285,474,5802,The World of Henry Orient,teenagers,4.809333333333333
+286,474,6178,A Patch of Blue,blind,5.116
+287,474,6178,A Patch of Blue,blindness,4.993846153846154
+288,474,6178,A Patch of Blue,race,4.859999999999999
+289,474,6422,Shenandoah,Civil War,5.455
+290,474,1035,The Sound of Music,Rogers and Hammerstein,4.93
+291,474,8796,A Funny Thing Happened on the Way to the Forum,Rome,4.913333333333333
+292,474,8033,How to Steal a Million,In Netflix queue,4.979
+293,474,1084,Bonnie and Clyde,1920s,5.04
+294,474,1084,Bonnie and Clyde,gangsters,4.947692307692307
+295,474,7714,Camelot,King Arthur,4.996
+296,474,1276,Cool Hand Luke,prison,5.096666666666667
+297,474,1247,The Graduate,Simon and Garfunkel,4.997391304347826
+298,474,3451,Guess Who's Coming to Dinner,Hepburn and Tracy,4.915789473684211
+299,474,3451,Guess Who's Coming to Dinner,interracial marriage,5.139607843137255
+300,474,3451,Guess Who's Coming to Dinner,prejudice,4.965454545454546
+301,474,3451,Guess Who's Coming to Dinner,racism,5.123333333333334
+302,474,6852,In Cold Blood,black and white,5.030666666666667
+303,474,6852,In Cold Blood,Capote,4.964
+304,474,6852,In Cold Blood,crime,5.036
+305,474,6852,In Cold Blood,death penalty,4.908888888888889
+306,474,6852,In Cold Blood,murder,4.8925
+307,474,1950,In the Heat of the Night,racism,5.123333333333334
+308,474,3028,The Taming of the Shrew,Shakespeare,4.895555555555556
+309,474,6639,Wait Until Dark,blindness,4.993846153846154
+310,474,968,Night of the Living Dead,zombies,5.088571428571428
+311,474,3507,The Odd Couple,In Netflix queue,4.979
+312,474,2529,Planet of the Apes,twist ending,5.094117647058823
+313,424,2160,Rosemary's Baby,Atmospheric,4.9879999999999995
+314,424,2160,Rosemary's Baby,creepy,4.737500000000001
+315,424,2160,Rosemary's Baby,paranoia,5.192857142857143
+316,424,2160,Rosemary's Baby,scary,4.848
+317,424,2160,Rosemary's Baby,suspense,4.977500000000001
+318,474,2160,Rosemary's Baby,demons,4.886666666666666
+319,474,1304,Butch Cassidy and the Sundance Kid,crime,5.036
+320,474,6732,"Hello, Dolly!",matchmaker,5.002857142857144
+321,474,1952,Midnight Cowboy,prostitution,5.104545454545454
+322,474,6245,Sweet Charity,prostitution,5.104545454545454
+323,474,3011,"They Shoot Horses, Don't They?",dance marathon,5.0009523809523815
+324,474,616,The Aristocats,Disney,4.996
+325,474,4296,Love Story,death,4.864
+326,474,1272,Patton,World War II,4.915
+327,474,26242,Duel,In Netflix queue,4.979
+328,474,4857,Fiddler on the Roof,Judaism,5.249999999999999
+329,474,4857,Fiddler on the Roof,Tradition!,5.304
+330,474,1953,The French Connection,drugs,5.0
+331,474,1953,The French Connection,police,5.1066666666666665
+332,474,1235,Harold and Maude,May-December romance,4.8261111111111115
+333,474,3152,The Last Picture Show,black-and-white,5.030666666666667
+334,474,5353,Butterflies Are Free,blind,5.116
+335,474,1082,The Candidate,politics,5.356
+336,474,2871,Deliverance,river,4.917142857142857
+337,474,858,The Godfather,Mafia,5.253333333333333
+338,474,1997,The Exorcist,demons,4.886666666666666
+339,474,6724,Paper Moon,In Netflix queue,4.979
+340,474,3735,Serpico,police,5.1066666666666665
+341,474,1234,The Sting,The Entertainer,4.841666666666667
+342,474,31923,The Three Musketeers,In Netflix queue,4.979
+343,474,8838,Alice Doesn't Live Here Anymore,In Netflix queue,4.979
+344,567,3671,Blazing Saddles,dark humor,4.947272727272727
+345,567,3671,Blazing Saddles,easygoing,4.994545454545456
+346,567,3671,Blazing Saddles,silly,5.222857142857143
+347,474,1252,Chinatown,incest,5.006666666666667
+348,474,3730,The Conversation,spying,5.043333333333333
+349,474,7792,The Parallax View,In Netflix queue,4.979
+350,474,3384,The Taking of Pelham One Two Three,subway,4.996666666666667
+351,474,7071,A Woman Under the Influence,In Netflix queue,4.979
+352,474,1278,Young Frankenstein,spoof,4.9399999999999995
+353,474,1387,Jaws,Shark,4.955
+354,474,1303,The Man Who Would Be King,India,5.175
+355,424,1193,One Flew Over the Cuckoo's Nest,emotional,5.065454545454545
+356,424,1193,One Flew Over the Cuckoo's Nest,jack nicholson,4.960000000000001
+357,474,1193,One Flew Over the Cuckoo's Nest,mental illness,5.0760000000000005
+358,474,6787,All the President's Men,journalism,5.1659999999999995
+359,474,6787,All the President's Men,Watergate,4.922857142857142
+360,513,6787,All the President's Men,Deep Throat,4.856
+361,474,5139,The Bad News Bears,baseball,5.085714285714286
+362,474,1345,Carrie,high school,4.9399999999999995
+363,474,1345,Carrie,prom,4.965
+364,474,1345,Carrie,Stephen King,4.901538461538461
+365,474,3504,Network,journalism,5.1659999999999995
+366,474,1350,The Omen,demons,4.886666666666666
+367,474,1954,Rocky,boxing,5.066666666666667
+368,474,1954,Rocky,sports,4.9750000000000005
+369,474,111,Taxi Driver,assassination,5.158857142857143
+370,474,1230,Annie Hall,New York,4.864
+371,474,3676,Eraserhead,In Netflix queue,4.979
+372,567,3676,Eraserhead,art house,4.9875
+373,567,3676,Eraserhead,Atmospheric,4.9879999999999995
+374,567,3676,Eraserhead,creepy,4.737500000000001
+375,567,3676,Eraserhead,cryptic,4.875555555555555
+376,567,3676,Eraserhead,dark,4.9350000000000005
+377,567,3676,Eraserhead,disturbing,5.265000000000001
+378,567,3676,Eraserhead,dreamlike,4.989090909090909
+379,567,3676,Eraserhead,enigmatic,5.2727272727272725
+380,567,3676,Eraserhead,fucked up,5.092
+381,567,3676,Eraserhead,gruesome,4.917999999999999
+382,567,3676,Eraserhead,hallucinatory,5.1117647058823525
+383,567,3676,Eraserhead,Insane,4.897142857142858
+384,567,3676,Eraserhead,paranoid,5.122
+385,567,3676,Eraserhead,strange,4.911428571428572
+386,567,3676,Eraserhead,surreal,4.9911111111111115
+387,567,3676,Eraserhead,weird,5.0
+388,474,3724,Coming Home,Vietnam,5.1
+389,474,1263,The Deer Hunter,Vietnam,5.1
+390,474,1380,Grease,high school,4.9399999999999995
+391,474,4316,Ice Castles,figure skating,5.178823529411765
+392,474,2116,The Lord of the Rings,Tolkein,5.116666666666666
+393,573,2116,The Lord of the Rings,classic,5.036363636363636
+394,474,3498,Midnight Express,In Netflix queue,4.979
+395,474,2640,Superman,superhero,4.875384615384616
+396,474,1214,Alien,aliens,5.170000000000001
+397,474,3420,...And Justice for All,lawyers,4.914285714285714
+398,474,1208,Apocalypse Now,Vietnam,5.1
+399,474,1292,Being There,television,5.154285714285714
+400,474,6170,The Black Stallion,horses,4.9275
+401,474,3135,The Great Santini,fatherhood,4.855714285714285
+402,474,1955,Kramer vs. Kramer,divorce,4.922857142857143
+403,474,1244,Manhattan,black and white,5.030666666666667
+404,474,4292,Norma Rae,Union,5.026666666666667
+405,474,2791,Airplane!,aviation,5.326666666666667
+406,474,2791,Airplane!,spoof,4.9399999999999995
+407,474,2313,The Elephant Man,freaks,4.903333333333333
+408,474,1135,Private Benjamin,military,5.336
+409,474,1228,Raging Bull,boxing,5.066666666666667
+410,424,1258,The Shining,atmospheric,5.010909090909091
+411,424,1258,The Shining,disturbing,5.265000000000001
+412,424,1258,The Shining,Horror,4.835384615384616
+413,424,1258,The Shining,jack nicholson,4.960000000000001
+414,424,1258,The Shining,masterpiece,4.889411764705882
+415,424,1258,The Shining,psychological,5.012631578947369
+416,424,1258,The Shining,Stanley Kubrick,5.011666666666667
+417,424,1258,The Shining,suspense,4.977500000000001
+418,474,1258,The Shining,Stephen King,4.901538461538461
+419,474,2641,Superman II,superhero,4.875384615384616
+420,474,4396,The Cannonball Run,race,4.859999999999999
+421,474,5721,The Chosen,In Netflix queue,4.979
+422,474,5721,The Chosen,Judaism,5.249999999999999
+423,474,4105,The Evil Dead,zombies,5.088571428571428
+424,474,2872,Excalibur,England,4.9325
+425,474,2872,Excalibur,King Arthur,4.996
+426,474,1033,The Fox and the Hound,Disney,4.996
+427,474,1975,Friday the 13th Part 2,Jason,5.015000000000001
+428,474,1983,Halloween II,halloween,4.975384615384616
+429,474,1124,On Golden Pond,aging,5.105714285714286
+430,424,1198,Raiders of the Lost Ark,adventure,4.859999999999999
+431,424,1198,Raiders of the Lost Ark,archaeology,4.966666666666667
+432,424,1198,Raiders of the Lost Ark,indiana jones,5.113636363636363
+433,424,1198,Raiders of the Lost Ark,Steven Spielberg,4.8264
+434,424,1198,Raiders of the Lost Ark,treasure hunt,4.9670000000000005
+435,474,1198,Raiders of the Lost Ark,archaeology,4.966666666666667
+436,474,1198,Raiders of the Lost Ark,ark of the covenant,4.88076923076923
+437,474,1198,Raiders of the Lost Ark,indiana jones,5.113636363636363
+438,474,1663,Stripes,military,5.336
+439,424,541,Blade Runner,sci-fi,5.437142857142858
+440,474,541,Blade Runner,robots,4.9175
+441,477,541,Blade Runner,androids,4.964
+442,477,541,Blade Runner,artificial intelligence,5.3348387096774195
+443,477,541,Blade Runner,atmospheric,5.010909090909091
+444,477,541,Blade Runner,cyberpunk,4.88
+445,477,541,Blade Runner,future,5.1325
+446,477,541,Blade Runner,mindfuck,5.047499999999999
+447,477,541,Blade Runner,Philip K. Dick,5.579999999999999
+448,567,541,Blade Runner,atmospheric,5.010909090909091
+449,567,541,Blade Runner,dreamlike,4.989090909090909
+450,567,541,Blade Runner,existentialism,5.269230769230769
+451,567,541,Blade Runner,philosophical,5.176521739130435
+452,474,3210,Fast Times at Ridgemont High,high school,4.9399999999999995
+453,474,1293,Gandhi,India,5.175
+454,474,1381,Grease 2,high school,4.9399999999999995
+455,474,1984,Halloween III: Season of the Witch,halloween,4.975384615384616
+456,474,6090,Kiss Me Goodbye,ghosts,4.9625
+457,474,6101,Missing,Chile,5.18
+458,474,6101,Missing,politics,5.356
+459,474,6101,Missing,South America,5.054
+460,474,921,My Favorite Year,television,5.154285714285714
+461,474,1994,Poltergeist,ghosts,4.9625
+462,474,2410,Rocky III,boxing,5.066666666666667
+463,474,2139,The Secret of NIMH,mice,5.1
+464,474,1096,Sophie's Choice,Holocaust,5.046
+465,474,1374,Star Trek II: The Wrath of Khan,Captain Kirk,5.318461538461539
+466,474,4361,Tootsie,men in drag,4.969090909090909
+467,474,2517,Christine,Stephen King,4.901538461538461
+468,474,2804,A Christmas Story,Christmas,5.08
+469,474,2121,Cujo,Stephen King,4.901538461538461
+470,474,2118,The Dead Zone,Stephen King,4.901538461538461
+471,474,4204,Losin' It,virginity,5.453333333333333
+472,474,2114,The Outsiders,S.E. Hinton,5.0
+473,474,1231,The Right Stuff,NASA,
+474,474,1231,The Right Stuff,space,4.952
+475,474,2915,Risky Business,prostitution,5.104545454545454
+476,424,4262,Scarface,Al Pacino,5.153333333333333
+477,474,4809,Silkwood,Nuclear disaster,5.004545454545454
+478,474,4809,Silkwood,union,5.097142857142857
+479,474,2097,Something Wicked This Way Comes,carnival,5.112
+480,474,2097,Something Wicked This Way Comes,Ray Bradbury,4.872
+481,606,5694,Staying Alive,70mm,5.06
+482,474,2642,Superman III,superhero,4.875384615384616
+483,474,2070,Tender Mercies,music,5.248
+484,474,3039,Trading Places,class,5.054285714285714
+485,520,3039,Trading Places,Dan Aykroyd,4.744
+486,474,6979,WarGames,Cold War,4.996
+487,474,5012,Yentl,cross dressing,4.982962962962964
+488,474,5012,Yentl,Judaism,5.249999999999999
+489,474,7934,Zelig,psychology,4.827142857142857
+490,474,1225,Amadeus,Mozart,4.9799999999999995
+491,474,1225,Amadeus,Salieri,5.4625
+492,474,3683,Blood Simple,Coen Brothers,4.83375
+493,474,7983,Broadway Danny Rose,show business,5.045
+494,474,2122,Children of the Corn,Stephen King,4.901538461538461
+495,474,2716,Ghostbusters,ghosts,4.9625
+496,474,2115,Indiana Jones and the Temple of Doom,archaeology,4.966666666666667
+497,474,2420,The Karate Kid,martial arts,5.092380952380952
+498,474,3098,The Natural,baseball,5.085714285714286
+499,474,3098,The Natural,sports,4.9750000000000005
+500,474,7087,A Passage to India,E.M. Forster,4.835
+501,474,3111,Places in the Heart,racism,5.123333333333334
+502,474,8266,Purple Rain,Prince,4.9879999999999995
+503,474,4214,Revenge of the Nerds,college,4.963636363636364
+504,474,2100,Splash,mermaid,5.068888888888889
+505,474,3877,Supergirl,superhero,4.875384615384616
+506,424,1240,The Terminator,Action,5.048
+507,424,1240,The Terminator,artificial intelligence,5.3348387096774195
+508,424,1240,The Terminator,robots,4.9175
+509,424,1240,The Terminator,Sci-Fi,5.676
+510,424,1240,The Terminator,special effects,4.859230769230769
+511,424,1240,The Terminator,tense,4.797142857142857
+512,424,1240,The Terminator,time travel,4.941428571428572
+513,474,1240,The Terminator,robots,4.9175
+514,327,1288,This Is Spinal Tap,music,5.248
+515,474,1288,This Is Spinal Tap,heavy metal,4.925714285714286
+516,474,1288,This Is Spinal Tap,mockumentary,4.95
+517,474,1288,This Is Spinal Tap,music,5.248
+518,474,1270,Back to the Future,time travel,4.941428571428572
+519,474,2787,Cat's Eye,Stephen King,4.901538461538461
+520,474,6786,Kiss of the Spider Woman,In Netflix queue,4.979
+521,474,8880,Mask,disability,5.4825
+522,474,6744,Once Bitten,vampire,5.062857142857142
+523,474,1959,Out of Africa,adultery,4.9475
+524,474,1959,Out of Africa,Africa,5.056
+525,474,2411,Rocky IV,boxing,5.066666666666667
+526,356,2146,St. Elmo's Fire,post-college,4.965882352941176
+527,474,6636,The Sure Thing,road trip,4.986
+528,474,3385,Volunteers,Peace Corp,4.846666666666667
+529,474,1674,Witness,Amish,5.205
+530,424,1200,Aliens,action,5.079999999999999
+531,424,1200,Aliens,aliens,5.170000000000001
+532,424,1200,Aliens,horror,4.832857142857143
+533,424,1200,Aliens,sci-fi,5.437142857142858
+534,424,1200,Aliens,space,4.952
+535,424,1200,Aliens,space craft,4.917142857142857
+536,424,1200,Aliens,SPACE TRAVEL,
+537,424,1200,Aliens,suspense,4.977500000000001
+538,474,1200,Aliens,space,4.952
+539,474,2076,Blue Velvet,sexuality,5.106666666666666
+540,474,2076,Blue Velvet,suburbia,5.201666666666667
+541,474,2312,Children of a Lesser God,death penalty,4.908888888888889
+542,474,2918,Ferris Bueller's Day Off,High School,4.989999999999999
+543,474,1979,Friday the 13th Part VI: Jason Lives,Jason,5.015000000000001
+544,474,6993,Hannah and Her Sisters,family,5.1033333333333335
+545,474,3360,Hoosiers,basketball,5.065
+546,474,6308,Legal Eagles,lawyers,4.914285714285714
+547,474,4210,Manhunter,Hannibal Lecter,4.971111111111111
+548,474,4210,Manhunter,serial killer,5.1866666666666665
+549,474,2745,The Mission,Missionary,5.24
+550,474,2745,The Mission,Priest,5.0600000000000005
+551,474,1090,Platoon,Vietnam,5.1
+552,474,1995,Poltergeist II: The Other Side,ghosts,4.9625
+553,474,2145,Pretty in Pink,1980s,5.04
+554,474,2145,Pretty in Pink,high school,4.9399999999999995
+555,474,4218,River's Edge,In Netflix queue,4.979
+556,474,2463,Ruthless People,kidnapping,5.19375
+557,474,4545,Short Circuit,robots,4.9175
+558,474,4812,SpaceCamp,NASA,
+559,474,4812,SpaceCamp,space,4.952
+560,474,1259,Stand by Me,Stephen King,4.901538461538461
+561,474,1376,Star Trek IV: The Voyage Home,whales,4.99
+562,289,1101,Top Gun,predictable,4.943076923076922
+563,474,1101,Top Gun,Navy,4.793333333333334
+564,474,5404,84 Charing Cross Road,books,4.96
+565,474,2243,Broadcast News,journalism,5.1659999999999995
+566,474,1088,Dirty Dancing,dance,4.84
+567,474,1088,Dirty Dancing,music,5.248
+568,474,3101,Fatal Attraction,adultery,4.9475
+569,474,1222,Full Metal Jacket,Vietnam,5.1
+570,477,1222,Full Metal Jacket,anti-war,5.131111111111111
+571,474,4113,The Glass Menagerie,Tennessee Williams,5.006666666666667
+572,474,8382,Hello Again,death,4.864
+573,474,4117,Hope and Glory,In Netflix queue,4.979
+574,474,3072,Moonstruck,New York,4.864
+575,424,3527,Predator,aliens,5.170000000000001
+576,424,3527,Predator,sci-fi,5.437142857142858
+577,424,3527,Predator,scifi cult,5.2153846153846155
+578,477,3527,Predator,aliens,5.170000000000001
+579,477,3527,Predator,Arnold Schwarzenegger,4.828823529411765
+580,477,3527,Predator,dialogue,5.1625
+581,477,3527,Predator,guns,5.08
+582,477,3527,Predator,Jesse Ventura,4.88
+583,477,3527,Predator,macho,4.952
+584,477,3527,Predator,sci-fi,5.437142857142858
+585,477,3527,Predator,scifi cult,5.2153846153846155
+586,474,1197,The Princess Bride,Inigo Montoya,4.963333333333334
+587,474,1197,The Princess Bride,six-fingered man,5.059
+588,474,2750,Radio Days,nostalgia,5.16
+589,474,2750,Radio Days,radio,5.1240000000000006
+590,474,1394,Raising Arizona,Coen Brothers,4.83375
+591,474,4333,Throw Momma from the Train,Strangers on a Train,4.96909090909091
+592,474,2194,The Untouchables,Capone,4.96
+593,474,2194,The Untouchables,gangsters,4.947692307692307
+594,474,4007,Wall Street,business,5.0842857142857145
+595,474,4465,The Accused,rape,4.949999999999999
+596,474,2797,Big,children,4.9675
+597,474,4476,Big Business,twins,5.095999999999999
+598,474,4489,Coming to America,Africa,5.056
+599,474,4489,Coming to America,immigrants,5.255714285714285
+600,474,4495,Crossing Delancey,New York,4.864
+601,474,3211,A Cry in the Dark,a dingo ate my baby,4.976800000000001
+602,474,3211,A Cry in the Dark,Australia,5.234
+603,474,2020,Dangerous Liaisons,adultery,4.9475
+604,474,1079,A Fish Called Wanda,fish,5.1
+605,474,5690,Grave of the Fireflies,made me cry,4.849230769230769
+606,474,5690,Grave of the Fireflies,orphans,4.957142857142857
+607,567,5690,Grave of the Fireflies,beautiful,5.232727272727273
+608,567,5690,Grave of the Fireflies,downbeat,4.875
+609,567,5690,Grave of the Fireflies,grim,5.175000000000001
+610,567,5690,Grave of the Fireflies,poignant,5.024
+611,567,5690,Grave of the Fireflies,tear jerker,4.800909090909091
+612,567,5690,Grave of the Fireflies,tragedy,4.817142857142857
+613,567,5690,Grave of the Fireflies,tragic,5.07
+614,474,5690,Grave of the Fireflies,made me cry,4.849230769230769
+615,474,5690,Grave of the Fireflies,orphans,4.957142857142857
+616,567,5690,Grave of the Fireflies,beautiful,5.232727272727273
+617,567,5690,Grave of the Fireflies,downbeat,4.875
+618,567,5690,Grave of the Fireflies,grim,5.175000000000001
+619,567,5690,Grave of the Fireflies,poignant,5.024
+620,567,5690,Grave of the Fireflies,tear jerker,4.800909090909091
+621,567,5690,Grave of the Fireflies,tragedy,4.817142857142857
+622,567,5690,Grave of the Fireflies,tragic,5.07
+623,474,2022,The Last Temptation of Christ,Bible,5.1899999999999995
+624,474,2022,The Last Temptation of Christ,Katzanzakis,5.172222222222222
+625,474,2247,Married to the Mob,Mafia,5.253333333333333
+626,474,4326,Mississippi Burning,race,4.859999999999999
+627,474,4326,Mississippi Burning,rasicm,5.123333333333334
+628,474,4526,My Stepmother Is an Alien,aliens,5.170000000000001
+629,474,1996,Poltergeist III,ghosts,4.9625
+630,474,4012,Punchline,stand-up comedy,4.888000000000001
+631,474,1961,Rain Man,autism,5.27
+632,474,4537,Running on Empty,hippies,5.316363636363636
+633,474,3087,Scrooged,christmas,5.045454545454546
+634,474,3087,Scrooged,new york,4.802857142857143
+635,474,3071,Stand and Deliver,high school,4.9399999999999995
+636,474,4558,Twins,twins,5.095999999999999
+637,474,2011,Back to the Future Part II,time travel,4.941428571428572
+638,474,592,Batman,superhero,4.875384615384616
+639,336,1246,Dead Poets Society,highschool,4.9399999999999995
+640,474,1246,Dead Poets Society,High School,4.989999999999999
+641,474,3424,Do the Right Thing,racism,5.123333333333334
+642,567,3424,Do the Right Thing,great cinematography,4.972121212121212
+643,474,1962,Driving Miss Daisy,rasicm,5.123333333333334
+644,474,1302,Field of Dreams,baseball,5.085714285714286
+645,474,2717,Ghostbusters II,Ghosts,4.965714285714285
+646,474,1242,Glory,Civil War,5.455
+647,474,4600,Gross Anatomy,doctors,4.88
+648,474,1285,Heathers,high school,4.9399999999999995
+649,474,2054,"Honey, I Shrunk the Kids",Disney,4.996
+650,474,1291,Indiana Jones and the Last Crusade,archaeology,4.966666666666667
+651,474,1291,Indiana Jones and the Last Crusade,Holy Grail,5.166666666666667
+652,474,4621,Look Who's Talking,babies,5.035
+653,474,4623,Major League,baseball,5.085714285714286
+654,474,6454,Music Box,Nazis,5.32
+655,474,3526,Parenthood,families,5.366
+656,474,3844,Steel Magnolias,diabetes,4.948
+657,474,4678,UHF,television,5.154285714285714
+658,474,2699,Arachnophobia,spiders,5.04
+659,474,4174,Avalon,In Netflix queue,4.979
+660,474,590,Dances with Wolves,American Indians,5.0886956521739135
+661,474,590,Dances with Wolves,Native Americans,5.127368421052631
+662,327,2616,Dick Tracy,comic book,4.956470588235294
+663,474,2291,Edward Scissorhands,freaks,4.903333333333333
+664,474,587,Ghost,overrated,4.8015384615384615
+665,474,1213,Goodfellas,Mafia,5.253333333333333
+666,474,6238,Green Card,immigrants,5.255714285714285
+667,474,1179,The Grifters,crime,5.036
+668,474,586,Home Alone,christmas,5.045454545454546
+669,474,1610,The Hunt for Red October,Tom Clancy,4.934285714285714
+670,474,1245,Miller's Crossing,Mafia,5.253333333333333
+671,424,3499,Misery,claustrophobic,4.997777777777778
+672,424,3499,Misery,horror,4.832857142857143
+673,424,3499,Misery,scary,4.848
+674,424,3499,Misery,stephen king,4.917333333333334
+675,424,3499,Misery,suspenseful,5.053333333333334
+676,424,3499,Misery,tense,4.797142857142857
+677,424,3499,Misery,thriller,5.043333333333333
+678,474,2249,My Blue Heaven,Mafia,5.253333333333333
+679,474,7018,Presumed Innocent,court,4.96
+680,474,7018,Presumed Innocent,Scott Turow,4.921666666666667
+681,474,597,Pretty Woman,prostitution,5.104545454545454
+682,474,4211,Reversal of Fortune,von Bulow,4.997777777777778
+683,474,2412,Rocky V,boxing,5.066666666666667
+684,62,2124,The Addams Family,black comedy,4.8538461538461535
+685,62,2124,The Addams Family,Christina Ricci,5.501538461538463
+686,62,2124,The Addams Family,Christopher Lloyd,4.911
+687,62,2124,The Addams Family,Family,5.196
+688,62,2124,The Addams Family,gothic,5.026666666666666
+689,62,2124,The Addams Family,quirky,5.05
+690,474,6440,Barton Fink,movie business,5.120869565217391
+691,474,595,Beauty and the Beast,Disney,4.996
+692,424,1343,Cape Fear,horror,4.832857142857143
+693,424,1343,Cape Fear,Juliette Lewis,5.058095238095238
+694,424,1343,Cape Fear,Martin Scorsese,4.924444444444444
+695,424,1343,Cape Fear,Robert De Niro,4.896
+696,474,1343,Cape Fear,remake,4.87
+697,474,3060,The Commitments,In Netflix queue,4.979
+698,474,3044,Dead Again,memory,4.897499999999999
+699,474,3044,Dead Again,music,5.248
+700,474,6027,Dogfight,In Netflix queue,4.979
+701,474,1093,The Doors,1960s,5.04
+702,474,1093,The Doors,Jim Morrison,5.1706666666666665
+703,474,1093,The Doors,music,5.248
+704,474,6944,Father of the Bride,remake,4.87
+705,474,6944,Father of the Bride,wedding,4.904444444444445
+706,474,3108,The Fisher King,homeless,4.928333333333333
+707,474,3489,Hook,Peter Pan,4.82
+708,474,3386,JFK,politics,5.356
+709,474,3386,JFK,president,4.914545454545455
+710,474,2108,L.A. Story,weather forecaster,4.816923076923077
+711,474,4787,Little Man Tate,prodigies,5.263636363636364
+712,474,6466,Mississippi Masala,In Netflix queue,4.979
+713,474,4221,Necessary Roughness,football,5.043333333333334
+714,474,3528,The Prince of Tides,psychiatrist,5.125555555555556
+715,474,6832,Regarding Henry,amnesia,5.168888888888889
+716,474,593,The Silence of the Lambs,Hannibal Lector,5.0175
+717,477,593,The Silence of the Lambs,disturbing,5.265000000000001
+718,477,593,The Silence of the Lambs,drama,5.074285714285714
+719,477,593,The Silence of the Lambs,gothic,5.026666666666666
+720,477,593,The Silence of the Lambs,psychology,4.827142857142857
+721,477,593,The Silence of the Lambs,suspense,4.977500000000001
+722,474,6810,Sleeping with the Enemy,domestic violence,4.972142857142857
+723,474,3712,Soapdish,television,5.154285714285714
+724,474,1372,Star Trek VI: The Undiscovered Country,Klingons,5.046666666666667
+725,424,589,Terminator 2: Judgment Day,apocalypse,5.027142857142858
+726,424,589,Terminator 2: Judgment Day,Arnold Schwarzenegger,4.828823529411765
+727,424,589,Terminator 2: Judgment Day,nuclear war,4.998571428571429
+728,424,589,Terminator 2: Judgment Day,sci-fi,5.437142857142858
+729,424,589,Terminator 2: Judgment Day,Suspense,4.949090909090909
+730,424,589,Terminator 2: Judgment Day,time travel,4.941428571428572
+731,474,589,Terminator 2: Judgment Day,robots,4.9175
+732,477,589,Terminator 2: Judgment Day,Scifi masterpiece,5.14551724137931
+733,474,588,Aladdin,Disney,4.996
+734,474,1377,Batman Returns,superhero,4.875384615384616
+735,474,1171,Bob Roberts,politics,5.356
+736,474,122,Boomerang,dating,5.079999999999999
+737,474,7618,Chaplin,biopic,5.404999999999999
+738,474,7618,Chaplin,In Netflix queue,4.979
+739,474,3270,The Cutting Edge,figure skating,5.178823529411765
+740,474,3258,Death Becomes Her,plastic surgery,4.998888888888889
+741,474,3259,Far and Away,Ireland,4.926666666666667
+742,474,2268,A Few Good Men,court,4.96
+743,474,2268,A Few Good Men,military,5.336
+744,62,2953,Home Alone 2: Lost in New York,family,5.1033333333333335
+745,62,2953,Home Alone 2: Lost in New York,funny,4.845714285714286
+746,62,2953,Home Alone 2: Lost in New York,Macaulay Culkin,5.24
+747,62,2953,Home Alone 2: Lost in New York,sequel,4.915
+748,474,1408,The Last of the Mohicans,Hawkeye,4.8075
+749,474,1408,The Last of the Mohicans,James Fennimore Cooper,4.879512195121952
+750,567,3266,Man Bites Dog,black comedy,4.8538461538461535
+751,567,3266,Man Bites Dog,crazy,4.856
+752,567,3266,Man Bites Dog,dark,4.9350000000000005
+753,567,3266,Man Bites Dog,dark comedy,4.8183333333333325
+754,567,3266,Man Bites Dog,dark humor,4.947272727272727
+755,567,3266,Man Bites Dog,serial killer,5.1866666666666665
+756,474,7025,A Midnight Clear,In Netflix queue,4.979
+757,474,2302,My Cousin Vinny,court,4.96
+758,474,1187,Passion Fish,disability,5.4825
+759,424,1089,Reservoir Dogs,ensemble cast,4.8709999999999996
+760,424,1089,Reservoir Dogs,nonlinear,4.952
+761,424,1089,Reservoir Dogs,Quentin Tarantino,5.034375000000001
+762,424,1089,Reservoir Dogs,stylized,5.01
+763,474,1089,Reservoir Dogs,heist,5.064
+764,474,1089,Reservoir Dogs,violence,4.922
+765,477,1089,Reservoir Dogs,humorous,5.133333333333333
+766,477,1089,Reservoir Dogs,neo-noir,4.958181818181819
+767,477,1089,Reservoir Dogs,Quentin Tarantino,5.034375000000001
+768,477,1089,Reservoir Dogs,religion,5.318
+769,477,1089,Reservoir Dogs,Tarantino,5.0616666666666665
+770,474,3247,Sister Act,nuns,4.973333333333334
+771,474,1396,Sneakers,spying,5.043333333333333
+772,474,1266,Unforgiven,revenge,4.744615384615385
+773,474,3263,White Men Can't Jump,basketball,5.065
+774,62,410,Addams Family Values,black comedy,4.8538461538461535
+775,62,410,Addams Family Values,Christina Ricci,5.501538461538463
+776,62,410,Addams Family Values,Christopher Lloyd,4.911
+777,62,410,Addams Family Values,dark comedy,4.8183333333333325
+778,62,410,Addams Family Values,family,5.1033333333333335
+779,62,410,Addams Family Values,gothic,5.026666666666666
+780,474,412,The Age of Innocence,Edith Wharton,4.928571428571429
+781,474,3250,Alive,In Netflix queue,4.979
+782,18,431,Carlito's Way,Al Pacino,5.153333333333333
+783,18,431,Carlito's Way,gangster,4.92
+784,18,431,Carlito's Way,mafia,5.225714285714285
+785,474,440,Dave,President,4.9
+786,474,454,The Firm,John Grisham,5.001818181818181
+787,474,457,The Fugitive,based on a TV show,4.984444444444445
+788,474,474,In the Line of Fire,assassination,5.158857142857143
+789,474,480,Jurassic Park,Dinosaur,5.182857142857143
+790,474,488,M. Butterfly,Japan,5.14
+791,474,488,M. Butterfly,sexuality,5.106666666666666
+792,474,500,Mrs. Doubtfire,cross dressing,4.982962962962964
+793,474,500,Mrs. Doubtfire,divorce,4.922857142857143
+794,474,500,Mrs. Doubtfire,men in drag,4.969090909090909
+795,474,497,Much Ado About Nothing,Shakespeare,4.895555555555556
+796,474,3502,My Life,death,4.864
+797,474,551,The Nightmare Before Christmas,Christmas,5.08
+798,474,551,The Nightmare Before Christmas,Halloween,4.99
+799,474,2803,The Pelican Brief,lawyers,4.914285714285714
+800,474,508,Philadelphia,AIDs,5.04
+801,474,515,The Remains of the Day,Butler,5.0280000000000005
+802,474,515,The Remains of the Day,Housekeeper,4.8127272727272725
+803,474,524,Rudy,football,5.043333333333334
+804,289,527,Schindler's List,moving,5.06
+805,424,527,Schindler's List,thought-provoking,4.954285714285715
+806,474,527,Schindler's List,Holocaust,5.046
+807,537,527,Schindler's List,based on a true story,4.9206896551724135
+808,537,527,Schindler's List,biography,5.002222222222222
+809,537,527,Schindler's List,disturbing,5.265000000000001
+810,537,527,Schindler's List,holocaust,5.023636363636364
+811,474,535,Short Cuts,large cast,5.023636363636364
+812,474,538,Six Degrees of Separation,race,4.859999999999999
+813,474,539,Sleepless in Seattle,Empire State Building,5.266923076923077
+814,573,540,Sliver,bad,4.933333333333334
+815,474,543,So I Married an Axe Murderer,beat poetry,4.828571428571428
+816,336,552,The Three Musketeers,knights,5.051428571428572
+817,474,4808,The Vanishing,remake,4.87
+818,474,7023,The Wedding Banquet,In Netflix queue,4.979
+819,474,337,What's Eating Gilbert Grape,mental illness,5.0760000000000005
+820,573,413,Airheads,Comedy,4.787999999999999
+821,474,6788,Angie,pregnancy,4.836363636363637
+822,474,421,Black Beauty,horses,4.9275
+823,474,425,Blue Sky,mental illness,5.0760000000000005
+824,474,425,Blue Sky,Oscar (Best Actress),4.91030303030303
+825,474,349,Clear and Present Danger,Tom Clancy,4.934285714285714
+826,424,223,Clerks,cynical,4.94888888888889
+827,424,223,Clerks,hilarious,5.390909090909091
+828,424,223,Clerks,independent film,4.945161290322581
+829,424,223,Clerks,quirky,5.05
+830,424,223,Clerks,witty,4.945714285714286
+831,474,223,Clerks,generation X,4.917142857142857
+832,474,350,The Client,John Grisham,5.001818181818181
+833,474,351,"Corrina, Corrina",interracial romance,5.025263157894736
+834,474,235,Ed Wood,movie business,5.120869565217391
+835,474,356,Forrest Gump,shrimp,5.11
+836,474,356,Forrest Gump,Vietnam,5.1
+837,533,356,Forrest Gump,bubba gump shrimp,5.068148148148148
+838,533,356,Forrest Gump,lieutenant dan,4.960800000000001
+839,533,356,Forrest Gump,stupid is as stupid does,5.144137931034483
+840,567,356,Forrest Gump,bittersweet,4.84695652173913
+841,567,356,Forrest Gump,emotional,5.065454545454545
+842,567,356,Forrest Gump,heartwarming,5.0025
+843,567,356,Forrest Gump,touching,5.0625
+844,474,471,The Hudsucker Proxy,hula hoop,5.011666666666667
+845,474,252,I.Q.,Einstein,5.232727272727273
+846,474,249,Immortal Beloved,Beethoven,4.7542857142857144
+847,474,361,It Could Happen to You,gambling,5.0920000000000005
+848,319,364,The Lion King,Disney,4.996
+849,319,364,The Lion King,Disney animated feature,4.982727272727273
+850,319,364,The Lion King,Oscar (Best Music - Original Score),5.0832
+851,424,364,The Lion King,soundtrack,4.962000000000001
+852,474,364,The Lion King,Disney,4.996
+853,474,261,Little Women,Louisa May Alcott,5.061111111111111
+854,600,273,Mary Shelley's Frankenstein,gothic,5.026666666666666
+855,474,277,Miracle on 34th Street,Christmas,5.08
+856,424,288,Natural Born Killers,brutality,5.038181818181818
+857,424,288,Natural Born Killers,controversial,4.951764705882353
+858,424,288,Natural Born Killers,dark comedy,4.8183333333333325
+859,424,288,Natural Born Killers,psychedelic,4.865333333333333
+860,424,288,Natural Born Killers,satire,5.09
+861,424,288,Natural Born Killers,stylized,5.01
+862,474,282,Nell,disability,5.4825
+863,474,282,Nell,twins,5.095999999999999
+864,474,371,The Paper,journalism,5.1659999999999995
+865,103,296,Pulp Fiction,good dialogue,4.998181818181818
+866,103,296,Pulp Fiction,great soundtrack,4.945714285714286
+867,103,296,Pulp Fiction,non-linear,4.952
+868,424,296,Pulp Fiction,cult film,5.18
+869,424,296,Pulp Fiction,drugs,5.0
+870,424,296,Pulp Fiction,Quentin Tarantino,5.034375000000001
+871,424,296,Pulp Fiction,Tarantino,5.0616666666666665
+872,474,296,Pulp Fiction,hit men,5.026666666666666
+873,599,296,Pulp Fiction,1990s,5.04
+874,599,296,Pulp Fiction,achronological,5.03
+875,599,296,Pulp Fiction,action,5.079999999999999
+876,599,296,Pulp Fiction,action packed,4.9875
+877,599,296,Pulp Fiction,aggressive,4.9624999999999995
+878,599,296,Pulp Fiction,amazing,5.197777777777778
+879,599,296,Pulp Fiction,amazing dialogues,5.223076923076923
+880,599,296,Pulp Fiction,anthology,4.930909090909091
+881,599,296,Pulp Fiction,assassin,5.106363636363636
+882,599,296,Pulp Fiction,atmospheric,5.010909090909091
+883,599,296,Pulp Fiction,AWESOME,
+884,599,296,Pulp Fiction,bad ass,5.0680000000000005
+885,599,296,Pulp Fiction,bad language,5.095789473684211
+886,599,296,Pulp Fiction,bad-ass,5.0680000000000005
+887,599,296,Pulp Fiction,bible,5.04
+888,599,296,Pulp Fiction,biblical references,4.9334999999999996
+889,599,296,Pulp Fiction,big boys with guns,5.097391304347826
+890,599,296,Pulp Fiction,big name actors,5.038666666666667
+891,599,296,Pulp Fiction,Black comedy,4.8549999999999995
+892,599,296,Pulp Fiction,black humor,5.018
+893,599,296,Pulp Fiction,black humour,5.133846153846155
+894,599,296,Pulp Fiction,blood,4.954285714285715
+895,599,296,Pulp Fiction,blood splatters,4.992727272727273
+896,599,296,Pulp Fiction,bloody,4.895
+897,599,296,Pulp Fiction,bruce willis,5.284
+898,599,296,Pulp Fiction,brutality,5.038181818181818
+899,599,296,Pulp Fiction,casual violence,5.030909090909091
+900,599,296,Pulp Fiction,character development,4.828
+901,599,296,Pulp Fiction,characters,4.8925
+902,599,296,Pulp Fiction,classic,5.036363636363636
+903,599,296,Pulp Fiction,classic movie,5.142222222222222
+904,599,296,Pulp Fiction,coke,4.845
+905,599,296,Pulp Fiction,comedy,4.773333333333333
+906,599,296,Pulp Fiction,conversation,4.93875
+907,599,296,Pulp Fiction,cool,4.97
+908,599,296,Pulp Fiction,cool style,4.98
+909,599,296,Pulp Fiction,crime,5.036
+910,599,296,Pulp Fiction,crime scene scrubbing,4.924390243902439
+911,599,296,Pulp Fiction,cult,5.085
+912,599,296,Pulp Fiction,cult classic,5.004761904761905
+913,599,296,Pulp Fiction,cult film,5.18
+914,599,296,Pulp Fiction,dance,4.84
+915,599,296,Pulp Fiction,dancing,4.977777777777778
+916,599,296,Pulp Fiction,dark,4.9350000000000005
+917,599,296,Pulp Fiction,dark comedy,4.8183333333333325
+918,599,296,Pulp Fiction,dark humor,4.947272727272727
+919,599,296,Pulp Fiction,dialogue,5.1625
+920,599,296,Pulp Fiction,different,4.809230769230769
+921,599,296,Pulp Fiction,diner,4.992
+922,599,296,Pulp Fiction,disjointed timeline,5.2404761904761905
+923,599,296,Pulp Fiction,disturbing,5.265000000000001
+924,599,296,Pulp Fiction,drama,5.074285714285714
+925,599,296,Pulp Fiction,drug overdose,4.843999999999999
+926,599,296,Pulp Fiction,drugs,5.0
+927,599,296,Pulp Fiction,drugs & music,5.168571428571427
+928,599,296,Pulp Fiction,ensemble cast,4.8709999999999996
+929,599,296,Pulp Fiction,entertaining,5.010833333333333
+930,599,296,Pulp Fiction,entirely dialogue,5.060769230769231
+931,599,296,Pulp Fiction,episodic,5.288
+932,599,296,Pulp Fiction,exciting,5.262
+933,599,296,Pulp Fiction,fast paced,4.97090909090909
+934,599,296,Pulp Fiction,fast-paced,4.97090909090909
+935,599,296,Pulp Fiction,film noir,5.322
+936,599,296,Pulp Fiction,film-noir,5.322
+937,599,296,Pulp Fiction,foul language,5.1530000000000005
+938,599,296,Pulp Fiction,fun,4.993333333333333
+939,599,296,Pulp Fiction,funny,4.845714285714286
+940,599,296,Pulp Fiction,gangster,4.92
+941,599,296,Pulp Fiction,gangsters,4.947692307692307
+942,599,296,Pulp Fiction,genius,5.16
+943,599,296,Pulp Fiction,golden watch,4.898181818181818
+944,599,296,Pulp Fiction,good dialogue,4.998181818181818
+945,599,296,Pulp Fiction,good music,5.067272727272727
+946,599,296,Pulp Fiction,gore,4.85
+947,599,296,Pulp Fiction,great acting,5.001176470588236
+948,599,296,Pulp Fiction,great dialogue,5.032631578947369
+949,599,296,Pulp Fiction,great soundtrack,4.945714285714286
+950,599,296,Pulp Fiction,gritty,4.9350000000000005
+951,599,296,Pulp Fiction,guns,5.08
+952,599,296,Pulp Fiction,Harvey Keitel,4.8549999999999995
+953,599,296,Pulp Fiction,heroin,5.0
+954,599,296,Pulp Fiction,Highly quotable,5.065333333333333
+955,599,296,Pulp Fiction,hit men,5.026666666666666
+956,599,296,Pulp Fiction,hitman,5.113333333333333
+957,599,296,Pulp Fiction,homosexuality,5.044
+958,599,296,Pulp Fiction,humour,5.21
+959,599,296,Pulp Fiction,iconic,5.226000000000001
+960,599,296,Pulp Fiction,imdb top 250,5.057142857142857
+961,599,296,Pulp Fiction,innovative,5.085
+962,599,296,Pulp Fiction,intellectual,5.08909090909091
+963,599,296,Pulp Fiction,intelligent,5.107619047619048
+964,599,296,Pulp Fiction,intense,4.905454545454545
+965,599,296,Pulp Fiction,interesting,5.050526315789474
+966,599,296,Pulp Fiction,intertwining storylines,5.139310344827587
+967,599,296,Pulp Fiction,interwoven storylines,4.935714285714286
+968,599,296,Pulp Fiction,ironic,5.3675
+969,599,296,Pulp Fiction,irony,4.992
+970,599,296,Pulp Fiction,John Travolta,4.998571428571429
+971,599,296,Pulp Fiction,killer-as-protagonist,5.114545454545454
+972,599,296,Pulp Fiction,los angeles,5.0075
+973,599,296,Pulp Fiction,Mafia,5.253333333333333
+974,599,296,Pulp Fiction,masterpiece,4.889411764705882
+975,599,296,Pulp Fiction,meaningless violence,4.963255813953489
+976,599,296,Pulp Fiction,milkshake,5.096363636363637
+977,599,296,Pulp Fiction,mobster,4.891428571428571
+978,599,296,Pulp Fiction,mobsters,4.936
+979,599,296,Pulp Fiction,monologue,4.998666666666666
+980,599,296,Pulp Fiction,motherfucker,4.845
+981,599,296,Pulp Fiction,multiple stories,5.143199999999999
+982,599,296,Pulp Fiction,multiple storylines,5.13375
+983,599,296,Pulp Fiction,neo-noir,4.958181818181819
+984,599,296,Pulp Fiction,noir,5.12
+985,599,296,Pulp Fiction,non-linear,4.952
+986,599,296,Pulp Fiction,non-linear timeline,5.090232558139535
+987,599,296,Pulp Fiction,nonlinear,4.952
+988,599,296,Pulp Fiction,nonlinear narrative,4.9913043478260875
+989,599,296,Pulp Fiction,nonlinear storyline,4.984
+990,599,296,Pulp Fiction,nonlinear timeline,5.090232558139535
+991,599,296,Pulp Fiction,notable soundtrack,4.9616
+992,599,296,Pulp Fiction,offensive,4.833846153846154
+993,599,296,Pulp Fiction,organised crime,5.058
+994,599,296,Pulp Fiction,organized crime,5.0600000000000005
+995,599,296,Pulp Fiction,original,5.37
+996,599,296,Pulp Fiction,original plot,5.24
+997,599,296,Pulp Fiction,out of order,4.9
+998,599,296,Pulp Fiction,Palme d'Or,4.966666666666668
+999,599,296,Pulp Fiction,parody,4.873333333333334
+1000,599,296,Pulp Fiction,philosophical,5.176521739130435
+1001,599,296,Pulp Fiction,pop culture references,4.840769230769231
+1002,599,296,Pulp Fiction,psychological,5.012631578947369
+1003,599,296,Pulp Fiction,pulp,5.173333333333333
+1004,599,296,Pulp Fiction,Quentin Tarantino,5.034375000000001
+1005,599,296,Pulp Fiction,quirky,5.05
+1006,599,296,Pulp Fiction,Quotable,5.057142857142857
+1007,599,296,Pulp Fiction,r:disturbing violent content including rape,5.078870967741936
+1008,599,296,Pulp Fiction,r:disturbing violent images,5.240833333333334
+1009,599,296,Pulp Fiction,r:graphic sexuality,5.13304347826087
+1010,599,296,Pulp Fiction,r:some violence,4.884761904761905
+1011,599,296,Pulp Fiction,r:strong bloody violence,4.92439024390244
+1012,599,296,Pulp Fiction,r:strong language,4.96962962962963
+1013,599,296,Pulp Fiction,r:sustained strong stylized violence,4.999512195121951
+1014,599,296,Pulp Fiction,r:violence,4.909090909090909
+1015,599,296,Pulp Fiction,random,4.93
+1016,599,296,Pulp Fiction,rape,4.949999999999999
+1017,599,296,Pulp Fiction,retro,4.805714285714286
+1018,599,296,Pulp Fiction,Roger Avary,4.812
+1019,599,296,Pulp Fiction,royal with cheese,4.859999999999999
+1020,599,296,Pulp Fiction,Samuel L. Jackson,5.081538461538462
+1021,599,296,Pulp Fiction,sarcasm,5.0600000000000005
+1022,599,296,Pulp Fiction,satire,5.09
+1023,599,296,Pulp Fiction,sexy,4.79
+1024,599,296,Pulp Fiction,smart writing,5.117777777777778
+1025,599,296,Pulp Fiction,sophisticated,5.126315789473685
+1026,599,296,Pulp Fiction,soundtrack,4.962000000000001
+1027,599,296,Pulp Fiction,splatter,4.9479999999999995
+1028,599,296,Pulp Fiction,Steve Buscemi,4.88875
+1029,599,296,Pulp Fiction,storytelling,5.00875
+1030,599,296,Pulp Fiction,stylish,5.053333333333334
+1031,599,296,Pulp Fiction,stylized,5.01
+1032,599,296,Pulp Fiction,suspense,4.977500000000001
+1033,599,296,Pulp Fiction,Tarantino,5.0616666666666665
+1034,599,296,Pulp Fiction,thought-provoking,4.954285714285715
+1035,599,296,Pulp Fiction,thriller,5.043333333333333
+1036,599,296,Pulp Fiction,travolta,5.0
+1037,599,296,Pulp Fiction,twist ending,5.094117647058823
+1038,599,296,Pulp Fiction,Uma Thurman,5.093333333333334
+1039,599,296,Pulp Fiction,unique,5.2675
+1040,599,296,Pulp Fiction,unpredictable,4.973333333333333
+1041,599,296,Pulp Fiction,unusual,5.389230769230769
+1042,599,296,Pulp Fiction,very funny,4.7323076923076925
+1043,599,296,Pulp Fiction,violence,4.922
+1044,599,296,Pulp Fiction,violent,5.028571428571429
+1045,599,296,Pulp Fiction,witty,4.945714285714286
+1046,474,300,Quiz Show,TV,
+1047,474,513,Radioland Murders,radio,5.1240000000000006
+1048,474,513,Radioland Murders,show business,5.045
+1049,474,516,Renaissance Man,military,5.336
+1050,474,317,The Santa Clause,Christmas,5.08
+1051,474,318,The Shawshank Redemption,prison,5.096666666666667
+1052,474,318,The Shawshank Redemption,Stephen King,4.901538461538461
+1053,474,318,The Shawshank Redemption,wrongful imprisonment,5.0341176470588245
+1054,477,318,The Shawshank Redemption,Morgan Freeman,4.905263157894738
+1055,474,377,Speed,bus,5.133333333333333
+1056,474,316,Stargate,time travel,4.941428571428572
+1057,474,380,True Lies,spies,5.122857142857143
+1058,474,381,When a Man Loves a Woman,alcoholism,5.122857142857143
+1059,474,11,The American President,politics,5.356
+1060,474,11,The American President,president,4.914545454545455
+1061,474,150,Apollo 13,moon,4.953333333333333
+1062,474,150,Apollo 13,NASA,
+1063,474,150,Apollo 13,space,4.952
+1064,474,34,Babe,Animal movie,5.257142857142857
+1065,474,34,Babe,pigs,5.24
+1066,477,34,Babe,villain nonexistent or not needed for good story,4.915808383233533
+1067,424,147,The Basketball Diaries,addiction,5.163076923076924
+1068,424,147,The Basketball Diaries,heroin,5.0
+1069,424,147,The Basketball Diaries,Leonardo DiCaprio,5.1088
+1070,424,147,The Basketball Diaries,Mark Wahlberg,4.975714285714285
+1071,336,153,Batman Forever,superhero,4.875384615384616
+1072,474,153,Batman Forever,superhero,4.875384615384616
+1073,474,215,Before Sunrise,generation X,4.917142857142857
+1074,474,216,Billy Madison,school,4.9575
+1075,477,216,Billy Madison,Adam Sandler,4.961538461538462
+1076,477,216,Billy Madison,stop looking at me swan,5.007272727272728
+1077,62,110,Braveheart,beautiful scenery,4.964166666666666
+1078,62,110,Braveheart,epic,5.1
+1079,62,110,Braveheart,historical,5.276666666666667
+1080,62,110,Braveheart,inspirational,5.368695652173913
+1081,62,110,Braveheart,Medieval,4.966666666666667
+1082,62,110,Braveheart,mel gibson,5.064444444444444
+1083,62,110,Braveheart,Oscar (Best Cinematography),4.982941176470588
+1084,62,110,Braveheart,revenge,4.744615384615385
+1085,62,110,Braveheart,sword fight,4.95
+1086,474,110,Braveheart,Scotland,4.937142857142858
+1087,474,16,Casino,Mafia,5.253333333333333
+1088,357,39,Clueless,chick flick,5.035
+1089,357,39,Clueless,funny,4.845714285714286
+1090,357,39,Clueless,Paul Rudd,5.148
+1091,357,39,Clueless,quotable,5.0
+1092,357,39,Clueless,seen more than once,4.811111111111111
+1093,474,39,Clueless,Emma,5.095999999999999
+1094,474,39,Clueless,Jane Austen,4.8999999999999995
+1095,474,160,Congo,Michael Crichton,5.069473684210526
+1096,474,22,Copycat,serial killer,5.1866666666666665
+1097,474,161,Crimson Tide,submarine,5.104444444444444
+1098,474,40,"Cry, the Beloved Country",In Netflix queue,4.979
+1099,474,40,"Cry, the Beloved Country",South Africa,5.044444444444444
+1100,474,31,Dangerous Minds,high school,4.9399999999999995
+1101,474,31,Dangerous Minds,teacher,4.804444444444444
+1102,474,36,Dead Man Walking,death penalty,4.908888888888889
+1103,474,36,Dead Man Walking,Nun,5.17
+1104,474,230,Dolores Claiborne,Stephen King,4.901538461538461
+1105,474,224,Don Juan DeMarco,mental illness,5.0760000000000005
+1106,474,224,Don Juan DeMarco,psychology,4.827142857142857
+1107,474,5,Father of the Bride Part II,pregnancy,4.836363636363637
+1108,474,5,Father of the Bride Part II,remake,4.87
+1109,474,237,Forget Paris,basketball,5.065
+1110,474,237,Forget Paris,France,4.851999999999999
+1111,474,237,Forget Paris,infertility,5.334736842105262
+1112,474,21,Get Shorty,Hollywood,4.98875
+1113,289,3,Grumpier Old Men,moldy,4.9
+1114,289,3,Grumpier Old Men,old,4.986666666666667
+1115,474,38,It Takes Two,twins,5.095999999999999
+1116,62,2,Jumanji,fantasy,4.975555555555555
+1117,62,2,Jumanji,magic board game,5.075
+1118,62,2,Jumanji,Robin Williams,5.4926315789473685
+1119,474,2,Jumanji,game,4.99
+1120,474,257,Just Cause,court,4.96
+1121,424,175,Kids,controversial,4.951764705882353
+1122,424,175,Kids,New York City,4.945
+1123,424,175,Kids,Nudity (Full Frontal),5.161666666666667
+1124,474,25,Leaving Las Vegas,alcoholism,5.122857142857143
+1125,474,262,A Little Princess,England,4.9325
+1126,474,262,A Little Princess,Girl Power,4.984444444444445
+1127,474,262,A Little Princess,India,5.175
+1128,474,52,Mighty Aphrodite,adoption,5.044
+1129,474,52,Mighty Aphrodite,prostitution,5.104545454545454
+1130,474,62,Mr. Holland's Opus,music,5.248
+1131,474,280,Murder in the First,prison,5.096666666666667
+1132,474,279,My Family,In Netflix queue,4.979
+1133,474,185,The Net,computers,4.964444444444444
+1134,474,14,Nixon,politics,5.356
+1135,474,14,Nixon,president,4.914545454545455
+1136,474,26,Othello,Shakespeare,4.895555555555556
+1137,474,28,Persuasion,In Netflix queue,4.979
+1138,474,28,Persuasion,Jane Austen,4.8999999999999995
+1139,474,43,Restoration,England,4.9325
+1140,474,7,Sabrina,remake,4.87
+1141,474,17,Sense and Sensibility,Jane Austen,4.8999999999999995
+1142,424,47,Seven,mystery,4.706666666666667
+1143,424,47,Seven,twist ending,5.094117647058823
+1144,474,47,Seven,serial killer,5.1866666666666665
+1145,474,45,To Die For,Journalism,5.180000000000001
+1146,336,1,Toy Story,pixar,5.184
+1147,474,1,Toy Story,pixar,5.184
+1148,567,1,Toy Story,fun,4.993333333333333
+1149,424,32,Twelve Monkeys,time travel,4.941428571428572
+1150,474,32,Twelve Monkeys,time travel,4.941428571428572
+1151,477,32,Twelve Monkeys,Brad Pitt,5.0025
+1152,477,32,Twelve Monkeys,Bruce Willis,5.350769230769231
+1153,477,32,Twelve Monkeys,mindfuck,5.047499999999999
+1154,477,32,Twelve Monkeys,Post apocalyptic,4.996666666666666
+1155,477,32,Twelve Monkeys,post-apocalyptic,5.007586206896551
+1156,477,32,Twelve Monkeys,remake,4.87
+1157,477,32,Twelve Monkeys,time travel,4.941428571428572
+1158,477,32,Twelve Monkeys,twist ending,5.094117647058823
+1159,424,50,The Usual Suspects,mindfuck,5.047499999999999
+1160,424,50,The Usual Suspects,suspense,4.977500000000001
+1161,424,50,The Usual Suspects,thriller,5.043333333333333
+1162,424,50,The Usual Suspects,tricky,4.953333333333334
+1163,424,50,The Usual Suspects,twist ending,5.094117647058823
+1164,474,50,The Usual Suspects,heist,5.064
+1165,474,338,Virtuosity,serial killer,5.1866666666666665
+1166,474,562,Welcome to the Dollhouse,adolescence,4.807368421052631
+1167,474,339,While You Were Sleeping,coma,4.99
+1168,474,1367,101 Dalmatians,dogs,4.915
+1169,474,1367,101 Dalmatians,remake,4.87
+1170,474,748,The Arrival,aliens,5.170000000000001
+1171,474,994,Big Night,food,4.866666666666666
+1172,474,101,Bottle Rocket,crime,5.036
+1173,567,101,Bottle Rocket,off-beat comedy,4.797894736842105
+1174,567,101,Bottle Rocket,quirky,5.05
+1175,474,1542,Brassed Off,In Netflix queue,4.979
+1176,474,1354,Breaking the Waves,religion,5.318
+1177,573,836,Chain Reaction,seen at the cinema,4.867878787878787
+1178,474,1006,The Chamber,death penalty,4.908888888888889
+1179,474,1006,The Chamber,John Grisham,5.001818181818181
+1180,474,647,Courage Under Fire,Gulf War,5.0920000000000005
+1181,474,1366,The Crucible,Arthur Miller,4.996666666666666
+1182,474,838,Emma,Jane Austen,4.8999999999999995
+1183,474,1183,The English Patient,adultery,4.9475
+1184,474,1416,Evita,Andrew Lloyd Weber,4.770434782608696
+1185,424,608,Fargo,based on a true story,4.9206896551724135
+1186,424,608,Fargo,dark comedy,4.8183333333333325
+1187,424,608,Fargo,KIDNAPPING,
+1188,424,608,Fargo,Steve Buscemi,4.88875
+1189,474,608,Fargo,Coen Brothers,4.83375
+1190,474,830,The First Wives Club,adultery,4.9475
+1191,474,986,Fly Away Home,Animal movie,5.257142857142857
+1192,474,1411,Hamlet,Shakespeare,4.895555555555556
+1193,167,104,Happy Gilmore,test tag,4.884615384615385
+1194,474,104,Happy Gilmore,golf,4.955
+1195,477,104,Happy Gilmore,Adam Sandler,4.961538461538462
+1196,474,1398,In Love and War,Hemingway,5.005
+1197,474,780,Independence Day,aliens,5.170000000000001
+1198,474,1393,Jerry Maguire,sports,4.9750000000000005
+1199,474,800,Lone Star,In Netflix queue,4.979
+1200,474,92,Mary Reilly,Jekyll and Hyde,4.834736842105263
+1201,474,991,Michael Collins,Ireland,4.926666666666667
+1202,474,1353,The Mirror Has Two Faces,personals ads,5.0329999999999995
+1203,474,648,Mission: Impossible,based on a TV show,4.984444444444445
+1204,573,707,Mulholland Falls,bad,4.933333333333334
+1205,474,107,Muppet Treasure Island,muppets,5.046666666666667
+1206,424,1120,The People vs. Larry Flynt,freedom of expression,4.848837209302325
+1207,474,1363,The Preacher's Wife,religion,5.318
+1208,424,628,Primal Fear,edward norton,4.839
+1209,424,628,Primal Fear,psychology,4.827142857142857
+1210,424,628,Primal Fear,suspense,4.977500000000001
+1211,424,628,Primal Fear,thought-provoking,4.954285714285715
+1212,424,628,Primal Fear,twist ending,5.094117647058823
+1213,474,628,Primal Fear,priest,5.06
+1214,474,832,Ransom,kidnapping,5.19375
+1215,477,832,Ransom,GIVE ME BACK MY SON!,
+1216,477,832,Ransom,It was melodramatic and kind of dumb,5.021492537313433
+1217,477,832,Ransom,Mel Gibson,5.082857142857143
+1218,474,733,The Rock,Alcatraz,5.071111111111112
+1219,477,733,The Rock,Michael Bay,5.086
+1220,477,733,The Rock,terrorism,4.904
+1221,474,1407,Scream,slasher,4.997777777777778
+1222,474,1407,Scream,spoof,4.9399999999999995
+1223,474,1358,Sling Blade,ex-con,4.824
+1224,474,673,Space Jam,Bugs Bunny,5.074545454545455
+1225,474,1356,Star Trek: First Contact,Borg,4.8933333333333335
+1226,474,1042,That Thing You Do!,Music,5.295
+1227,474,805,A Time to Kill,John Grisham,5.001818181818181
+1228,474,852,Tin Cup,golf,4.955
+1229,474,736,Twister,Disaster,5.073333333333334
+1230,474,818,A Very Brady Sequel,based on a TV show,4.984444444444445
+1231,474,1413,The Whole Wide World,Conan,4.913333333333334
+1232,474,1608,Air Force One,president,4.914545454545455
+1233,474,1496,Anna Karenina,Tolstoy,4.9350000000000005
+1234,474,1645,The Devil's Advocate,lawyers,4.914285714285714
+1235,474,1466,Donnie Brasco,Mafia,5.253333333333333
+1236,474,1573,Face/Off,transplants,4.993684210526316
+1237,474,1586,G.I. Jane,military,5.336
+1238,424,1625,The Game,mindfuck,5.047499999999999
+1239,424,1625,The Game,Mystery,4.6625
+1240,424,1625,The Game,plot twist,4.978666666666666
+1241,424,1625,The Game,psychological,5.012631578947369
+1242,424,1625,The Game,suspense,4.977500000000001
+1243,424,1625,The Game,twist ending,5.094117647058823
+1244,474,1625,The Game,twist ending,5.094117647058823
+1245,537,1625,The Game,Mystery,4.6625
+1246,474,1653,Gattaca,future,5.1325
+1247,567,1653,Gattaca,intelligent,5.107619047619048
+1248,567,1653,Gattaca,thought-provoking,4.954285714285715
+1249,424,1704,Good Will Hunting,inspirational,5.368695652173913
+1250,567,1704,Good Will Hunting,heartwarming,5.0025
+1251,567,1704,Good Will Hunting,inspirational,5.368695652173913
+1252,474,1500,Grosse Pointe Blank,hit men,5.026666666666666
+1253,474,1500,Grosse Pointe Blank,reunion,5.02
+1254,474,1635,The Ice Storm,1970s,5.04
+1255,474,1617,L.A. Confidential,Police,5.1160000000000005
+1256,474,1485,Liar Liar,lawyer,4.8933333333333335
+1257,474,1544,The Lost World: Jurassic Park,dinosaurs,5.1018181818181825
+1258,474,1580,Men in Black,aliens,5.170000000000001
+1259,21,1569,My Best Friend's Wedding,romantic comedy,4.92
+1260,21,1569,My Best Friend's Wedding,wedding,4.904444444444445
+1261,474,1569,My Best Friend's Wedding,weddings,4.918
+1262,474,2801,Oscar and Lucinda,gambling,5.0920000000000005
+1263,125,1726,The Postman,Kevin Costner,4.882857142857143
+1264,125,1726,The Postman,Post apocalyptic,4.996666666666666
+1265,474,1672,The Rainmaker,In Netflix queue,4.979
+1266,474,1513,Romy and Michele's High School Reunion,reunion,5.02
+1267,474,1717,Scream 2,sequel,4.915
+1268,474,1717,Scream 2,slasher,4.997777777777778
+1269,474,1717,Scream 2,spoof,4.9399999999999995
+1270,474,1834,The Spanish Prisoner,twist ending,5.094117647058823
+1271,474,1721,Titanic,shipwreck,4.986666666666666
+1272,537,1721,Titanic,romance,4.897142857142858
+1273,474,1650,Washington Square,Henry James,4.83
+1274,474,1683,The Wings of the Dove,Henry James,4.83
+1275,424,2329,American History X,thought-provoking,4.954285714285715
+1276,474,2329,American History X,racism,5.123333333333334
+1277,537,2329,American History X,edward norton,4.839
+1278,537,2329,American History X,emotional,5.065454545454545
+1279,537,2329,American History X,politics,5.356
+1280,474,1917,Armageddon,space,4.952
+1281,474,1732,The Big Lebowski,Coen Brothers,4.83375
+1282,599,1732,The Big Lebowski,black comedy,4.8538461538461535
+1283,599,1732,The Big Lebowski,bowling,5.088571428571429
+1284,599,1732,The Big Lebowski,classic,5.036363636363636
+1285,599,1732,The Big Lebowski,coen brothers,4.826666666666667
+1286,599,1732,The Big Lebowski,comedy,4.773333333333333
+1287,599,1732,The Big Lebowski,crime,5.036
+1288,599,1732,The Big Lebowski,Cult classic,5.1
+1289,599,1732,The Big Lebowski,cult film,5.18
+1290,599,1732,The Big Lebowski,dark comedy,4.8183333333333325
+1291,599,1732,The Big Lebowski,deadpan,4.949090909090909
+1292,599,1732,The Big Lebowski,drugs,5.0
+1293,599,1732,The Big Lebowski,funny,4.845714285714286
+1294,599,1732,The Big Lebowski,great dialogue,5.032631578947369
+1295,599,1732,The Big Lebowski,great soundtrack,4.945714285714286
+1296,599,1732,The Big Lebowski,Highly quotable,5.065333333333333
+1297,599,1732,The Big Lebowski,imdb top 250,5.057142857142857
+1298,599,1732,The Big Lebowski,Jeff Bridges,4.833846153846154
+1299,599,1732,The Big Lebowski,John Goodman,4.925882352941176
+1300,599,1732,The Big Lebowski,Julianne Moore,4.984705882352941
+1301,599,1732,The Big Lebowski,kidnapping,5.19375
+1302,599,1732,The Big Lebowski,marijuana,5.220000000000001
+1303,599,1732,The Big Lebowski,Nudity (Full Frontal),5.161666666666667
+1304,599,1732,The Big Lebowski,off-beat comedy,4.797894736842105
+1305,599,1732,The Big Lebowski,Philip Seymour Hoffman,5.0808
+1306,599,1732,The Big Lebowski,quirky,5.05
+1307,599,1732,The Big Lebowski,ransom,4.983333333333333
+1308,599,1732,The Big Lebowski,rug,5.080000000000001
+1309,599,1732,The Big Lebowski,sarcasm,5.0600000000000005
+1310,599,1732,The Big Lebowski,satirical,5.32923076923077
+1311,599,1732,The Big Lebowski,Steve Buscemi,4.88875
+1312,599,1732,The Big Lebowski,violence,4.922
+1313,474,2167,Blade,vampires,5.0600000000000005
+1314,567,1916,Buffalo '66,avant-garde romantic comedy,4.966153846153846
+1315,567,1916,Buffalo '66,elegiac,4.995555555555556
+1316,567,1916,Buffalo '66,melancholy,4.991666666666667
+1317,567,1916,Buffalo '66,quirky,5.05
+1318,567,1916,Buffalo '66,wry,4.706666666666667
+1319,474,2355,A Bug's Life,Pixar,5.215
+1320,474,1748,Dark City,amnesia,5.168888888888889
+1321,474,1735,Great Expectations,Charles Dickens,4.97375
+1322,474,2295,The Impostors,Screwball,5.026000000000001
+1323,474,1836,The Last Days of Disco,No DVD at Netflix,5.003636363636364
+1324,573,1801,The Man in the Iron Mask,seen more than once,4.811111111111111
+1325,474,2006,The Mask of Zorro,California,5.316923076923077
+1326,474,2006,The Mask of Zorro,Mexico,5.044
+1327,474,2310,The Mighty,adolescence,4.807368421052631
+1328,474,2058,The Negotiator,police,5.1066666666666665
+1329,474,2171,Next Stop Wonderland,aquarium,5.283333333333333
+1330,474,2171,Next Stop Wonderland,Boston,4.934285714285714
+1331,474,2171,Next Stop Wonderland,personals ads,5.0329999999999995
+1332,424,2296,A Night at the Roxbury,SNL,
+1333,474,1912,Out of Sight,heist,5.064
+1334,474,2059,The Parent Trap,twins,5.095999999999999
+1335,474,2431,Patch Adams,doctors,4.88
+1336,573,2431,Patch Adams,bad,4.933333333333334
+1337,424,1921,Pi,hallucinatory,5.1117647058823525
+1338,424,1921,Pi,mental illness,5.0760000000000005
+1339,424,1921,Pi,mindfuck,5.047499999999999
+1340,424,1921,Pi,paranoid,5.122
+1341,474,1921,Pi,mathematics,5.043529411764705
+1342,567,1921,Pi,artsy,4.8759999999999994
+1343,567,1921,Pi,atmospheric,5.010909090909091
+1344,567,1921,Pi,cerebral,4.838333333333334
+1345,567,1921,Pi,enigmatic,5.2727272727272725
+1346,567,1921,Pi,existentialism,5.269230769230769
+1347,567,1921,Pi,hallucinatory,5.1117647058823525
+1348,567,1921,Pi,insanity,5.213333333333334
+1349,567,1921,Pi,paranoia,5.192857142857143
+1350,567,1921,Pi,paranoid,5.122
+1351,567,1921,Pi,surreal,4.9911111111111115
+1352,567,1921,Pi,tense,4.797142857142857
+1353,567,1921,Pi,visually appealing,5.235757575757575
+1354,474,1810,Primary Colors,politics,5.356
+1355,474,2394,The Prince of Egypt,Bible,5.1899999999999995
+1356,474,2394,The Prince of Egypt,Moses,4.973333333333334
+1357,474,2028,Saving Private Ryan,World War II,4.915
+1358,474,2396,Shakespeare in Love,England,4.9325
+1359,474,2334,The Siege,terrorism,4.904
+1360,474,2391,A Simple Plan,heist,5.064
+1361,573,1779,Sphere,good,4.916666666666667
+1362,477,2393,Star Trek: Insurrection,cameo:Whoopi Goldberg,4.954193548387098
+1363,477,2393,Star Trek: Insurrection,space opera,4.9725
+1364,477,2393,Star Trek: Insurrection,Star Trek,4.865
+1365,327,1923,There's Something About Mary,Ben Stiller,5.03
+1366,424,1923,There's Something About Mary,Ben Stiller,5.03
+1367,424,1923,There's Something About Mary,crude humor,5.011428571428572
+1368,424,1923,There's Something About Mary,goofy,4.842857142857143
+1369,474,1682,The Truman Show,TV,
+1370,125,2387,Very Bad Things,dark comedy,4.8183333333333325
+1371,125,2387,Very Bad Things,dark humor,4.947272727272727
+1372,474,2335,The Waterboy,football,5.043333333333334
+1373,474,1777,The Wedding Singer,1980s,5.04
+1374,474,2424,You've Got Mail,e-mail,5.244
+1375,474,2424,You've Got Mail,remake,4.87
+1376,474,2572,10 Things I Hate About You,Shakespeare sort of,4.896666666666666
+1377,477,2706,American Pie,best comedy,4.793333333333333
+1378,477,2706,American Pie,Chris Klein,5.311999999999999
+1379,477,2706,American Pie,dumb,5.034999999999999
+1380,477,2706,American Pie,Jason Biggs,5.071666666666666
+1381,477,2706,American Pie,not funny,4.844285714285715
+1382,477,2706,American Pie,pizza beer,5.003076923076923
+1383,477,2706,American Pie,Seann William Scott,5.16
+1384,477,2706,American Pie,teen,4.756666666666667
+1385,474,2827,The Astronaut's Wife,aliens,5.170000000000001
+1386,477,2694,Big Daddy,Adam Sandler,4.961538461538462
+1387,474,2710,The Blair Witch Project,claims to be true,4.976666666666667
+1388,474,2710,The Blair Witch Project,video,4.996
+1389,125,3052,Dogma,irreverent,4.806363636363637
+1390,125,3052,Dogma,jay and silent bob,4.980952380952381
+1391,125,3052,Dogma,Kevin Smith,5.258
+1392,125,3052,Dogma,satire,5.09
+1393,474,3052,Dogma,religion,5.318
+1394,474,2600,eXistenZ,virtual reality,5.150833333333334
+1395,474,2712,Eyes Wide Shut,sexuality,5.106666666666666
+1396,424,2959,Fight Club,dark comedy,4.8183333333333325
+1397,424,2959,Fight Club,psychology,4.827142857142857
+1398,424,2959,Fight Club,thought-provoking,4.954285714285715
+1399,424,2959,Fight Club,twist ending,5.094117647058823
+1400,435,2959,Fight Club,dark comedy,4.8183333333333325
+1401,474,2959,Fight Club,violence,4.922
+1402,599,2959,Fight Club,action,5.079999999999999
+1403,599,2959,Fight Club,atmospheric,5.010909090909091
+1404,599,2959,Fight Club,based on a book,4.966363636363636
+1405,599,2959,Fight Club,Brad Pitt,5.0025
+1406,599,2959,Fight Club,challenging,5.031764705882353
+1407,599,2959,Fight Club,Chuck Palahniuk,5.148000000000001
+1408,599,2959,Fight Club,classic,5.036363636363636
+1409,599,2959,Fight Club,clever,4.7875000000000005
+1410,599,2959,Fight Club,complicated,4.9692307692307685
+1411,599,2959,Fight Club,consumerism,5.054666666666666
+1412,599,2959,Fight Club,crime,5.036
+1413,599,2959,Fight Club,dark,4.9350000000000005
+1414,599,2959,Fight Club,dark comedy,4.8183333333333325
+1415,599,2959,Fight Club,David Fincher,5.176666666666667
+1416,599,2959,Fight Club,disturbing,5.265000000000001
+1417,599,2959,Fight Club,double life,5.042857142857143
+1418,599,2959,Fight Club,Edward Norton,4.85
+1419,599,2959,Fight Club,fighting,5.211666666666667
+1420,599,2959,Fight Club,great acting,5.001176470588236
+1421,599,2959,Fight Club,helena bonham carter,4.914444444444444
+1422,599,2959,Fight Club,imaginary friend,5.229629629629629
+1423,599,2959,Fight Club,imdb top 250,5.057142857142857
+1424,599,2959,Fight Club,mental illness,5.0760000000000005
+1425,599,2959,Fight Club,mind-blowing,5.174666666666667
+1426,599,2959,Fight Club,mindfuck,5.047499999999999
+1427,599,2959,Fight Club,narrated,4.9316666666666675
+1428,599,2959,Fight Club,Nudity (Topless),5.05076923076923
+1429,599,2959,Fight Club,Palahnuik,5.2299999999999995
+1430,599,2959,Fight Club,philosophical,5.176521739130435
+1431,599,2959,Fight Club,philosophy,5.0
+1432,599,2959,Fight Club,postmodern,4.906666666666667
+1433,599,2959,Fight Club,powerful ending,4.935555555555556
+1434,599,2959,Fight Club,psychological,5.012631578947369
+1435,599,2959,Fight Club,psychological thriller,5.1032558139534885
+1436,599,2959,Fight Club,psychology,4.827142857142857
+1437,599,2959,Fight Club,quirky,5.05
+1438,599,2959,Fight Club,satirical,5.32923076923077
+1439,599,2959,Fight Club,schizophrenia,5.134117647058823
+1440,599,2959,Fight Club,social commentary,4.988333333333333
+1441,599,2959,Fight Club,societal criticism,5.296923076923076
+1442,599,2959,Fight Club,stylized,5.01
+1443,599,2959,Fight Club,surreal,4.9911111111111115
+1444,599,2959,Fight Club,TERRORISM,
+1445,599,2959,Fight Club,thought-provoking,4.954285714285715
+1446,599,2959,Fight Club,twist,5.025714285714286
+1447,599,2959,Fight Club,twist ending,5.094117647058823
+1448,599,2959,Fight Club,violence,4.922
+1449,599,2959,Fight Club,violent,5.028571428571429
+1450,474,3115,Flawless,men in drag,4.969090909090909
+1451,474,3175,Galaxy Quest,spoof,4.9399999999999995
+1452,424,3186,"Girl, Interrupted",asylum,5.1033333333333335
+1453,424,3186,"Girl, Interrupted",based on a true story,4.9206896551724135
+1454,424,3186,"Girl, Interrupted",Brittany Murphy,4.875555555555555
+1455,424,3186,"Girl, Interrupted",Mental Hospital,5.108888888888889
+1456,424,3186,"Girl, Interrupted",psychology,4.827142857142857
+1457,424,3186,"Girl, Interrupted",winona ryder,4.886666666666668
+1458,474,3147,The Green Mile,Stephen King,4.901538461538461
+1459,474,2719,The Haunting,remake,4.87
+1460,474,3178,The Hurricane,boxing,5.066666666666667
+1461,474,3006,The Insider,tobacco,4.869090909090909
+1462,474,3006,The Insider,true story,4.861538461538462
+1463,474,2761,The Iron Giant,robots,4.9175
+1464,477,2761,The Iron Giant,animation,5.252
+1465,474,3160,Magnolia,L.A.,
+1466,474,3174,Man on the Moon,Andy Kaufman,4.973846153846154
+1467,424,2571,The Matrix,martial arts,5.092380952380952
+1468,424,2571,The Matrix,sci-fi,5.437142857142858
+1469,474,2571,The Matrix,alternate universe,4.882702702702702
+1470,537,2571,The Matrix,philosophy,5.0
+1471,537,2571,The Matrix,post apocalyptic,5.007586206896551
+1472,474,2723,Mystery Men,superhero,4.875384615384616
+1473,474,2581,Never Been Kissed,high school,4.9399999999999995
+1474,474,2502,Office Space,stapler,4.994285714285714
+1475,474,2502,Office Space,workplace,4.955555555555556
+1476,474,2506,The Other Sister,disability,5.4825
+1477,474,2598,Pushing Tin,golfing,5.042222222222223
+1478,474,2491,Simply Irresistible,food,4.866666666666666
+1479,357,2762,The Sixth Sense,Atmospheric,4.9879999999999995
+1480,357,2762,The Sixth Sense,Bruce Willis,5.350769230769231
+1481,357,2762,The Sixth Sense,ghosts,4.9625
+1482,357,2762,The Sixth Sense,imdb top 250,5.057142857142857
+1483,357,2762,The Sixth Sense,mindfuck,5.047499999999999
+1484,357,2762,The Sixth Sense,stylized,5.01
+1485,357,2762,The Sixth Sense,twist ending,5.094117647058823
+1486,474,2762,The Sixth Sense,ghosts,4.9625
+1487,474,2762,The Sixth Sense,I see dead people,4.8010810810810804
+1488,474,3081,Sleepy Hollow,Ichabod Crane,4.941666666666666
+1489,474,2966,The Straight Story,brothers,4.832
+1490,474,2966,The Straight Story,lawn mower,4.9363636363636365
+1491,424,3176,The Talented Mr. Ripley,based on a book,4.966363636363636
+1492,424,3176,The Talented Mr. Ripley,creepy,4.737500000000001
+1493,424,3176,The Talented Mr. Ripley,disturbing,5.265000000000001
+1494,424,3176,The Talented Mr. Ripley,Jude Law,5.012
+1495,424,3176,The Talented Mr. Ripley,murder,4.8925
+1496,424,3176,The Talented Mr. Ripley,obsession,5.029411764705882
+1497,424,3176,The Talented Mr. Ripley,psychology,4.827142857142857
+1498,424,3176,The Talented Mr. Ripley,secrets,4.850909090909091
+1499,424,3176,The Talented Mr. Ripley,serial killer,5.1866666666666665
+1500,424,3176,The Talented Mr. Ripley,suspense,4.977500000000001
+1501,474,3176,The Talented Mr. Ripley,Europe,5.008
+1502,474,3176,The Talented Mr. Ripley,murder,4.8925
+1503,474,3181,Titus,Shakespeare,4.895555555555556
+1504,62,3114,Toy Story 2,animation,5.252
+1505,62,3114,Toy Story 2,Disney,4.996
+1506,62,3114,Toy Story 2,funny,4.845714285714286
+1507,62,3114,Toy Story 2,original,5.37
+1508,62,3114,Toy Story 2,Pixar,5.215
+1509,62,3114,Toy Story 2,sequel,4.915
+1510,62,3114,Toy Story 2,Tom Hanks,5.0200000000000005
+1511,474,3114,Toy Story 2,Pixar,5.215
+1512,132,3556,The Virgin Suicides,sofia coppola,5.064545454545454
+1513,474,3556,The Virgin Suicides,1970s,5.04
+1514,474,3556,The Virgin Suicides,suicide,5.375555555555555
+1515,327,3897,Almost Famous,music,5.248
+1516,474,3897,Almost Famous,journalism,5.1659999999999995
+1517,474,3897,Almost Famous,music,5.248
+1518,474,3897,Almost Famous,Rolling Stone,5.04125
+1519,424,3911,Best in Show,satire,5.09
+1520,474,3911,Best in Show,Dogs,4.98
+1521,573,4015,"Dude, Where's My Car?",bad,4.933333333333334
+1522,474,3408,Erin Brockovich,scandal,5.057777777777777
+1523,474,3408,Erin Brockovich,true story,4.861538461538462
+1524,474,4019,Finding Forrester,writing,5.3244444444444445
+1525,62,3578,Gladiator,ancient Rome,4.92
+1526,62,3578,Gladiator,Epic,5.226666666666667
+1527,62,3578,Gladiator,history,4.974285714285714
+1528,62,3578,Gladiator,imdb top 250,5.057142857142857
+1529,62,3578,Gladiator,revenge,4.744615384615385
+1530,62,3578,Gladiator,Rome,4.913333333333333
+1531,62,3578,Gladiator,Russell Crowe,5.0175
+1532,606,3578,Gladiator,Romans,5.023999999999999
+1533,327,3481,High Fidelity,music,5.248
+1534,474,3481,High Fidelity,Nick Hornby,4.9375
+1535,474,4024,The House of Mirth,Edith Wharton,4.928571428571429
+1536,474,3988,How the Grinch Stole Christmas,Dr. Seuss,5.025714285714286
+1537,424,3948,Meet the Parents,comedy,4.773333333333333
+1538,424,3948,Meet the Parents,Robert De Niro,4.896
+1539,184,4226,Memento,dark,4.9350000000000005
+1540,184,4226,Memento,Mindfuck,5.045714285714285
+1541,184,4226,Memento,nonlinear,4.952
+1542,184,4226,Memento,psychology,4.827142857142857
+1543,184,4226,Memento,twist ending,5.094117647058823
+1544,424,4226,Memento,mystery,4.706666666666667
+1545,424,4226,Memento,psychological,5.012631578947369
+1546,424,4226,Memento,twist ending,5.094117647058823
+1547,474,4226,Memento,Backwards. memory,4.9399999999999995
+1548,477,4226,Memento,mystery,4.706666666666667
+1549,477,4226,Memento,twist ending,5.094117647058823
+1550,567,4226,Memento,cerebral,4.838333333333334
+1551,567,4226,Memento,dreamlike,4.989090909090909
+1552,474,4025,Miss Congeniality,pageant,5.037777777777778
+1553,474,3949,Requiem for a Dream,drug abuse,5.123636363636364
+1554,537,3949,Requiem for a Dream,depressing,4.948571428571428
+1555,537,3949,Requiem for a Dream,psychology,4.827142857142857
+1556,474,3512,Return to Me,transplants,4.993684210526316
+1557,474,3273,Scream 3,slasher,4.997777777777778
+1558,474,3273,Scream 3,spoof,4.9399999999999995
+1559,305,4034,Traffic,drugs,5.0
+1560,474,4034,Traffic,based on a TV show,4.984444444444445
+1561,474,3994,Unbreakable,superhero,4.875384615384616
+1562,477,3994,Unbreakable,atmospheric,5.010909090909091
+1563,477,3994,Unbreakable,comics,4.9725
+1564,477,3994,Unbreakable,father-son relationship,5.011794871794873
+1565,477,3994,Unbreakable,mindfuck,5.047499999999999
+1566,477,3994,Unbreakable,unique,5.2675
+1567,567,3994,Unbreakable,atmospheric,5.010909090909091
+1568,567,3994,Unbreakable,somber,4.8999999999999995
+1569,474,3317,Wonder Boys,writing,5.3244444444444445
+1570,474,3983,You Can Count on Me,family,5.1033333333333335
+1571,474,4639,America's Sweethearts,Hollywood,4.98875
+1572,474,4639,America's Sweethearts,movie business,5.120869565217391
+1573,305,4995,A Beautiful Mind,mathematics,5.043529411764705
+1574,474,5379,The Believer,anti-Semitism,5.366666666666666
+1575,474,5379,The Believer,Judaism,5.249999999999999
+1576,474,4164,The Caveman's Valentine,homeless,4.928333333333333
+1577,474,4164,The Caveman's Valentine,New York,4.864
+1578,193,4878,Donnie Darko,atmospheric,5.010909090909091
+1579,193,4878,Donnie Darko,cult film,5.18
+1580,193,4878,Donnie Darko,dreamlike,4.989090909090909
+1581,193,4878,Donnie Darko,hallucinatory,5.1117647058823525
+1582,193,4878,Donnie Darko,psychological,5.012631578947369
+1583,193,4878,Donnie Darko,surreal,4.9911111111111115
+1584,193,4878,Donnie Darko,time travel,4.941428571428572
+1585,424,4878,Donnie Darko,jake gyllenhaal,5.094285714285713
+1586,474,4878,Donnie Darko,time travel,4.941428571428572
+1587,477,4878,Donnie Darko,dreamlike,4.989090909090909
+1588,477,4878,Donnie Darko,hallucinatory,5.1117647058823525
+1589,477,4878,Donnie Darko,mental illness,5.0760000000000005
+1590,477,4878,Donnie Darko,psychology,4.827142857142857
+1591,477,4878,Donnie Darko,social commentary,4.988333333333333
+1592,477,4878,Donnie Darko,teen,4.756666666666667
+1593,477,4878,Donnie Darko,thought-provoking,4.954285714285715
+1594,567,4878,Donnie Darko,atmospheric,5.010909090909091
+1595,567,4878,Donnie Darko,cerebral,4.838333333333334
+1596,567,4878,Donnie Darko,dreamlike,4.989090909090909
+1597,567,4878,Donnie Darko,enigmatic,5.2727272727272725
+1598,567,4878,Donnie Darko,hallucinatory,5.1117647058823525
+1599,567,4878,Donnie Darko,mental illness,5.0760000000000005
+1600,567,4878,Donnie Darko,mindfuck,5.047499999999999
+1601,567,4878,Donnie Darko,philosophy,5.0
+1602,567,4878,Donnie Darko,psychological,5.012631578947369
+1603,567,4878,Donnie Darko,quirky,5.05
+1604,567,4878,Donnie Darko,surreal,4.9911111111111115
+1605,567,4878,Donnie Darko,thought-provoking,4.954285714285715
+1606,567,4878,Donnie Darko,weird,5.0
+1607,62,4223,Enemy at the Gates,Ed Harris,5.005000000000001
+1608,62,4223,Enemy at the Gates,Jude Law,5.012
+1609,62,4223,Enemy at the Gates,Rachel Weisz,4.994545454545454
+1610,62,4223,Enemy at the Gates,sniper,5.056666666666667
+1611,62,4223,Enemy at the Gates,World War II,4.915
+1612,573,4343,Evolution,really bad,5.047692307692308
+1613,573,4343,Evolution,Seann William Scott,5.16
+1614,573,4446,Final Fantasy: The Spirits Within,sci-fi,5.437142857142858
+1615,474,5294,Frailty,religion,5.318
+1616,474,4641,Ghost World,adolescence,4.807368421052631
+1617,474,5682,The Grey Zone,Holocaust,5.046
+1618,106,4896,Harry Potter and the Sorcerer's Stone,Everything you want is here,4.9065
+1619,184,4896,Harry Potter and the Sorcerer's Stone,alan rickman,5.1147368421052635
+1620,184,4896,Harry Potter and the Sorcerer's Stone,harry potter,4.823157894736842
+1621,184,4896,Harry Potter and the Sorcerer's Stone,humorous,5.133333333333333
+1622,184,4896,Harry Potter and the Sorcerer's Stone,Magic,5.2
+1623,474,4896,Harry Potter and the Sorcerer's Stone,Magic,5.2
+1624,474,4896,Harry Potter and the Sorcerer's Stone,Wizards,5.13
+1625,474,4638,Jurassic Park III,dinosaurs,5.1018181818181825
+1626,474,4447,Legally Blonde,lawyers,4.914285714285714
+1627,424,4993,The Lord of the Rings: The Fellowship of the Ring,fantasy,4.975555555555555
+1628,424,4993,The Lord of the Rings: The Fellowship of the Ring,high fantasy,4.989333333333334
+1629,424,4993,The Lord of the Rings: The Fellowship of the Ring,Magic,5.2
+1630,424,4993,The Lord of the Rings: The Fellowship of the Ring,mythology,4.821538461538461
+1631,424,4993,The Lord of the Rings: The Fellowship of the Ring,tolkien,5.077142857142857
+1632,424,4993,The Lord of the Rings: The Fellowship of the Ring,wizards,5.091428571428572
+1633,474,4993,The Lord of the Rings: The Fellowship of the Ring,Tolkein,5.116666666666666
+1634,474,4881,The Man Who Wasn't There,Coen Brothers,4.83375
+1635,474,5135,Monsoon Wedding,India,5.175
+1636,474,5015,Monster's Ball,race,4.859999999999999
+1637,474,4963,Ocean's Eleven,heist,5.064
+1638,474,4979,The Royal Tenenbaums,new york,4.802857142857143
+1639,474,4448,The Score,heist,5.064
+1640,573,4448,The Score,boring,5.043333333333334
+1641,474,4823,Serendipity,wedding,4.904444444444445
+1642,477,4725,Session 9,mental hospital,5.090999999999999
+1643,477,4725,Session 9,psychology,4.827142857142857
+1644,477,4725,Session 9,suspense,4.977500000000001
+1645,477,4725,Session 9,Well Done,4.978
+1646,474,4306,Shrek,fairy tales,5.055000000000001
+1647,474,4232,Spy Kids,spying,5.043333333333333
+1648,424,4816,Zoolander,ben stiller,5.017142857142858
+1649,424,4816,Zoolander,comedy,4.773333333333333
+1650,424,4816,Zoolander,David Bowie,5.284
+1651,424,4816,Zoolander,goofy,4.842857142857143
+1652,424,4816,Zoolander,mindless one liners,5.0138461538461545
+1653,424,4816,Zoolander,Will Ferrell,5.136
+1654,474,5954,25th Hour,crime,5.036
+1655,474,5954,25th Hour,nightclub,5.073333333333333
+1656,474,5377,About a Boy,Nick Hornby,4.9375
+1657,474,5377,About a Boy,Nick Hornby,4.9375
+1658,474,6288,Better Luck Tomorrow,gangs,4.980000000000001
+1659,573,5254,Blade II,Great movie,4.939999999999999
+1660,573,5254,Blade II,Wesley Snipes,4.9
+1661,474,5989,Catch Me If You Can,crime,5.036
+1662,537,5989,Catch Me If You Can,cheating,4.9975
+1663,537,5989,Catch Me If You Can,intelligent,5.107619047619048
+1664,537,5989,Catch Me If You Can,Leonardo DiCaprio,5.1088
+1665,537,5989,Catch Me If You Can,lies,5.24
+1666,537,5989,Catch Me If You Can,smart,4.991999999999999
+1667,537,5989,Catch Me If You Can,Tom Hanks,5.0200000000000005
+1668,537,5989,Catch Me If You Can,twists & turns,4.992173913043478
+1669,474,5991,Chicago,court,4.96
+1670,474,5991,Chicago,jazz,5.1000000000000005
+1671,474,5991,Chicago,murder,4.8925
+1672,474,6003,Confessions of a Dangerous Mind,television,5.154285714285714
+1673,474,5064,The Count of Monte Cristo,Dumas,5.215
+1674,474,5064,The Count of Monte Cristo,revenge,4.744615384615385
+1675,573,5064,The Count of Monte Cristo,remake,4.87
+1676,474,5791,Frida,art,4.953333333333333
+1677,474,5505,The Good Girl,adultery,4.9475
+1678,474,5505,The Good Girl,younger men,4.8500000000000005
+1679,474,5816,Harry Potter and the Chamber of Secrets,Magic,5.2
+1680,474,5816,Harry Potter and the Chamber of Secrets,Wizards,5.13
+1681,474,5577,Igby Goes Down,adolescence,4.807368421052631
+1682,62,5388,Insomnia,Al Pacino,5.153333333333333
+1683,62,5388,Insomnia,atmospheric,5.010909090909091
+1684,62,5388,Insomnia,Hilary Swank,5.1000000000000005
+1685,62,5388,Insomnia,Robin Williams,5.4926315789473685
+1686,184,5388,Insomnia,atmospheric,5.010909090909091
+1687,184,5388,Insomnia,insomnia,5.2716666666666665
+1688,184,5388,Insomnia,thought-provoking,4.954285714285715
+1689,474,5629,Jonah: A VeggieTales Movie,Bible,5.1899999999999995
+1690,439,5952,The Lord of the Rings: The Two Towers,Myth,4.706666666666667
+1691,474,5952,The Lord of the Rings: The Two Towers,Tolkein,5.116666666666666
+1692,477,5459,Men in Black II,crappy sequel,4.922499999999999
+1693,477,5459,Men in Black II,first was much better,4.91
+1694,477,5459,Men in Black II,sequel,4.915
+1695,474,5445,Minority Report,future,5.1325
+1696,474,5994,Nicholas Nickleby,Dickens,5.033333333333333
+1697,474,5528,One Hour Photo,photography,4.915294117647059
+1698,474,5528,One Hour Photo,psychopaths,4.930588235294118
+1699,474,5266,Panic Room,crime,5.036
+1700,474,5451,Pumpkin,disability,5.4825
+1701,474,5451,Pumpkin,mental illness,5.0760000000000005
+1702,474,5876,The Quiet American,Graham Greene,4.862
+1703,474,5685,Real Women Have Curves,Girl Power,4.984444444444445
+1704,474,5630,Red Dragon,Hannibal Lecter,4.971111111111111
+1705,357,5464,Road to Perdition,cinematography,5.0024999999999995
+1706,357,5464,Road to Perdition,Tom Hanks,5.0200000000000005
+1707,474,5792,Roger Dodger,dating,5.079999999999999
+1708,474,6592,The Secret Lives of Dentists,marriage,5.06
+1709,474,5502,Signs,aliens,5.170000000000001
+1710,305,6953,21 Grams,DEPRESSING,
+1711,474,6159,All the Real Girls,adolescence,4.807368421052631
+1712,193,7147,Big Fish,dreamlike,4.989090909090909
+1713,193,7147,Big Fish,sentimental,4.944705882352942
+1714,193,7147,Big Fish,surreal,4.9911111111111115
+1715,193,7147,Big Fish,Tim Burton,5.128571428571429
+1716,474,6373,Bruce Almighty,religion,5.318
+1717,573,6373,Bruce Almighty,classic,5.036363636363636
+1718,474,7162,Cold Mountain,Civil War,5.455
+1719,573,6157,Daredevil,bad,4.933333333333334
+1720,573,6157,Daredevil,Ben Affleck,4.77
+1721,132,6367,Down with Love,Ewan McGregor,4.8509090909090915
+1722,132,6367,Down with Love,Renee Zellweger,4.782727272727272
+1723,474,6367,Down with Love,retro,4.805714285714286
+1724,474,6936,Elf,christmas,5.045454545454546
+1725,62,6058,Final Destination 2,sequel,4.915
+1726,62,6058,Final Destination 2,violent,5.028571428571429
+1727,474,6377,Finding Nemo,Disney,4.996
+1728,474,6377,Finding Nemo,fish,5.1
+1729,567,6377,Finding Nemo,heartwarming,5.0025
+1730,474,6297,Holes,children,4.9675
+1731,474,7158,House of Sand and Fog,real estate,4.8950000000000005
+1732,62,6534,Hulk,dogs,4.915
+1733,62,6534,Hulk,Eric Bana,5.1475
+1734,62,6534,Hulk,mad scientist,5.136666666666667
+1735,62,6534,Hulk,marvel,4.956666666666666
+1736,132,6323,Identity,John Cusack,5.01
+1737,474,6378,The Italian Job,heist,5.064
+1738,62,6541,The League of Extraordinary Gentlemen,captain nemo,5.033333333333333
+1739,62,6541,The League of Extraordinary Gentlemen,comic book,4.956470588235294
+1740,62,6541,The League of Extraordinary Gentlemen,gothic,5.026666666666666
+1741,62,6541,The League of Extraordinary Gentlemen,Peta Wilson,5.102499999999999
+1742,62,6541,The League of Extraordinary Gentlemen,Sean Connery,4.807058823529411
+1743,62,6541,The League of Extraordinary Gentlemen,superhero,4.875384615384616
+1744,62,7153,The Lord of the Rings: The Return of the King,Adventure,4.822
+1745,62,7153,The Lord of the Rings: The Return of the King,ensemble cast,4.8709999999999996
+1746,62,7153,The Lord of the Rings: The Return of the King,fantasy,4.975555555555555
+1747,62,7153,The Lord of the Rings: The Return of the King,fantasy world,4.9557142857142855
+1748,62,7153,The Lord of the Rings: The Return of the King,great soundtrack,4.945714285714286
+1749,62,7153,The Lord of the Rings: The Return of the King,lord of the rings,4.926666666666666
+1750,62,7153,The Lord of the Rings: The Return of the King,scenic,4.9125
+1751,62,7153,The Lord of the Rings: The Return of the King,stylized,5.01
+1752,62,7153,The Lord of the Rings: The Return of the King,Tolkien,5.116666666666667
+1753,474,7153,The Lord of the Rings: The Return of the King,Tolkein,5.116666666666666
+1754,300,6711,Lost in Translation,atmospheric,5.010909090909091
+1755,474,6711,Lost in Translation,Japan,5.14
+1756,474,6708,Matchstick Men,con men,4.84
+1757,474,6708,Matchstick Men,fatherhood,4.855714285714285
+1758,474,6296,A Mighty Wind,mockumentary,4.95
+1759,474,7160,Monster,serial killer,5.1866666666666665
+1760,474,7141,My Flesh and Blood,In Netflix queue,4.979
+1761,474,6870,Mystic River,child abuse,5.078
+1762,474,6870,Mystic River,kidnapping,5.19375
+1763,474,6881,Pieces of April,Thanksgiving,5.144705882352942
+1764,474,6539,Pirates of the Caribbean: The Curse of the Black Pearl,swashbuckler,4.992857142857143
+1765,474,6863,School of Rock,school,4.9575
+1766,474,6565,Seabiscuit,horses,4.9275
+1767,474,6753,Secondhand Lions,Animal movie,5.257142857142857
+1768,474,6156,Shanghai Knights,England,4.9325
+1769,474,6932,Shattered Glass,journalism,5.1659999999999995
+1770,474,6536,Sinbad: Legend of the Seven Seas,swashbuckler,4.992857142857143
+1771,474,6867,The Station Agent,trains,5.1066666666666665
+1772,474,7285,Thirteen,adolescence,4.807368421052631
+1773,62,8641,Anchorman: The Legend of Ron Burgundy,hilarious,5.390909090909091
+1774,62,8641,Anchorman: The Legend of Ron Burgundy,Steve Carell,4.889411764705883
+1775,62,8641,Anchorman: The Legend of Ron Burgundy,Will Ferrell,5.136
+1776,305,8641,Anchorman: The Legend of Ron Burgundy,stupid,5.183333333333333
+1777,327,8641,Anchorman: The Legend of Ron Burgundy,awesome,4.893333333333333
+1778,424,8641,Anchorman: The Legend of Ron Burgundy,comedy,4.773333333333333
+1779,424,8641,Anchorman: The Legend of Ron Burgundy,Will Ferrell,5.136
+1780,474,30812,The Aviator,biopic,5.404999999999999
+1781,474,30812,The Aviator,Howard Hughes,4.958
+1782,474,30812,The Aviator,movie business,5.120869565217391
+1783,474,8638,Before Sunset,generation X,4.917142857142857
+1784,474,8943,Being Julia,stage,4.956
+1785,474,27878,Born into Brothels,India,5.175
+1786,125,7254,The Butterfly Effect,alternate reality,4.964736842105264
+1787,125,7254,The Butterfly Effect,sci-fi,5.437142857142858
+1788,125,7254,The Butterfly Effect,science fiction,5.107333333333333
+1789,125,7254,The Butterfly Effect,time travel,4.941428571428572
+1790,474,33166,Crash,racism,5.123333333333334
+1791,193,7361,Eternal Sunshine of the Spotless Mind,alternate reality,4.964736842105264
+1792,193,7361,Eternal Sunshine of the Spotless Mind,memory,4.897499999999999
+1793,193,7361,Eternal Sunshine of the Spotless Mind,thought-provoking,4.954285714285715
+1794,424,7361,Eternal Sunshine of the Spotless Mind,jim carrey,4.934545454545455
+1795,474,7361,Eternal Sunshine of the Spotless Mind,memory,4.897499999999999
+1796,477,7361,Eternal Sunshine of the Spotless Mind,cult film,5.18
+1797,477,7361,Eternal Sunshine of the Spotless Mind,imagination,5.396190476190476
+1798,477,7361,Eternal Sunshine of the Spotless Mind,Jim Carrey,4.948888888888889
+1799,477,7361,Eternal Sunshine of the Spotless Mind,love,4.904999999999999
+1800,477,7361,Eternal Sunshine of the Spotless Mind,surreal,4.9911111111111115
+1801,567,7361,Eternal Sunshine of the Spotless Mind,arthouse,4.9875
+1802,567,7361,Eternal Sunshine of the Spotless Mind,artistic,5.233333333333333
+1803,567,7361,Eternal Sunshine of the Spotless Mind,atmospheric,5.010909090909091
+1804,567,7361,Eternal Sunshine of the Spotless Mind,beautiful,5.232727272727273
+1805,567,7361,Eternal Sunshine of the Spotless Mind,bittersweet,4.84695652173913
+1806,567,7361,Eternal Sunshine of the Spotless Mind,colourful,5.144
+1807,567,7361,Eternal Sunshine of the Spotless Mind,comedy,4.773333333333333
+1808,567,7361,Eternal Sunshine of the Spotless Mind,dreamlike,4.989090909090909
+1809,567,7361,Eternal Sunshine of the Spotless Mind,emotional,5.065454545454545
+1810,567,7361,Eternal Sunshine of the Spotless Mind,feel-good,4.858333333333333
+1811,567,7361,Eternal Sunshine of the Spotless Mind,happpiness,5.066666666666666
+1812,567,7361,Eternal Sunshine of the Spotless Mind,humane,5.026666666666666
+1813,567,7361,Eternal Sunshine of the Spotless Mind,insightful,5.296666666666667
+1814,567,7361,Eternal Sunshine of the Spotless Mind,intelligent,5.107619047619048
+1815,567,7361,Eternal Sunshine of the Spotless Mind,lovely,4.9925
+1816,567,7361,Eternal Sunshine of the Spotless Mind,melancholy,4.991666666666667
+1817,567,7361,Eternal Sunshine of the Spotless Mind,mind-bending,5.023809523809524
+1818,567,7361,Eternal Sunshine of the Spotless Mind,philosophy,5.0
+1819,567,7361,Eternal Sunshine of the Spotless Mind,quirky,5.05
+1820,567,7361,Eternal Sunshine of the Spotless Mind,quirky romantic,5.112222222222222
+1821,567,7361,Eternal Sunshine of the Spotless Mind,romantic,5.040000000000001
+1822,567,7361,Eternal Sunshine of the Spotless Mind,surreal,4.9911111111111115
+1823,567,7361,Eternal Sunshine of the Spotless Mind,surrealism,5.072857142857143
+1824,567,7361,Eternal Sunshine of the Spotless Mind,thought-provoking,4.954285714285715
+1825,474,8970,Finding Neverland,Peter Pan,4.82
+1826,474,8784,Garden State,psychology,4.827142857142857
+1827,474,8368,Harry Potter and the Prisoner of Azkaban,Magic,5.2
+1828,474,8368,Harry Potter and the Prisoner of Azkaban,Wizards,5.13
+1829,474,30749,Hotel Rwanda,genocide,4.894
+1830,474,8961,The Incredibles,Disney,4.996
+1831,474,8961,The Incredibles,superhero,4.875384615384616
+1832,477,8961,The Incredibles,animation,5.252
+1833,477,8961,The Incredibles,Samuel L. Jackson,5.081538461538462
+1834,474,30822,In Good Company,busniess,5.0842857142857145
+1835,62,27706,Lemony Snicket's A Series of Unfortunate Events,dark comedy,4.8183333333333325
+1836,62,27706,Lemony Snicket's A Series of Unfortunate Events,Jim Carrey,4.948888888888889
+1837,62,27706,Lemony Snicket's A Series of Unfortunate Events,meryl streep,4.808421052631579
+1838,62,27706,Lemony Snicket's A Series of Unfortunate Events,quirky,5.05
+1839,62,27706,Lemony Snicket's A Series of Unfortunate Events,stylized,5.01
+1840,567,30810,The Life Aquatic with Steve Zissou,heartwarming,5.0025
+1841,567,30810,The Life Aquatic with Steve Zissou,off-beat comedy,4.797894736842105
+1842,567,30810,The Life Aquatic with Steve Zissou,quirky,5.05
+1843,567,30810,The Life Aquatic with Steve Zissou,trippy,5.0325
+1844,567,30810,The Life Aquatic with Steve Zissou,visually appealing,5.235757575757575
+1845,567,30810,The Life Aquatic with Steve Zissou,whimsical,5.332727272727272
+1846,474,8645,Maria Full of Grace,drugs,5.0
+1847,474,8645,Maria Full of Grace,immigrants,5.255714285714285
+1848,474,27838,Mean Creek,revenge,4.744615384615385
+1849,357,7451,Mean Girls,clever,4.7875000000000005
+1850,357,7451,Mean Girls,High School,4.989999999999999
+1851,357,7451,Mean Girls,lesbian subtext,4.975454545454546
+1852,474,7451,Mean Girls,High School,4.989999999999999
+1853,424,30825,Meet the Fockers,Ben Stiller,5.03
+1854,424,30825,Meet the Fockers,Robert De Niro,4.896
+1855,474,30707,Million Dollar Baby,boxing,5.066666666666667
+1856,537,8533,The Notebook,memory loss,4.96875
+1857,537,8533,The Notebook,romance,4.897142857142858
+1858,537,8533,The Notebook,sad,5.0
+1859,474,7318,The Passion of the Christ,religion,5.318
+1860,474,8914,Primer,time travel,4.941428571428572
+1861,477,7439,The Punisher,comic book,4.956470588235294
+1862,474,8958,Ray,biopic,5.404999999999999
+1863,125,8957,Saw,brutal,5.083333333333333
+1864,125,8957,Saw,clever,4.7875000000000005
+1865,125,8957,Saw,Disturbing,5.3145454545454545
+1866,125,8957,Saw,great ending,4.907058823529412
+1867,125,8957,Saw,mindfuck,5.047499999999999
+1868,125,8957,Saw,surprise ending,5.056666666666666
+1869,125,8957,Saw,suspense,4.977500000000001
+1870,474,8360,Shrek 2,ogres,4.888
+1871,474,8949,Sideways,wine,5.08
+1872,62,27808,Spanglish,Adam Sandler,4.961538461538462
+1873,62,27808,Spanglish,family,5.1033333333333335
+1874,62,27808,Spanglish,sweet,4.8028571428571425
+1875,477,8783,The Village,Atmospheric,4.9879999999999995
+1876,477,8783,The Village,good soundtrack,4.927272727272727
+1877,477,8783,The Village,M. Night Shyamalan,5.085
+1878,474,30820,The Woodsman,child abuse,5.078
+1879,474,32584,The Ballad of Jack and Rose,fatherhood,4.855714285714285
+1880,474,34437,Broken Flowers,In Netflix queue,4.979
+1881,474,37741,Capote,Truman Capote,5.06
+1882,474,30793,Charlie and the Chocolate Factory,roald dahl,5.033333333333333
+1883,336,33660,Cinderella Man,boksdrama,5.032727272727272
+1884,474,33660,Cinderella Man,boxing,5.066666666666667
+1885,62,37729,Corpse Bride,gothic,5.026666666666666
+1886,62,37729,Corpse Bride,helena bonham carter,4.914444444444444
+1887,62,37729,Corpse Bride,Johnny Depp,4.873333333333333
+1888,62,37729,Corpse Bride,Tim Burton,5.128571428571429
+1889,62,37729,Corpse Bride,visually appealing,5.235757575757575
+1890,336,37729,Corpse Bride,animation,5.252
+1891,474,37729,Corpse Bride,06 Oscar Nominated Best Movie - Animation,5.139726027397261
+1892,424,34323,The Devil's Rejects,Rob Zombie,4.990909090909091
+1893,474,35015,Duma,Animal movie,5.257142857142857
+1894,474,35015,Duma,In Netflix queue,4.979
+1895,474,36535,Everything Is Illuminated,In Netflix queue,4.979
+1896,62,34150,Fantastic Four,Chris Evans,5.037999999999999
+1897,62,34150,Fantastic Four,comic book,4.956470588235294
+1898,62,34150,Fantastic Four,heroine in tight suit,5.259047619047619
+1899,62,34150,Fantastic Four,Jessica Alba,5.121538461538462
+1900,62,34150,Fantastic Four,sexy female scientist,4.952682926829269
+1901,62,34150,Fantastic Four,superhero,4.875384615384616
+1902,474,40815,Harry Potter and the Goblet of Fire,Magic,5.2
+1903,474,40815,Harry Potter and the Goblet of Fire,Wizards,5.13
+1904,474,37733,A History of Violence,In Netflix queue,4.979
+1905,336,38798,In Her Shoes,sisters,5.047692307692308
+1906,424,40278,Jarhead,Jake Gyllenhaal,5.102307692307692
+1907,424,40278,Jarhead,Modern war,4.843999999999999
+1908,474,34528,Junebug,pregnancy,4.836363636363637
+1909,477,41569,King Kong,big budget,4.987692307692308
+1910,62,33162,Kingdom of Heaven,David Thewlis,5.25
+1911,62,33162,Kingdom of Heaven,Eva Green,4.797499999999999
+1912,62,33162,Kingdom of Heaven,Liam Neeson,4.992
+1913,62,33162,Kingdom of Heaven,Orlando Bloom,5.021111111111111
+1914,62,38061,Kiss Kiss Bang Bang,black comedy,4.8538461538461535
+1915,62,38061,Kiss Kiss Bang Bang,clever,4.7875000000000005
+1916,62,38061,Kiss Kiss Bang Bang,fast-paced dialogue,5.03037037037037
+1917,62,38061,Kiss Kiss Bang Bang,good dialogue,4.998181818181818
+1918,62,38061,Kiss Kiss Bang Bang,Robert Downey Jr.,4.804705882352941
+1919,62,38061,Kiss Kiss Bang Bang,witty,4.945714285714286
+1920,474,38061,Kiss Kiss Bang Bang,In Netflix queue,4.979
+1921,336,36529,Lord of War,wapendrama,5.07375
+1922,474,41997,Munich,In Netflix queue,4.979
+1923,474,39234,North Country,courtroom drama,4.954666666666666
+1924,474,39234,North Country,In Netflix queue,4.979
+1925,474,42002,The Producers,In Netflix queue,4.979
+1926,474,36527,Proof,mathematics,5.043529411764705
+1927,305,34405,Serenity,predictable,4.943076923076922
+1928,474,34405,Serenity,Firefly,4.97
+1929,336,32587,Sin City,cult,5.085
+1930,474,38886,The Squid and the Whale,divorce,4.922857142857143
+1931,474,40583,Syriana,In Netflix queue,4.979
+1932,474,40819,Walk the Line,Johnny Cash,4.8500000000000005
+1933,336,34162,Wedding Crashers,stiller,5.157777777777778
+1934,62,49530,Blood Diamond,Africa,5.056
+1935,62,49530,Blood Diamond,corruption,4.987142857142857
+1936,62,49530,Blood Diamond,Jennifer Connelly,4.867647058823529
+1937,62,49530,Blood Diamond,justice,5.111428571428571
+1938,62,49530,Blood Diamond,Leonardo DiCaprio,5.1088
+1939,7,48516,The Departed,way too long,4.94375
+1940,357,48516,The Departed,Leonardo DiCaprio,5.1088
+1941,357,48516,The Departed,suspense,4.977500000000001
+1942,357,48516,The Departed,twist ending,5.094117647058823
+1943,357,48516,The Departed,undercover cop,4.82952380952381
+1944,424,48516,The Departed,atmospheric,5.010909090909091
+1945,424,48516,The Departed,Jack Nicholson,4.982666666666666
+1946,424,48516,The Departed,Leonardo DiCaprio,5.1088
+1947,424,48516,The Departed,Martin Scorsese,4.924444444444444
+1948,424,48516,The Departed,suspense,4.977500000000001
+1949,62,49130,A Good Year,Marion Cotillard,5.178260869565217
+1950,477,47610,The Illusionist,costume drama,5.03
+1951,477,47610,The Illusionist,Edward Norton,4.85
+1952,477,47610,The Illusionist,magic,5.172
+1953,477,47610,The Illusionist,Paul Giamatti,5.302999999999999
+1954,18,44665,Lucky Number Slevin,twist ending,5.094117647058823
+1955,567,45880,Marie Antoinette,cinematography,5.0024999999999995
+1956,567,45880,Marie Antoinette,lyrical,5.137777777777778
+1957,62,46972,Night at the Museum,Ben Stiller,5.03
+1958,62,46972,Night at the Museum,Robin Williams,5.4926315789473685
+1959,567,48394,Pan's Labyrinth,atmospheric,5.010909090909091
+1960,567,48394,Pan's Labyrinth,bittersweet,4.84695652173913
+1961,567,48394,Pan's Labyrinth,visually appealing,5.235757575757575
+1962,226,48780,The Prestige,ummarti2006,5.171111111111111
+1963,567,48780,The Prestige,atmospheric,5.010909090909091
+1964,567,48780,The Prestige,enigmatic,5.2727272727272725
+1965,357,54997,3:10 to Yuma,Christian Bale,5.261333333333332
+1966,537,55765,American Gangster,corruption,4.987142857142857
+1967,537,55765,American Gangster,Denzel Washington,4.925454545454546
+1968,537,55765,American Gangster,mafia,5.225714285714285
+1969,537,55765,American Gangster,organized crime,5.0600000000000005
+1970,166,54286,The Bourne Ultimatum,assassin,5.106363636363636
+1971,166,54286,The Bourne Ultimatum,assassin-in-training (scene),5.138795180722892
+1972,166,54286,The Bourne Ultimatum,espionage,4.987272727272727
+1973,166,54286,The Bourne Ultimatum,Robert Ludlum,5.1066666666666665
+1974,18,52604,Fracture,Anthony Hopkins,4.918000000000001
+1975,18,52604,Fracture,courtroom drama,4.954666666666666
+1976,18,52604,Fracture,twist ending,5.094117647058823
+1977,357,55290,Gone Baby Gone,Casey Affleck,4.798571428571429
+1978,357,55290,Gone Baby Gone,great performances,4.855483870967742
+1979,357,55290,Gone Baby Gone,twist,5.025714285714286
+1980,477,56174,I Am Legend,alone in the world,4.968695652173913
+1981,477,56174,I Am Legend,apocalypse,5.027142857142858
+1982,477,56174,I Am Legend,based on a book,4.966363636363636
+1983,477,56174,I Am Legend,last man on earth,5.0183333333333335
+1984,477,56174,I Am Legend,plot holes,5.0323076923076915
+1985,477,56174,I Am Legend,Post apocalyptic,4.996666666666666
+1986,477,56174,I Am Legend,post-apocalyptic,5.007586206896551
+1987,477,56174,I Am Legend,religion,5.318
+1988,477,56174,I Am Legend,vampire,5.062857142857142
+1989,573,52712,The Invisible,HORRIBLE ACTING,
+1990,573,52712,The Invisible,interesting,5.050526315789474
+1991,477,56367,Juno,Michael Cera,5.024615384615384
+1992,477,56367,Juno,notable soundtrack,4.9616
+1993,477,56367,Juno,pregnancy,4.836363636363637
+1994,477,56367,Juno,teenage pregnancy,4.82842105263158
+1995,477,56367,Juno,witty,4.945714285714286
+1996,161,52287,Meet the Robinsons,Something for everyone in this one... saw it without and plan on seeing it with kids!,5.1025787965616045
+1997,477,54503,Superbad,friendship,5.1883333333333335
+1998,477,54503,Superbad,high school,4.9399999999999995
+1999,477,54503,Superbad,Michael Cera,5.024615384615384
+2000,477,54503,Superbad,nerds,4.816
+2001,477,54503,Superbad,self discovery,4.892941176470589
+2002,477,54503,Superbad,shenanigans,4.994285714285715
+2003,477,54503,Superbad,virginity,5.453333333333333
+2004,567,56782,There Will Be Blood,atmospheric,5.010909090909091
+2005,567,56782,There Will Be Blood,cerebral,4.838333333333334
+2006,567,56782,There Will Be Blood,character study,4.887272727272727
+2007,567,56782,There Will Be Blood,gritty,4.9350000000000005
+2008,567,56782,There Will Be Blood,intense,4.905454545454545
+2009,567,56782,There Will Be Blood,long shots,4.975384615384616
+2010,567,56782,There Will Be Blood,morality,5.07
+2011,567,56782,There Will Be Blood,visually appealing,5.235757575757575
+2012,356,61323,Burn After Reading,dark comedy,4.8183333333333325
+2013,477,61323,Burn After Reading,Brad Pitt,5.0025
+2014,477,61323,Burn After Reading,Coen Bros,4.9
+2015,477,61323,Burn After Reading,Coen Brothers,4.83375
+2016,477,61323,Burn After Reading,dark comedy,4.8183333333333325
+2017,477,61323,Burn After Reading,espionage,4.987272727272727
+2018,477,61323,Burn After Reading,George Clooney,4.844347826086957
+2019,477,61323,Burn After Reading,John Malkovich,4.977333333333333
+2020,477,61323,Burn After Reading,satire,5.09
+2021,477,61323,Burn After Reading,twists & turns,4.992173913043478
+2022,477,61323,Burn After Reading,weird,5.0
+2023,567,63062,Changeling,emotional,5.065454545454545
+2024,62,59501,The Chronicles of Narnia: Prince Caspian,fantasy,4.975555555555555
+2025,62,59501,The Chronicles of Narnia: Prince Caspian,lion,5.245
+2026,62,59501,The Chronicles of Narnia: Prince Caspian,narnia,5.094
+2027,62,59501,The Chronicles of Narnia: Prince Caspian,Tilda Swinton,5.204285714285715
+2028,62,58047,"Definitely, Maybe",Rachel Weisz,4.994545454545454
+2029,62,58047,"Definitely, Maybe",Ryan Reynolds,4.797142857142857
+2030,138,59103,The Forbidden Kingdom,jackie chan,5.0042857142857144
+2031,138,59103,The Forbidden Kingdom,kung fu,5.1850000000000005
+2032,62,60126,Get Smart,Anne Hathaway,5.007777777777779
+2033,62,60126,Get Smart,Steve Carell,4.889411764705883
+2034,62,60074,Hancock,bad script,5.015555555555555
+2035,62,60074,Hancock,Charlize Theron,4.916666666666667
+2036,62,60074,Hancock,Will Smith,5.409090909090909
+2037,477,57669,In Bruges,black comedy,4.8538461538461535
+2038,477,57669,In Bruges,Colin Farrell,5.127777777777777
+2039,477,57669,In Bruges,dark comedy,4.8183333333333325
+2040,477,57669,In Bruges,drugs,5.0
+2041,477,57669,In Bruges,friendship,5.1883333333333335
+2042,477,57669,In Bruges,irreverent,4.806363636363637
+2043,477,57669,In Bruges,Ralph Fiennes,4.964285714285714
+2044,477,57669,In Bruges,stylized,5.01
+2045,520,60516,Meet Dave,enjoyable,4.867272727272727
+2046,62,61024,Pineapple Express,comedy,4.773333333333333
+2047,62,61024,Pineapple Express,James Franco,5.003636363636364
+2048,62,61024,Pineapple Express,Seth Rogen,4.804444444444444
+2049,62,61024,Pineapple Express,Stoner Movie,4.903076923076923
+2050,2,60756,Step Brothers,funny,4.845714285714286
+2051,2,60756,Step Brothers,Highly quotable,5.065333333333333
+2052,2,60756,Step Brothers,will ferrell,5.107407407407408
+2053,62,60756,Step Brothers,comedy,4.773333333333333
+2054,62,60756,Step Brothers,funny,4.845714285714286
+2055,62,60756,Step Brothers,will ferrell,5.107407407407408
+2056,424,60756,Step Brothers,funny,4.845714285714286
+2057,424,60756,Step Brothers,will ferrell,5.107407407407408
+2058,62,63992,Twilight,audience intelligence underestimated,4.945820895522388
+2059,62,63992,Twilight,boring,5.043333333333334
+2060,62,63992,Twilight,chick flick,5.035
+2061,62,63992,Twilight,overrated,4.8015384615384615
+2062,62,63992,Twilight,Teen movie,4.8500000000000005
+2063,125,60950,Vicky Cristina Barcelona,threesome,4.7973333333333334
+2064,477,72998,Avatar,bad science,4.875714285714286
+2065,477,72998,Avatar,futuristic,5.2675
+2066,477,72998,Avatar,graphic design,5.1364705882352935
+2067,477,72998,Avatar,James Cameron,4.98
+2068,477,72998,Avatar,military,5.336
+2069,477,72998,Avatar,poor dialogue,5.045555555555556
+2070,477,72998,Avatar,sci-fi,5.437142857142858
+2071,477,72998,Avatar,superficial plot,5.213333333333333
+2072,477,72998,Avatar,unoriginal,5.262857142857143
+2073,477,72998,Avatar,white guilt,5.225714285714285
+2074,537,72998,Avatar,beautiful scenery,4.964166666666666
+2075,537,72998,Avatar,graphic design,5.1364705882352935
+2076,537,72998,Avatar,music,5.248
+2077,537,72998,Avatar,politics,5.356
+2078,537,72998,Avatar,romance,4.897142857142858
+2079,537,72998,Avatar,thought-provoking,4.954285714285715
+2080,537,72998,Avatar,too long,4.963076923076924
+2081,537,72998,Avatar,visually stunning,5.152666666666666
+2082,424,66097,Coraline,claymation,5.085
+2083,424,66097,Coraline,creepy,4.737500000000001
+2084,424,66097,Coraline,dark,4.9350000000000005
+2085,424,66097,Coraline,dark fairy tale,5.041904761904762
+2086,424,66097,Coraline,Surreal,4.985
+2087,424,66097,Coraline,Tim Burton,5.128571428571429
+2088,477,70286,District 9,intelligent sci-fi,5.352222222222222
+2089,477,72224,Gentlemen Broncos,bad humor,4.99
+2090,537,69122,The Hangover,casino,5.113333333333333
+2091,537,69122,The Hangover,comedy,4.773333333333333
+2092,537,69122,The Hangover,funny,4.845714285714286
+2093,537,69122,The Hangover,hotel,4.92
+2094,537,69122,The Hangover,Las Vegas,5.078
+2095,477,67087,"I Love You, Man",Andy Samberg,4.844444444444444
+2096,477,67087,"I Love You, Man",bromance,4.89
+2097,477,67087,"I Love You, Man",bromantic,5.017777777777778
+2098,477,67087,"I Love You, Man",comedy,4.773333333333333
+2099,477,67087,"I Love You, Man",Jaime Pressly,4.985714285714286
+2100,477,67087,"I Love You, Man",Jason Segel,4.9159999999999995
+2101,477,67087,"I Love You, Man",masculinity,5.281538461538461
+2102,477,67087,"I Love You, Man",Paul Rudd,5.148
+2103,424,68157,Inglourious Basterds,black comedy,4.8538461538461535
+2104,424,68157,Inglourious Basterds,Brad Pitt,5.0025
+2105,424,68157,Inglourious Basterds,Christoph Waltz,4.994999999999999
+2106,424,68157,Inglourious Basterds,Quentin Tarantino,5.034375000000001
+2107,424,68157,Inglourious Basterds,satire,5.09
+2108,477,68358,Star Trek,future,5.1325
+2109,477,68358,Star Trek,lack of development,4.895555555555556
+2110,477,68358,Star Trek,lack of story,4.910769230769231
+2111,477,68358,Star Trek,quick cuts,5.098461538461539
+2112,477,68358,Star Trek,sci-fi,5.437142857142858
+2113,477,68358,Star Trek,Simon Pegg,5.026666666666667
+2114,477,68358,Star Trek,space,4.952
+2115,477,68358,Star Trek,space travel,4.946666666666667
+2116,477,68358,Star Trek,time travel,4.941428571428572
+2117,477,68791,Terminator Salvation,artificial intelligence,5.3348387096774195
+2118,477,68791,Terminator Salvation,bad acting,5.067272727272727
+2119,477,68791,Terminator Salvation,bad plot,4.991428571428571
+2120,477,68791,Terminator Salvation,bad script,5.015555555555555
+2121,477,68791,Terminator Salvation,Christian Bale,5.261333333333332
+2122,477,68791,Terminator Salvation,FIGHTING THE SYSTEM,
+2123,477,68791,Terminator Salvation,franchise,4.962222222222222
+2124,477,68791,Terminator Salvation,new composer,4.869333333333333
+2125,477,68791,Terminator Salvation,post-apocalyptic,5.007586206896551
+2126,477,68791,Terminator Salvation,robots,4.9175
+2127,477,68791,Terminator Salvation,sci-fi,5.437142857142858
+2128,477,68791,Terminator Salvation,sequel,4.915
+2129,477,69526,Transformers: Revenge of the Fallen,bad plot,4.991428571428571
+2130,477,69526,Transformers: Revenge of the Fallen,Michael Bay,5.086
+2131,477,69526,Transformers: Revenge of the Fallen,needed more autobots,4.842499999999999
+2132,477,69526,Transformers: Revenge of the Fallen,plot holes,5.0323076923076915
+2133,477,69526,Transformers: Revenge of the Fallen,ridiculous,5.374285714285714
+2134,477,69526,Transformers: Revenge of the Fallen,Shia LaBeouf,5.151999999999999
+2135,477,69526,Transformers: Revenge of the Fallen,stop using useless characters for filler,4.9895412844036695
+2136,318,68954,Up,adventure,4.859999999999999
+2137,318,68954,Up,Bechdel Test:Fail,4.943
+2138,318,68954,Up,cartoon,4.913333333333333
+2139,318,68954,Up,children,4.9675
+2140,318,68954,Up,computer animation,5.1082758620689654
+2141,318,68954,Up,divorce,4.922857142857143
+2142,318,68954,Up,dogs,4.915
+2143,318,68954,Up,dreams,4.926666666666667
+2144,318,68954,Up,Pixar,5.215
+2145,567,68954,Up,bittersweet,4.84695652173913
+2146,567,68954,Up,emotional,5.065454545454545
+2147,567,68954,Up,heartbreaking,4.953684210526316
+2148,567,68954,Up,touching,5.0625
+2149,424,81562,127 Hours,stranded,4.832
+2150,424,81591,Black Swan,alter ego,4.892
+2151,424,81591,Black Swan,atmospheric,5.010909090909091
+2152,424,81591,Black Swan,creepy,4.737500000000001
+2153,424,81591,Black Swan,horror,4.832857142857143
+2154,424,81591,Black Swan,obsession,5.029411764705882
+2155,424,81591,Black Swan,surreal,4.9911111111111115
+2156,424,79132,Inception,action,5.079999999999999
+2157,424,79132,Inception,alternate reality,4.964736842105264
+2158,424,79132,Inception,Leonardo DiCaprio,5.1088
+2159,424,79132,Inception,sci-fi,5.437142857142858
+2160,424,79132,Inception,thought-provoking,4.954285714285715
+2161,424,79132,Inception,visually appealing,5.235757575757575
+2162,477,79132,Inception,dreamlike,4.989090909090909
+2163,477,79132,Inception,surreal,4.9911111111111115
+2164,477,79132,Inception,visually appealing,5.235757575757575
+2165,537,79132,Inception,big budget,4.987692307692308
+2166,537,79132,Inception,clever,4.7875000000000005
+2167,537,79132,Inception,complicated,4.9692307692307685
+2168,537,79132,Inception,dead wife,4.868333333333333
+2169,537,79132,Inception,great soundtrack,4.945714285714286
+2170,537,79132,Inception,heist,5.064
+2171,537,79132,Inception,intellectual,5.08909090909091
+2172,537,79132,Inception,mindfuck,5.047499999999999
+2173,537,79132,Inception,philosophy,5.0
+2174,537,79132,Inception,psychological,5.012631578947369
+2175,537,79132,Inception,psychology,4.827142857142857
+2176,537,79132,Inception,suspense,4.977500000000001
+2177,537,79132,Inception,thought-provoking,4.954285714285715
+2178,567,79132,Inception,cerebral,4.838333333333334
+2179,567,79132,Inception,dreamlike,4.989090909090909
+2180,567,79132,Inception,philosophy,5.0
+2181,567,79132,Inception,thought-provoking,4.954285714285715
+2182,477,79702,Scott Pilgrim vs. the World,geeky,4.757142857142857
+2183,477,79702,Scott Pilgrim vs. the World,Michael Cera,5.024615384615384
+2184,477,79702,Scott Pilgrim vs. the World,stylized,5.01
+2185,477,79702,Scott Pilgrim vs. the World,video games,4.951666666666667
+2186,424,74458,Shutter Island,insanity,5.213333333333334
+2187,424,74458,Shutter Island,Leonardo DiCaprio,5.1088
+2188,424,74458,Shutter Island,Martin Scorsese,4.924444444444444
+2189,424,74458,Shutter Island,plot twist,4.978666666666666
+2190,424,74458,Shutter Island,psychological,5.012631578947369
+2191,424,74458,Shutter Island,Psychological Thriller,5.110731707317074
+2192,424,74458,Shutter Island,thought-provoking,4.954285714285715
+2193,567,80463,The Social Network,good dialogue,4.998181818181818
+2194,567,80463,The Social Network,loneliness,5.017777777777777
+2195,567,80463,The Social Network,witty,4.945714285714286
+2196,537,80489,The Town,crime,5.036
+2197,537,80489,The Town,FBI,
+2198,537,80489,The Town,romance,4.897142857142858
+2199,537,80489,The Town,too much love interest,4.898918918918919
+2200,477,82461,Tron: Legacy,action choreography,4.921875
+2201,477,82461,Tron: Legacy,Horrid characterisation,5.078823529411764
+2202,477,82461,Tron: Legacy,Poor plot development,4.919047619047619
+2203,477,82461,Tron: Legacy,sequel,4.915
+2204,477,82461,Tron: Legacy,soundtrack,4.962000000000001
+2205,318,82459,True Grit,atmospheric,5.010909090909091
+2206,318,82459,True Grit,Coen Brothers,4.83375
+2207,318,82459,True Grit,Jeff Bridges,4.833846153846154
+2208,318,82459,True Grit,Matt Damon,5.014545454545455
+2209,318,82459,True Grit,predictable,4.943076923076922
+2210,62,88405,Friends with Benefits,comedy,4.773333333333333
+2211,62,88405,Friends with Benefits,funny,4.845714285714286
+2212,62,88405,Friends with Benefits,happy ending,4.956
+2213,62,88405,Friends with Benefits,HOT actress,4.937777777777778
+2214,62,88405,Friends with Benefits,Justin Timberlake,5.165555555555555
+2215,62,88405,Friends with Benefits,Mila Kunis,5.5088888888888885
+2216,62,88405,Friends with Benefits,New York City,4.945
+2217,62,88405,Friends with Benefits,romance,4.897142857142858
+2218,62,88405,Friends with Benefits,sex,4.8933333333333335
+2219,62,87430,Green Lantern,audience intelligence underestimated,4.945820895522388
+2220,62,87430,Green Lantern,CGI,
+2221,62,87430,Green Lantern,cheesy,4.737500000000001
+2222,62,87430,Green Lantern,comic book,4.956470588235294
+2223,62,87430,Green Lantern,DC,
+2224,62,87430,Green Lantern,DC Comics,5.136
+2225,62,87430,Green Lantern,Ryan Reynolds,4.797142857142857
+2226,62,87430,Green Lantern,space,4.952
+2227,62,87430,Green Lantern,superhero,4.875384615384616
+2228,537,90439,Margin Call,bank,4.975
+2229,537,90439,Margin Call,big corporations,5.0768
+2230,537,90439,Margin Call,business,5.0842857142857145
+2231,537,90439,Margin Call,corruption,4.987142857142857
+2232,537,90439,Margin Call,financial crisis,5.389142857142858
+2233,537,90439,Margin Call,Kevin Spacey,4.887272727272728
+2234,537,90439,Margin Call,realistic,5.298181818181818
+2235,537,90439,Margin Call,suspense,4.977500000000001
+2236,537,90439,Margin Call,Wall Street,4.9557142857142855
+2237,2,89774,Warrior,Boxing story,4.965
+2238,2,89774,Warrior,MMA,
+2239,2,89774,Warrior,Tom Hardy,4.873333333333333
+2240,537,97304,Argo,cia,5.286666666666667
+2241,537,97304,Argo,politics,5.356
+2242,537,97304,Argo,Thrilling,5.345
+2243,567,95558,Beasts of the Southern Wild,Beautiful,5.272
+2244,567,95558,Beasts of the Southern Wild,emotional,5.065454545454545
+2245,567,95558,Beasts of the Southern Wild,poetic,5.033333333333333
+2246,62,99114,Django Unchained,action,5.079999999999999
+2247,62,99114,Django Unchained,Christoph Waltz,4.994999999999999
+2248,62,99114,Django Unchained,funny,4.845714285714286
+2249,62,99114,Django Unchained,good soundtrack,4.927272727272727
+2250,62,99114,Django Unchained,Great performances,4.852666666666666
+2251,62,99114,Django Unchained,Humour,5.268571428571428
+2252,62,99114,Django Unchained,Leonardo DiCaprio,5.1088
+2253,62,99114,Django Unchained,Quentin Tarantino,5.034375000000001
+2254,62,99114,Django Unchained,Samuel L. Jackson,5.081538461538462
+2255,62,99114,Django Unchained,Soundtrack,4.953333333333333
+2256,62,99114,Django Unchained,western,4.802222222222222
+2257,537,99114,Django Unchained,Soundtrack,4.953333333333333
+2258,357,91500,The Hunger Games,ending,4.9475
+2259,193,97938,Life of Pi,cinematography,5.0024999999999995
+2260,193,97938,Life of Pi,India,5.175
+2261,193,97938,Life of Pi,surreal,4.9911111111111115
+2262,193,97938,Life of Pi,cinematography,5.0024999999999995
+2263,193,97938,Life of Pi,India,5.175
+2264,193,97938,Life of Pi,surreal,4.9911111111111115
+2265,567,94959,Moonrise Kingdom,quirky,5.05
+2266,62,96861,Taken 2,Istanbul,5.082857142857143
+2267,62,96861,Taken 2,Liam Neeson,4.992
+2268,62,96861,Taken 2,predictable,4.943076923076922
+2269,62,96861,Taken 2,Turkey,4.9
+2270,62,96861,Taken 2,unnecessary sequel,4.905641025641025
+2271,537,95441,Ted,crude humor,5.011428571428572
+2272,537,95067,A Thousand Words,interesting scenario,5.06093023255814
+2273,419,98961,Zero Dark Thirty,Afghanistan,5.03
+2274,419,98961,Zero Dark Thirty,American propaganda,5.071428571428571
+2275,419,98961,Zero Dark Thirty,assassination,5.158857142857143
+2276,419,98961,Zero Dark Thirty,military,5.336
+2277,419,98961,Zero Dark Thirty,terrorism,4.904
+2278,62,107348,Anchorman 2: The Legend Continues,comedy,4.773333333333333
+2279,62,107348,Anchorman 2: The Legend Continues,Steve Carell,4.889411764705883
+2280,62,107348,Anchorman 2: The Legend Continues,stupid but funny,5.1258333333333335
+2281,62,107348,Anchorman 2: The Legend Continues,will ferrell,5.107407407407408
+2282,537,105504,Captain Phillips,hostage,4.934285714285714
+2283,537,105504,Captain Phillips,ocean,4.888
+2284,537,105504,Captain Phillips,suspense,4.977500000000001
+2285,567,105504,Captain Phillips,suspense,4.977500000000001
+2286,567,105504,Captain Phillips,tense,4.797142857142857
+2287,424,106100,Dallas Buyers Club,Jared Leto,4.8244444444444445
+2288,424,106100,Dallas Buyers Club,social commentary,4.988333333333333
+2289,424,106100,Dallas Buyers Club,uplifting,5.343636363636364
+2290,537,104841,Gravity,cliche characters,4.845555555555555
+2291,537,104841,Gravity,long shots,4.975384615384616
+2292,537,104841,Gravity,predictable,4.943076923076922
+2293,537,104841,Gravity,Simple,5.208
+2294,537,104841,Gravity,slow action,5.045
+2295,537,104841,Gravity,visually appealing,5.235757575757575
+2296,537,104841,Gravity,cliche characters,4.845555555555555
+2297,537,104841,Gravity,long shots,4.975384615384616
+2298,537,104841,Gravity,predictable,4.943076923076922
+2299,537,104841,Gravity,Simple,5.208
+2300,537,104841,Gravity,slow action,5.045
+2301,537,104841,Gravity,visually appealing,5.235757575757575
+2302,537,104218,Grown Ups 2,Adam Sandler,4.961538461538462
+2303,567,106766,Inside Llewyn Davis,atmospheric,5.010909090909091
+2304,567,106766,Inside Llewyn Davis,cinematography,5.0024999999999995
+2305,567,106766,Inside Llewyn Davis,depressing,4.948571428571428
+2306,567,106766,Inside Llewyn Davis,funny,4.845714285714286
+2307,567,106766,Inside Llewyn Davis,atmospheric,5.010909090909091
+2308,567,106766,Inside Llewyn Davis,cinematography,5.0024999999999995
+2309,567,106766,Inside Llewyn Davis,depressing,4.948571428571428
+2310,567,106766,Inside Llewyn Davis,funny,4.845714285714286
+2311,62,103042,Man of Steel,Amy Adams,4.965
+2312,62,103042,Man of Steel,superhero,4.875384615384616
+2313,62,103042,Man of Steel,Amy Adams,4.965
+2314,62,103042,Man of Steel,superhero,4.875384615384616
+2315,125,100083,Movie 43,embarassing scenes,4.964102564102565
+2316,125,100083,Movie 43,offensive,4.833846153846154
+2317,125,100083,Movie 43,R language,5.088333333333334
+2318,125,100083,Movie 43,sarcasm,5.0600000000000005
+2319,125,100083,Movie 43,satire,5.09
+2320,424,102903,Now You See Me,illusions,5.350666666666666
+2321,424,102903,Now You See Me,overcomplicated,4.9085714285714275
+2322,424,102903,Now You See Me,predictable,4.943076923076922
+2323,424,102903,Now You See Me,stupid ending,5.108888888888888
+2324,424,104879,Prisoners,absorbing,5.005454545454546
+2325,424,104879,Prisoners,acting,5.076666666666667
+2326,424,104879,Prisoners,atmospheric,5.010909090909091
+2327,424,104879,Prisoners,Hugh Jackman,5.072727272727272
+2328,424,104879,Prisoners,Jake Gyllenhaal,5.102307692307692
+2329,424,104879,Prisoners,morality,5.07
+2330,424,104879,Prisoners,mystery,4.706666666666667
+2331,424,104879,Prisoners,thriller,5.043333333333333
+2332,567,104944,Short Term 12,emotional,5.065454545454545
+2333,567,104944,Short Term 12,feel-good,4.858333333333333
+2334,567,104944,Short Term 12,heartwarming,5.0025
+2335,567,104944,Short Term 12,mental illness,5.0760000000000005
+2336,567,104944,Short Term 12,touching,5.0625
+2337,567,99917,Upstream Color,artistic,5.233333333333333
+2338,567,99917,Upstream Color,artsy,4.8759999999999994
+2339,567,99917,Upstream Color,atmospheric,5.010909090909091
+2340,567,99917,Upstream Color,Beautiful,5.272
+2341,567,99917,Upstream Color,dreamlike,4.989090909090909
+2342,567,99917,Upstream Color,existentialism,5.269230769230769
+2343,62,108190,Divergent,anti-intellectual,5.113888888888889
+2344,62,108190,Divergent,bad writing,5.226666666666667
+2345,62,108190,Divergent,dystopia,5.0325
+2346,62,108190,Divergent,new society,4.875
+2347,62,108190,Divergent,plot holes,5.0323076923076915
+2348,62,108190,Divergent,predictable,4.943076923076922
+2349,62,108190,Divergent,scifi,5.437142857142858
+2350,62,108190,Divergent,unintelligent,5.069629629629629
+2351,318,111364,Godzilla,Creature Feature,4.89027027027027
+2352,62,111743,A Million Ways to Die in the West,Charlize Theron,4.916666666666667
+2353,62,111743,A Million Ways to Die in the West,Liam Neeson,4.992
+2354,62,111743,A Million Ways to Die in the West,Seth MacFarlane,5.013684210526315
+2355,62,111743,A Million Ways to Die in the West,witty,4.945714285714286
+2356,567,112852,Guardians of the Galaxy,funny,4.845714285714286
+2357,567,112852,Guardians of the Galaxy,Great Visuals,5.155714285714287
+2358,567,112852,Guardians of the Galaxy,humorous,5.133333333333333
+2359,567,112852,Guardians of the Galaxy,unlikely hero,5.0175
+2360,567,112852,Guardians of the Galaxy,funny,4.845714285714286
+2361,567,112852,Guardians of the Galaxy,Great Visuals,5.155714285714287
+2362,567,112852,Guardians of the Galaxy,humorous,5.133333333333333
+2363,567,112852,Guardians of the Galaxy,unlikely hero,5.0175
+2364,62,114180,The Maze Runner,action,5.079999999999999
+2365,62,114180,The Maze Runner,dystopia,5.0325
+2366,62,114180,The Maze Runner,plot holes,5.0323076923076915
+2367,62,114180,The Maze Runner,post-apocalyptic,5.007586206896551
+2368,62,114180,The Maze Runner,survival,5.042
+2369,62,114180,The Maze Runner,thriller,5.043333333333333
+2370,62,114180,The Maze Runner,unexplained,4.9879999999999995
+2371,62,114180,The Maze Runner,weak plot,4.995
+2372,424,112556,Gone Girl,annoying,4.922857142857143
+2373,424,112556,Gone Girl,Stupid ending,5.1129411764705885
+2374,487,112552,Whiplash,passion,5.128888888888889
+2375,487,112552,Whiplash,psychological,5.012631578947369
+2376,487,112552,Whiplash,suspense,4.977500000000001
+2377,506,112552,Whiplash,jazz,5.1000000000000005
+2378,506,112552,Whiplash,music,5.248
+2379,506,112552,Whiplash,tense,4.797142857142857
+2380,567,112552,Whiplash,inspirational,5.368695652173913
+2381,567,112552,Whiplash,inspiring,5.434117647058823
+2382,567,112552,Whiplash,intense,4.905454545454545
+2383,49,109487,Interstellar,black hole,5.034545454545454
+2384,49,109487,Interstellar,sci-fi,5.437142857142858
+2385,49,109487,Interstellar,time-travel,4.941428571428572
+2386,424,109487,Interstellar,Christopher Nolan,4.954000000000001
+2387,424,109487,Interstellar,sci-fi,5.437142857142858
+2388,424,109487,Interstellar,time-travel,4.941428571428572
+2389,567,109487,Interstellar,bad dialogue,5.0680000000000005
+2390,567,109487,Interstellar,philosophical issues,5.211111111111111
+2391,567,109487,Interstellar,thought-provoking,4.954285714285715
+2392,567,109487,Interstellar,visually appealing,5.235757575757575
+2393,49,109487,Interstellar,black hole,5.034545454545454
+2394,49,109487,Interstellar,sci-fi,5.437142857142858
+2395,49,109487,Interstellar,time-travel,4.941428571428572
+2396,424,109487,Interstellar,Christopher Nolan,4.954000000000001
+2397,424,109487,Interstellar,sci-fi,5.437142857142858
+2398,424,109487,Interstellar,time-travel,4.941428571428572
+2399,567,109487,Interstellar,bad dialogue,5.0680000000000005
+2400,567,109487,Interstellar,philosophical issues,5.211111111111111
+2401,567,109487,Interstellar,thought-provoking,4.954285714285715
+2402,567,109487,Interstellar,visually appealing,5.235757575757575
+2403,119,115617,Big Hero 6,animation,5.252
+2404,119,115617,Big Hero 6,kids,5.17
+2405,119,115617,Big Hero 6,robots,4.9175
+2406,177,115617,Big Hero 6,feel-good,4.858333333333333
+2407,177,115617,Big Hero 6,fun family movie,5.108
+2408,177,115617,Big Hero 6,very funny,4.7323076923076925
+2409,21,118985,Big Eyes,painter,5.054285714285713
+2410,21,119141,The Interview,bloody,4.895
+2411,62,119141,The Interview,bromance,4.89
+2412,62,119141,The Interview,comedy,4.773333333333333
+2413,62,119141,The Interview,funny,4.845714285714286
+2414,62,119141,The Interview,James Franco,5.003636363636364
+2415,62,119141,The Interview,Seth Rogen,4.804444444444444
+2416,119,120635,Taken 3,action,5.079999999999999
+2417,119,120635,Taken 3,murder,4.8925
+2418,119,120635,Taken 3,police,5.1066666666666665
+2419,567,119145,Kingsman: The Secret Service,slick,5.188000000000001
+2420,567,122882,Mad Max: Fury Road,beautiful,5.232727272727273
+2421,567,122882,Mad Max: Fury Road,cinematography,5.0024999999999995
+2422,567,122882,Mad Max: Fury Road,visually appealing,5.235757575757575
+2423,567,134130,The Martian,smart,4.991999999999999
+2424,567,134130,The Martian,smart,4.991999999999999
+2425,62,139385,The Revenant,leonardo DiCarpio,5.115384615384615
+2426,62,139385,The Revenant,survival,5.042
+2427,62,139385,The Revenant,tom hardy,4.86
+2428,62,139385,The Revenant,visually appealing,5.235757575757575
+2429,567,139385,The Revenant,cinematography,5.0024999999999995
+2430,567,139385,The Revenant,visually appealing,5.235757575757575
+2431,567,139385,The Revenant,Visually Striking,5.411818181818182
+2432,567,152077,10 Cloverfield Lane,creepy,4.737500000000001
+2433,567,152077,10 Cloverfield Lane,suspense,4.977500000000001
+2434,62,136864,Batman v Superman: Dawn of Justice,action,5.079999999999999
+2435,62,136864,Batman v Superman: Dawn of Justice,batman,5.0649999999999995
+2436,62,136864,Batman v Superman: Dawn of Justice,ben affleck,4.808571428571428
+2437,62,136864,Batman v Superman: Dawn of Justice,dark,4.9350000000000005
+2438,62,136864,Batman v Superman: Dawn of Justice,dc comics,4.857142857142857
+2439,62,136864,Batman v Superman: Dawn of Justice,Gal Gadot,5.095000000000001
+2440,62,136864,Batman v Superman: Dawn of Justice,superhero,4.875384615384616
+2441,62,136864,Batman v Superman: Dawn of Justice,superman,5.029999999999999
+2442,62,136864,Batman v Superman: Dawn of Justice,wonderwoman,4.8870588235294115
+2443,62,135536,Suicide Squad,Bad story,4.865714285714286
+2444,62,135536,Suicide Squad,Bad writing,5.261818181818182
+2445,62,135536,Suicide Squad,Batman,5.097142857142857
+2446,62,135536,Suicide Squad,Ben Affleck,4.77
+2447,62,135536,Suicide Squad,comic book,4.956470588235294
+2448,62,135536,Suicide Squad,dc comics,4.857142857142857
+2449,62,135536,Suicide Squad,good soundtrack,4.927272727272727
+2450,62,135536,Suicide Squad,Harley Quinn,5.02
+2451,62,135536,Suicide Squad,Harley Quinn's ass,5.056521739130434
+2452,62,135536,Suicide Squad,Horrible directing,5.142666666666667
+2453,62,135536,Suicide Squad,Jared Leto,4.8244444444444445
+2454,62,135536,Suicide Squad,Joker,4.865
+2455,62,135536,Suicide Squad,lack of plot,5.031428571428571
+2456,62,135536,Suicide Squad,Margot Robbie,4.974285714285714
+2457,62,135536,Suicide Squad,Poor story,4.8825
+2458,62,135536,Suicide Squad,poorly paced,4.933333333333334
+2459,62,135536,Suicide Squad,superhero,4.875384615384616
+2460,62,135536,Suicide Squad,visually appealing,5.235757575757575
+2461,62,135536,Suicide Squad,Will Smith,5.409090909090909
+2462,125,158872,Sausage Party,Crude humor,5.035384615384616
+2463,125,158872,Sausage Party,mindfuck,5.047499999999999
+2464,125,158872,Sausage Party,sarcasm,5.0600000000000005
+2465,125,158872,Sausage Party,satire,5.09
+2466,125,158872,Sausage Party,Vulgar,5.152
+2467,62,168248,Get Out,action,5.079999999999999
+2468,62,168248,Get Out,dark hero,4.856
+2469,62,168248,Get Out,gun tactics,4.974285714285714
+2470,62,168248,Get Out,hitman,5.113333333333333
+2471,62,168248,Get Out,Keanu Reeves,4.799999999999999
+2472,62,168248,Get Out,organized crime,5.0600000000000005
+2473,62,168248,Get Out,secret society,4.8376
+2474,610,168248,Get Out,Heroic Bloodshed,4.909565217391305
+2475,567,168252,Kong: Skull Island,dark,4.9350000000000005
+2476,567,168252,Kong: Skull Island,emotional,5.065454545454545
+2477,567,168252,Kong: Skull Island,gritty,4.9350000000000005
+2478,567,168252,Kong: Skull Island,heartbreaking,4.953684210526316
+2479,567,168252,Kong: Skull Island,predictible plot,5.0912
+2480,567,170945,Megan Leavey,paranoia,5.192857142857143
+2481,567,170945,Megan Leavey,Suspenseful,5.057499999999999
+2482,567,122916,Thor: Ragnarok,awesome,4.893333333333333
+2483,567,122916,Thor: Ragnarok,humor,5.023999999999999
+2484,567,122916,Thor: Ragnarok,quirky,5.05
+2485,567,122916,Thor: Ragnarok,unconventional,4.922857142857144
+2486,567,122916,Thor: Ragnarok,white guilt,5.225714285714285
+2487,567,180985,Ferdinand,bad music,5.13
+2488,474,1913,Picnic at Hanging Rock,Australia,5.234
+2489,474,5747,Gallipoli,World War I,4.915
+2490,474,2919,The Year of Living Dangerously,Academy award (Best Supporting Actress),4.924
+2491,474,2919,The Year of Living Dangerously,Indonesia,4.9879999999999995
+2492,474,2919,The Year of Living Dangerously,journalism,5.1659999999999995
+2493,474,2470,Crocodile Dundee,Australia,5.234
+2494,474,2471,Crocodile Dundee II,Australia,5.234
+2495,474,4688,Black Robe,In Netflix queue,4.979
+2496,288,7020,Proof,Notable Nudity,5.0030769230769225
+2497,474,522,Romper Stomper,Australia,5.234
+2498,474,522,Romper Stomper,racism,5.123333333333334
+2499,474,522,Romper Stomper,violence,4.922
+2500,474,1188,Strictly Ballroom,Australia,5.234
+2501,474,1188,Strictly Ballroom,dance,4.84
+2502,474,342,Muriel's Wedding,Australia,5.234
+2503,474,342,Muriel's Wedding,weddings,4.918
+2504,606,1357,Shine,music,5.248
+2505,474,8809,Danny Deckchair,Australia,5.234
+2506,567,71899,Mary and Max,bittersweet,4.84695652173913
+2507,567,71899,Mary and Max,black comedy,4.8538461538461535
+2508,567,71899,Mary and Max,character study,4.887272727272727
+2509,567,71899,Mary and Max,dark comedy,4.8183333333333325
+2510,567,71899,Mary and Max,friendship,5.1883333333333335
+2511,567,71899,Mary and Max,loneliness,5.017777777777777
+2512,567,71899,Mary and Max,mental illness,5.0760000000000005
+2513,567,71899,Mary and Max,philosophical,5.176521739130435
+2514,567,71899,Mary and Max,poignant,5.024
+2515,567,71899,Mary and Max,quirky,5.05
+2516,567,71899,Mary and Max,sad,5.0
+2517,567,71899,Mary and Max,sweet,4.8028571428571425
+2518,567,71899,Mary and Max,touching,5.0625
+2519,474,965,The 39 Steps,fugitive,5.3
+2520,474,2208,The Lady Vanishes,train,5.12
+2521,474,4194,I Know Where I'm Going!,In Netflix queue,4.979
+2522,474,8338,Black Narcissus,convent,4.795555555555556
+2523,474,8338,Black Narcissus,religion,5.318
+2524,474,8341,Oliver Twist,Dickens,5.033333333333333
+2525,474,6660,The Red Shoes,ballet,5.095000000000001
+2526,474,6650,Kind Hearts and Coronets,family,5.1033333333333335
+2527,474,6650,Kind Hearts and Coronets,multiple roles,5.122857142857142
+2528,474,6650,Kind Hearts and Coronets,murder,4.8925
+2529,474,1212,The Third Man,ferris wheel,4.849473684210526
+2530,474,1212,The Third Man,Venice,4.902857142857143
+2531,474,1212,The Third Man,zither,5.023333333333333
+2532,474,2187,Stage Fright,theater,4.823636363636363
+2533,474,34482,The Browning Version,In Netflix queue,4.979
+2534,474,5603,The Lavender Hill Mob,crime,5.036
+2535,474,5603,The Lavender Hill Mob,heist,5.064
+2536,474,5470,The Importance of Being Earnest,Oscar Wilde,5.050000000000001
+2537,474,1250,The Bridge on the River Kwai,POW,
+2538,474,2553,Village of the Damned,evil children,5.12
+2539,474,1076,The Innocents,governess,4.861538461538462
+2540,474,2554,Children of the Damned,evil children,5.12
+2541,474,3461,Lord of the Flies,island,5.17
+2542,606,1948,Tom Jones,British,5.3925
+2543,474,2863,A Hard Day's Night,Beatles,4.91
+2544,474,5899,Zulu,Africa,5.056
+2545,474,4191,Alfie,sexuality,5.106666666666666
+2546,474,6232,Born Free,animal movie,5.254117647058823
+2547,474,6232,Born Free,lions,5.204000000000001
+2548,474,6305,Fahrenheit 451,Ray Bradbury,4.872
+2549,474,34359,Georgy Girl,pregnancy,4.836363636363637
+2550,474,8191,Anne of the Thousand Days,Anne Boleyn,4.81125
+2551,474,8754,The Prime of Miss Jean Brodie,Oscar (Best Actress),4.91030303030303
+2552,474,6849,Scrooge,Christmas,5.08
+2553,474,1206,A Clockwork Orange,brainwashing,5.176666666666667
+2554,474,7069,Macbeth,In Netflix queue,4.979
+2555,474,7069,Macbeth,Shakespeare,4.895555555555556
+2556,474,5120,Sleuth,In Netflix queue,4.979
+2557,474,8207,The Day of the Jackal,assassination,5.158857142857143
+2558,474,8879,Murder on the Orient Express,Agatha Christie,5.134
+2559,474,8879,Murder on the Orient Express,Oscar (Best Supporting Actress),4.933461538461538
+2560,474,8879,Murder on the Orient Express,train,5.12
+2561,424,1136,Monty Python and the Holy Grail,british comedy,5.1080000000000005
+2562,424,1136,Monty Python and the Holy Grail,Monty Python,4.776470588235294
+2563,474,1136,Monty Python and the Holy Grail,England,4.9325
+2564,474,1136,Monty Python and the Holy Grail,King Arthur,4.996
+2565,474,1125,The Return of the Pink Panther,Clousseau,5.203333333333333
+2566,567,2138,Watership Down,atmospheric,5.010909090909091
+2567,567,2138,Watership Down,beautiful,5.232727272727273
+2568,474,1080,Monty Python's Life of Brian,Bible,5.1899999999999995
+2569,474,1080,Monty Python's Life of Brian,parody,4.873333333333334
+2570,474,1080,Monty Python's Life of Brian,religion,5.318
+2571,474,1957,Chariots of Fire,Olympics,5.077142857142857
+2572,474,1957,Chariots of Fire,sports,4.9750000000000005
+2573,474,2968,Time Bandits,time travel,4.941428571428572
+2574,474,8379,The Dresser,In Netflix queue,4.979
+2575,474,8183,Educating Rita,In Netflix queue,4.979
+2576,474,6807,Monty Python's The Meaning of Life,british comedy,5.1080000000000005
+2577,474,1299,The Killing Fields,Cambodia,5.162222222222223
+2578,474,1299,The Killing Fields,Vietnam,5.1
+2579,474,6201,Lady Jane,England,4.9325
+2580,474,1960,The Last Emperor,China,5.195
+2581,474,1224,Henry V,Shakespeare,4.895555555555556
+2582,474,1185,My Left Foot,In Netflix queue,4.979
+2583,474,3723,Hamlet,Shakespeare,4.895555555555556
+2584,474,1177,Enchanted April,Italy,4.960000000000001
+2585,474,3260,Howards End,E.M. Forster,4.835
+2586,474,531,The Secret Garden,In Netflix queue,4.979
+2587,474,534,Shadowlands,C.S. Lewis,5.135
+2588,474,357,Four Weddings and a Funeral,wedding,4.904444444444445
+2589,474,272,The Madness of King George,England,4.9325
+2590,474,272,The Madness of King George,mental illness,5.0760000000000005
+2591,474,222,Circle of Friends,Ireland,4.926666666666667
+2592,474,638,Jack and Sarah,babies,5.035
+2593,474,41,Richard III,Shakespeare,4.895555555555556
+2594,318,778,Trainspotting,based on a book,4.966363636363636
+2595,318,778,Trainspotting,dark comedy,4.8183333333333325
+2596,318,778,Trainspotting,narrated,4.9316666666666675
+2597,474,778,Trainspotting,drug abuse,5.123636363636364
+2598,474,892,Twelfth Night,Shakespeare,4.895555555555556
+2599,474,2336,Elizabeth,England,4.9325
+2600,474,2442,Hilary and Jackie,In Netflix queue,4.979
+2601,474,2390,Little Voice,In Netflix queue,4.979
+2602,474,1680,Sliding Doors,alternate universe,4.882702702702702
+2603,474,3125,The End of the Affair,Graham Greene,4.862
+2604,474,3967,Billy Elliot,ballet,5.095000000000001
+2605,474,4246,Bridget Jones's Diary,singletons,5.007142857142857
+2606,474,5316,Enigma,World War II,4.915
+2607,305,6502,28 Days Later,zombies,5.088571428571428
+2608,474,6502,28 Days Later,zombies,5.088571428571428
+2609,474,6218,Bend It Like Beckham,soccer,4.7875
+2610,474,6552,Dirty Pretty Things,immigration,5.4263157894736835
+2611,474,6591,The Magdalene Sisters,religion,5.318
+2612,18,5995,The Pianist,holocaust,5.023636363636364
+2613,18,5995,The Pianist,true story,4.861538461538462
+2614,474,5995,The Pianist,Holocaust,5.046
+2615,474,6197,Spider,mental illness,5.0760000000000005
+2616,474,6337,Owning Mahowny,gambling,5.0920000000000005
+2617,474,8530,Dear Frankie,Ireland,4.926666666666667
+2618,62,27831,Layer Cake,British gangster,5.069166666666667
+2619,62,27831,Layer Cake,confusing,5.0
+2620,62,27831,Layer Cake,daniel craig,5.239999999999999
+2621,62,27831,Layer Cake,Exquisite plotting.,5.239285714285714
+2622,62,27831,Layer Cake,organized crime,5.0600000000000005
+2623,62,27831,Layer Cake,stylish,5.053333333333334
+2624,62,27831,Layer Cake,Tom Hardy,4.873333333333333
+2625,474,27790,Millions,religion,5.318
+2626,474,27790,Millions,saints,5.1225000000000005
+2627,474,8874,Shaun of the Dead,zombies,5.088571428571428
+2628,474,8951,Vera Drake,abortion,5.0280000000000005
+2629,474,36517,The Constant Gardener,Africa,5.056
+2630,474,36517,The Constant Gardener,business,5.0842857142857145
+2631,474,36517,The Constant Gardener,politics,5.356
+2632,327,51255,Hot Fuzz,british comedy,5.1080000000000005
+2633,537,58295,The Bank Job,heist,5.064
+2634,537,58295,The Bank Job,robbery,4.785454545454545
+2635,537,58295,The Bank Job,small time criminals,5.2829999999999995
+2636,435,58559,The Dark Knight,psychology,4.827142857142857
+2637,435,58559,The Dark Knight,superhero,4.875384615384616
+2638,567,58559,The Dark Knight,dark,4.9350000000000005
+2639,567,58559,The Dark Knight,gritty,4.9350000000000005
+2640,477,68237,Moon,2001-like,5.2299999999999995
+2641,477,68237,Moon,Sci-fi,5.503333333333333
+2642,477,68237,Moon,solitude,5.125
+2643,543,85565,Chalet Girl,Comedy,4.787999999999999
+2644,357,91529,The Dark Knight Rises,Anne Hathaway,5.007777777777779
+2645,357,91529,The Dark Knight Rises,Christian Bale,5.261333333333332
+2646,357,91529,The Dark Knight Rises,Christopher Nolan,4.954000000000001
+2647,357,91529,The Dark Knight Rises,comic book,4.956470588235294
+2648,357,91529,The Dark Knight Rises,great ending,4.907058823529412
+2649,357,91529,The Dark Knight Rises,Morgan Freeman,4.905263157894738
+2650,357,91529,The Dark Knight Rises,political commentary,5.086666666666667
+2651,357,91529,The Dark Knight Rises,superhero,4.875384615384616
+2652,567,96079,Skyfall,beautiful cinematography,5.122162162162161
+2653,567,96079,Skyfall,beautifully filmed,5.1580645161290315
+2654,567,96079,Skyfall,cinematography,5.0024999999999995
+2655,567,112421,Frank,adorable,5.026000000000001
+2656,567,112421,Frank,black comedy,4.8538461538461535
+2657,567,112421,Frank,Eccentric,4.812857142857143
+2658,567,112421,Frank,introspection,5.06952380952381
+2659,567,112421,Frank,mental illness,5.0760000000000005
+2660,567,112421,Frank,quirky,5.05
+2661,567,116797,The Imitation Game,inspirational,5.368695652173913
+2662,567,116797,The Imitation Game,intelligent,5.107619047619048
+2663,567,117887,Paddington,heartwarming,5.0025
+2664,567,138036,The Man from U.N.C.L.E.,slick,5.188000000000001
+2665,567,138036,The Man from U.N.C.L.E.,stylish,5.053333333333334
+2666,567,140174,Room,moving,5.06
+2667,567,140174,Room,touching,5.0625
+2668,567,140174,Room,moving,5.06
+2669,567,140174,Room,touching,5.0625
+2670,474,3040,Meatballs,camp,5.015000000000001
+2671,474,1719,The Sweet Hereafter,Canada,5.154545454545455
+2672,474,1719,The Sweet Hereafter,death,4.864
+2673,474,6820,Ginger Snaps,werewolf,4.831666666666667
+2674,474,6770,My Life Without Me,adultery,4.9475
+2675,474,6770,My Life Without Me,terminal illness,5.153103448275862
+2676,477,53468,Fido,zombies,5.088571428571428
+2677,474,1280,Raise the Red Lantern,In Netflix queue,4.979
+2678,474,326,To Live,In Netflix queue,4.979
+2679,474,6668,The Road Home,In Netflix queue,4.979
+2680,474,3996,"Crouching Tiger, Hidden Dragon",china,5.096000000000001
+2681,474,3996,"Crouching Tiger, Hidden Dragon",martial arts,5.092380952380952
+2682,474,7090,Hero,martial arts,5.092380952380952
+2683,474,8983,House of Flying Daggers,martial arts,5.092380952380952
+2684,474,6909,The Eye,transplants,4.993684210526316
+2685,474,7981,Infernal Affairs,police,5.1066666666666665
+2686,474,6244,Salaam Bombay!,In Netflix queue,4.979
+2687,474,6776,Lagaan: Once Upon a Time in India,India,5.175
+2688,474,5450,Lovely,sisterhood,4.984285714285714
+2689,474,5450,Lovely,women,4.884
+2690,424,5291,Rashomon,black and white,5.030666666666667
+2691,424,5291,Rashomon,samurai,5.253333333333334
+2692,474,5291,Rashomon,In Netflix queue,4.979
+2693,474,5291,Rashomon,samurai,5.253333333333334
+2694,474,6669,Ikiru,terminal illness,5.153103448275862
+2695,567,6669,Ikiru,meditative,5.1
+2696,567,6669,Ikiru,philosophical,5.176521739130435
+2697,567,6669,Ikiru,poignant,5.024
+2698,567,6669,Ikiru,purposefulness,5.04
+2699,474,8188,Sansho the Bailiff,Not available from Netflix,5.09906976744186
+2700,474,2019,Seven Samurai,samurai,5.253333333333334
+2701,474,7766,Throne of Blood,MacBeth,4.859999999999999
+2702,474,3030,Yojimbo,samurai,5.253333333333334
+2703,474,2905,Sanjuro,In Netflix queue,4.979
+2704,474,7926,High and Low,In Netflix queue,4.979
+2705,474,5498,Red Beard,In Netflix queue,4.979
+2706,474,5498,Red Beard,In Netflix queue,4.979
+2707,474,1217,Ran,samurai,5.253333333333334
+2708,477,1274,Akira,animation,5.252
+2709,477,1274,Akira,anime,5.152
+2710,477,1274,Akira,visually stunning,5.152666666666666
+2711,474,5971,My Neighbor Totoro,anime,5.152
+2712,474,26662,Kiki's Delivery Service,anime,5.152
+2713,474,26776,Porco Rosso,In Netflix queue,4.979
+2714,474,1537,Shall We Dance?,ballroom dance,5.029473684210527
+2715,474,3000,Princess Mononoke,anime,5.152
+2716,477,3000,Princess Mononoke,adventure,4.859999999999999
+2717,477,3000,Princess Mononoke,atmospheric,5.010909090909091
+2718,477,3000,Princess Mononoke,fantasy world,4.9557142857142855
+2719,477,3000,Princess Mononoke,Studio Ghibli,5.515000000000001
+2720,477,3000,Princess Mononoke,surreal,4.9911111111111115
+2721,125,7022,Battle Royale,based on a book,4.966363636363636
+2722,125,7022,Battle Royale,bloody,4.895
+2723,125,7022,Battle Royale,brutal,5.083333333333333
+2724,125,7022,Battle Royale,controversial,4.951764705882353
+2725,125,7022,Battle Royale,dystopia,5.0325
+2726,125,7022,Battle Royale,goretastic,4.971666666666667
+2727,125,7022,Battle Royale,satire,5.09
+2728,125,7022,Battle Royale,social commentary,4.988333333333333
+2729,125,7022,Battle Royale,survival,5.042
+2730,125,7022,Battle Royale,violence,4.922
+2731,474,6713,Millennium Actress,In Netflix queue,4.979
+2732,474,5618,Spirited Away,anime,5.152
+2733,474,27731,The Cat Returns,In Netflix queue,4.979
+2734,474,8019,Dark Water,remade,4.835
+2735,474,27741,The Twilight Samurai,In Netflix queue,4.979
+2736,474,8607,Tokyo Godfathers,In Netflix queue,4.979
+2737,62,31658,Howl's Moving Castle,anime,5.152
+2738,62,31658,Howl's Moving Castle,fantasy world,4.9557142857142855
+2739,62,31658,Howl's Moving Castle,Hayao Miyazaki,5.202962962962964
+2740,62,31658,Howl's Moving Castle,Studio Ghibli,5.515000000000001
+2741,474,31658,Howl's Moving Castle,06 Oscar Nominated Best Movie - Animation,5.139726027397261
+2742,474,31658,Howl's Moving Castle,In Netflix queue,4.979
+2743,474,31437,Nobody Knows,orphans,4.957142857142857
+2744,477,52885,Paprika,dreamlike,4.989090909090909
+2745,474,27834,The Return,fatherhood,4.855714285714285
+2746,567,107406,Snowpiercer,fatalistic,5.22875
