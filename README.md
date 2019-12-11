@@ -47,10 +47,22 @@ By using this data, the goal is to create an overview of user behavior regarding
 
 ## Social graph
 
+A social graph gives a nice overview of some of the initial tendecencies there might be in the social data. By looking at and analysing a social graph, different aspects can be explored, such as setting the size and colours of the nodes to different measures to see if some patterns arises. Furthermore, the node influences can be explored by computing centrality measures. Lastly, community detection will tell if there are some meaningful partitions/communities in the graph as well.
+
+The social graph in this project consists of nodes corresponding to users and edges corresponding to two users being similar. The way the similarity is measured is by the Pearson Correlation Coefficient, which is the slope of the linear regression line fitted to the two users' data. The range for the correlation is -1 to 1, where 1 is completely similar, and -1 completely opposite. Two users in the graph gets an edge between them if their correlation is above some threshold. The threshold is prefferred to lie close to 1, but if it is too close to 1 there might not be as many edges as one would like. Therefore the threshold were set by an iteratively process where a reasonable amount of edges were included in the graph. 
+
+The correlation is made based on two users' user-profiles. A user-profile is, shortly, how much a user likes certain features occurring in certain content, which in this case is genres occurring in movies. The measure of "liking" are based on the user ratings.
+
+Below is two ways to visualize the social graph. The first button 'Average rating' shows the social graph where the node sizes represents a user's average rating and the node colours represents a user's favorite genre taken from the sorted user-profile. The second button shows the same social graph with the node colours as before, but now the size is created by the Eigenvector centrality.
+
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
 
 <img class="center" id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
+
+First of all when looking at the 'Average rating' graph, it can be seen that it seems as if the nodes are clustered into genre groups, where 
+
+action and thriller are intertwined
 
 ## Community detection
 
