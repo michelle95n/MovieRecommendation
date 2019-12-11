@@ -23,7 +23,7 @@
 <html>
 <body>
 <style>
-  button:focus {background: #C21E0D;}
+  button:active {background: #C21E0D;}
 </style>
 </body>
 </html>
