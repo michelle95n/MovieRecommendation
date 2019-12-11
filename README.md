@@ -15,7 +15,22 @@
 <html>
 <body>
 <style>
+.button1
+{
+	background-color: black;
+	color: white;
+	width: 160px;
+	height: 20px;
+}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+<style>
   .button:hover{background-color:#C21E0D;}
+  .button1:hover{background-color:#C21E0D;}
 </style>
 </body>
 </html>
@@ -174,12 +189,19 @@ Next the negative and positive plot descriptions and tags will now be visualized
 
 ## Negative and positive visualization
 
-<button class="button" onclick="document.getElementById('neg').src='images/neg_plot.png'">Plots</button>
-<button class="button" onclick="document.getElementById('neg').src='images/neg_tag.png'">Tags</button>
+A visualization of the negative plot descriptions compared to the negative tags have been visualized. Afterwards the positive plot descriptions compared to the positive tags can be seen.
+
+<button class="button1" onclick="document.getElementById('neg').src='images/neg_plot.png'">Plots</button>
+<button class="button1" onclick="document.getElementById('neg').src='images/neg_tag.png'">Tags</button>
 
 <img id="neg" src="images/neg_plot.png" style="width:600px"/>
 
-<button class="button" onclick="document.getElementById('pos').src='images/pos_plot.png'">Plots</button>
-<button class="button" onclick="document.getElementById('pos').src='images/pos_tag.png'">Tags</button>
+<button class="button1" onclick="document.getElementById('pos').src='images/pos_plot.png'">Plots</button>
+<button class="button1" onclick="document.getElementById('pos').src='images/pos_tag.png'">Tags</button>
 
 <img id="pos" src="images/pos_plot.png" style="width:600px"/>
+
+When looking at the individual wordclouds, it is not clear to see that one is negative movies and one is positive movies. A few words does make sense, for example for the negative movies words as "beast" and "fuck" can be seen. But other than a few words, the words in each cloud seems random. Comparing the plot description with the tags does not show any resemblance either. Of course this is due to the sentiment mean being around the neutral 5, and the standard deviation of these sentiments being very small. 
+
+Therefore it can be concluded that based on the Wikipedia plot descriptions and the tags given in the GroupLens dataset, it is not possible to define negative or positive movies or genres.
+On the other hand the wordclouds based on the plot descriptions and the tags, can give an overview of what to expect from a genre, and therefore help with finding a movie based on the feelings one get from this.
