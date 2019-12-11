@@ -67,7 +67,9 @@ Afterwards all the movies was divided into genres. For each genre the sentiment 
 
 <img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:600px">
 
-When looking at the sentiment distribution for each genre, it can be seen how all the sentiments a distributed around the neutral 5 with a low spreading. This means that the plot descriptions in general are very neutral and does not bias a movie into being negative or positive.
+When looking at the sentiment distribution for each genre, it can be seen how all the sentiments are distributed around the neutral 5 with a low spreading. This means that the plot descriptions in general are very neutral and does not bias a movie into being negative or positive.
+
+Even though there are no clear negative or positive plots, the movies in each genre have been divided into negative and positive movies. The negative movies are therefore categorized as all movies in the genre with a sentiment lower than the mean - 2 times the standard deviation, and the positive movies are categorized as all movies with a sentiment higher than the mean + 2 times the standard deviation. This will be visualized later, to see if there is a tendency in the movies, even though the sentiment for the plot descriptions are neutral.
 
 Next step therefore is to look at the sentiment for tags, and see if the tags have more to say about the sentiment about the genres.
 
@@ -100,7 +102,9 @@ In same manner as for the plot description, the tags were divided into each genr
 
 Again it can be seen how the sentiment is distributed around the neutral 5, though with a slightly higher spreading. This is a bit surprising, since it would be easy to think that a user tag would be more prone into being negative or positive. The reason for these results could be because of the tags only being a few words, making the sentiment of the tags more general.
 
-Next step is to visualize these results, and see if the plot description and the tags also uses the same words when describing the genre. This is done by the use of wordclouds.
+As for the plot descriptions, the tags have been divided into negative and positive tags in each genre, which will be visualized in the next step to see if there is a tendency in the tags, and to see if negative plot descriptions will agree with negative tags and vice versa.
+
+Next step therefore is to visualize these results, and see if the plot description and the tags also uses the same words when describing the genre, both in general but also when considering negative and positive plot descriptions and tags. This is done by the use of wordclouds.
 
 ## Wordclouds
 
@@ -131,15 +135,15 @@ First the plot description will be visualized by the wordclouds. Each genre cons
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_War.png'">War</button>
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Western.png'">Western</button>
 
-Overall it can be seen how the words in the wordclouds are as expected. For a genre as
-
 <img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:600px">
 
-<img src="images/neg_plot.png" alt="hi" class="inline"/>
+Overall it can be seen how the words in the wordclouds are as expected. For a genre as Children, words as "rabbit", "princess" and "pinocchio" comes up, whereas a genre as Horror, have words as "zombie", "monster" and "vampire".
 
-<img src="images/pos_plot.png" alt="hi" class="inline"/>
+The tags will now be visualized to see if it is possible to compare these results with the ones for the plot description.
 
 ### Visualization of tags
+
+The full corpus this time is all the tags for the different genre. One part of the corpus therefore is all tags for one genre. The results for this visualization can be seen by clicking on the corresponding buttons below.
 
 <button class="button" onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_(no genres listed).png'">no genres</button>
 <button class="button" onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Action.png'">Action</button>
@@ -164,6 +168,18 @@ Overall it can be seen how the words in the wordclouds are as expected. For a ge
 
 <img id="wordcloud_tag" src="images/tag_wordcloud_(no genres listed).png" style="width:600px">
 
-<img src="images/neg_tag.png" alt="hi" class="inline"/>
+Looking at the genre Children, words as "pixar", "animals" and "cartoon" comes up. Looking at Horror "zombie", "alien" and "twist" are words that can be seen. When comparing these words to the ones for the plot descriptions, it is clear that for each genre they have the same overall sense. It seems that the plot description uses more specific words, whereas the tags uses more general words.
 
-<img src="images/pos_tag.png" alt="hi" class="inline"/>
+Next the negative and positive plot descriptions and tags will now be visualized to see if they can be compared as well.
+
+## Negative and positive visualization
+
+<button class="button" onclick="document.getElementById('neg').src='images/neg_plot.png.png'">Plot description</button>
+<button class="button" onclick="document.getElementById('neg').src='images/neg_tag.png.png'">Tags</button>
+
+<img id="neg" src="images/neg_plot.png" alt="hi" class="inline"/>
+
+<button class="button" onclick="document.getElementById('pos').src='images/pos_plot.png.png'">Plot description</button>
+<button class="button" onclick="document.getElementById('pos').src='images/pos_tag.png.png'">Tags</button>
+
+<img src="images/pos_plot.png" alt="hi" class="inline"/>
