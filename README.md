@@ -38,7 +38,7 @@
 
 ### Data description
 
-The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists of all the movies used, ratings.csv consists of all the ratings given by users for the different movies, and tags.csv consisting of tags a user have given to the movies. In total that gives around 9,000 movies, 100,000 ratings, 3,600 tags and 600 users. The largest dataset have the same three csv files, but with around 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
+The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv which consists of all the movies used, ratings.csv which consists of all the ratings given by users for the different movies, and tags.csv consisting of tags a user have given to a movies. In total that yields around 9,000 movies, 100,000 ratings, 3,600 tags and 600 users. The larger dataset have the same three .csv files, but with around 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
 Another dataset used is from Kaggle and can be downloaded [here](https://www.kaggle.com/jrobischon/wikipedia-movie-plots/data). This dataset consists of 35,000 movies where the plot description for each movie have been scraped from Wikipedia.
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
@@ -92,10 +92,9 @@ This were done by computing a weighted average for each user and then, given the
 
 From the above table it can be seen that rating does not contribute to the partitioning. Every interval has nodes spread across the different partitions and none of them really dominates anything.
 
-
 ## Sentiment analysis
 
-The sentiment of a text gives a happiness score for one or more words. The scale is from 1, the least happy, to 9, the most happy, and 5 being neutral. In this way it is possible to see whether a word or text is negative or positive.
+The sentiment of a text gives a happiness score for one or more words. The scale is from 1; the least happy, to 9; the most happy, and 5 being neutral. In this way it is possible to see whether a word or text is negative or positive.
 
 By using the sentiment, an analysis is made based on the plot description for a movie and the tags given by users. By doing this the overall sentiment for a genre is found in both cases. This will show if some genres are more negative or positive than others, and also if the plot description and tags given by users agrees with each other.
 
