@@ -73,7 +73,7 @@ Community detection is for exploring whether or not there are some communities f
 ### Community detection by genres
 
 <img src="images/orig_genre_table.png" style="width:254px">
-<img src="images/stand_genre_table.png" style="width:275px">
+<img src="images/stand_genre_table.png" style="width:280px">
 
 ### Community detection by ratings
 
