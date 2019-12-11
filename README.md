@@ -60,9 +60,9 @@ Below is two ways to visualize the social graph. The first button 'Average ratin
 
 <img class="center" id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
-First of all when looking at the 'Average rating' graph, it can be seen that it seems as if the nodes are clustered into genre groups, where 
+First of all when looking at the 'Average rating' graph, it can be seen that it seems as if the nodes are clustered into genre groups, where 'drama' and 'comedy' dominates and are the most seperated. Furthermore, we see that other popular genres are 'adventure', 'action' 'thriller', but those are more intertwined. 
 
-action and thriller are intertwined
+When 
 
 ## Community detection
 
