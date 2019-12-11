@@ -51,7 +51,7 @@ To get more information about the data and how the webpage is created see the [e
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
 
-<img id="graph" src="images/graph_rating_colour_genre.png" style="width:600px">
+<img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
 ## Community detection
 
