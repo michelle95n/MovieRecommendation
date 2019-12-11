@@ -32,6 +32,8 @@
 <style>
   .button:hover{background-color:#C21E0D;}
   .button1:hover{background-color:#C21E0D;}
+  .button:focus {color: red;}
+  .button1:focus {color: red;}
 </style>
 </body>
 </html>
