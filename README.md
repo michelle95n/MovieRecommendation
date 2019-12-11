@@ -5,8 +5,8 @@
 {
 	background-color: black;
 	color: white;
-	width: 80px;
-	height: 20px;
+	width: 85px;
+	height: 22px;
 }
 </style>
 </body>
@@ -19,8 +19,8 @@
 {
 	background-color: black;
 	color: white;
-  width: 160px;
-	height: 20px;
+  width: 170px;
+	height: 22px;
 	margin: 0 auto
 }
 </style>
