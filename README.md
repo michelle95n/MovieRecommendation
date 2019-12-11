@@ -5,6 +5,7 @@
 {
 	background-color: black;
 	color: white;
+  display:inline-block;
 	width: 82px;
 	height: 22px;
 }
@@ -19,6 +20,7 @@
 {
 	background-color: black;
 	color: white;
+  display:inline-block;
   width: 164px;
 	height: 22px;
 	margin: 0 auto
