@@ -15,15 +15,8 @@
 <html>
 <body>
 <style>
-  button:hover{background-color:#C21E0D;}
-</style>
-</body>
-</html>
-
-<html>
-<body>
-<style>
-  button:target {background: #C21E0D;}
+  .button:hover{background-color:#C21E0D;}
+  .button:target{background: #C21E0D;}
 </style>
 </body>
 </html>
