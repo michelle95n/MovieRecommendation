@@ -77,7 +77,7 @@ Looking at the partitions in the graph it is not quite clear which factor contri
 First off the factor genre is explored. Below two tables can be seen; the first being the amount of nodes with a given genre belonging to a given partition, the second is the same table but every row value is divided by its row sum. The latter is done to see the where the different proportions of all nodes in a genre are distributed.
 
 <img src="images/orig_genre_table.png" style="width:254px">
-<img src="images/stand_genre_table.png" style="width:292px">
+<img src="images/stand_genre_table.png" style="width:291px">
 
 It can be seen from the above tables that 'Comedy' dominates in partition '0'. In partition '1' it seems as though 'drama' and 'action' have approximately the same number of nodes in this partition. However when looking at the table to the right it can be observed that 'action' have 88% of its nodes in partition '1', whereas 'drama' only have 18% of its nodes in this partition. It can be seen that 'drama' clearly dominates partition '2'. It is hard to conclude much about partition '3' but partition '4' consists exclusively of 'horror' nodes.
 
