@@ -55,6 +55,15 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Community detection
 
+<img src="images/graph_partition.png" style="width:600px">
+
+
+<img src="images/orig_genre_table.png" style="width:250px">
+<img src="images/stand_genre_table.png" style="width:250px">
+
+<img src="images/rating_table.png" style="width:500px">
+
+
 ## Sentiment analysis
 
 The sentiment of a text gives a happiness score for one or more words. The scale is from 1 - the least happy to 9 - the most happy. A happiness score of 5 is neutral. In this way it is possible to see whether a word or text is negative or positive.
