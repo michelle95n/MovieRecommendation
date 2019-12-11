@@ -16,7 +16,6 @@
 <body>
 <style>
   .button:hover{background-color:#C21E0D;}
-  .button:target{background: #C21E0D;}
 </style>
 </body>
 </html>
@@ -24,14 +23,26 @@
 
 ## Movie Recommendation for Social Graphs
 
-The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists all the movies used, ratings.csv consists of all ratings given by users for the different movies, and tags.csv consists of tags a user have given to the movies. In total that gives around 9,000 movies, 100,000 ratings, 3,600 tags and 600 users. The largest dataset have the same three csv files, but with around 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
+### Data description
+
+The data used is from GroupLens and can be downloaded [here](https://grouplens.org/datasets/movielens/latest/). Here two different dataset can be found; The smallest dataset consist of the following three used files; movies.csv consists of all the movies used, ratings.csv consists of all the ratings given by users for the different movies, and tags.csv consisting of tags a user have given to the movies. In total that gives around 9,000 movies, 100,000 ratings, 3,600 tags and 600 users. The largest dataset have the same three csv files, but with around 58,000 movies, 27,000,000 ratings, 1,100,000 tags and 280,000 users.
+Another dataset used is from Kaggle and can be downloaded [here](https://www.kaggle.com/jrobischon/wikipedia-movie-plots/data). This dataset consists of 35,000 movies where the plot description for each movie have been scraped from Wikipedia.
 
 To get more information about the data and how the webpage is created see the [explainer notebook](https://nbviewer.jupyter.org). **(Put the explainer notebook up here)**  
 
+## Social graph
+
+## Community detection
+
 ## Sentiment analysis
 
+The sentiment of a text gives a happiness score for one or more words. The scale is from 1 - the least happy to 9 - the most happy. A happiness score of 5 is neutral. In this way it is possible to see whether a word or text is negative or positive.
+
+By using the sentiment an analysis is made based on the plot description for a movie and the tags given by users. By doing this the overall sentiment for a genre is found in both cases. This will show if the plot description and tags given by users agrees with each other.
+
 ### Sentiment for plot description
-All the movies was divided into genres. All movies have a plot, where the sentiment for the plot is found. The distribution of plot sentiments can be seen by choosing the corresponding button.  
+First of all the sentiment for the plot description is looked at. The large dataset from GroupLens was combined with the dataset from Kaggle. In this way the subset of movies was found such that a new dataset with around 14,000 movies were created with a corresponding plot description.
+Afterwards all the movies was divided into genres. For each genre the sentiment for the movies in each genre was found. The distribution of plot sentiments can be seen by choosing the corresponding button for one of the 20 unique genres in the dataset.  
 
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_(no genres listed).png'">no genres</button>
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Action.png'">Action</button>
@@ -56,7 +67,13 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:600px">
 
+When looking at the sentiment distribution for each genre, it can be seen how all the sentiments a distributed around the neutral 5 with a low spreading. This means that the plot descriptions in general are very neutral and does not bias a movie into being negative or positive.
+
+Next step therefore is to look at the sentiment for tags, and see if the tags have more to say about the sentiment about the genres.
+
 ### Sentiment for tags
+
+In same manner as for the plot description, the tags were divided into each genre. This gave the following distributions for the different genres.
 
 <button class="button" onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_(no genres listed).png'">no genres</button>
 <button class="button" onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Action.png'">Action</button>
@@ -81,9 +98,17 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 
 <img id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:600px">
 
+Again it can be seen how the sentiment is distributed around the neutral 5, though with a slightly higher spreading. This is a bit surprising, since it would be easy to think that a user tag would be more prone into being negative or positive. The reason for these results could be because of the tags only being a few words, making the sentiment of the tags more general.
+
+Next step is to visualize these results, and see if the plot description and the tags also uses the same words when describing the genre. This is done by the use of wordclouds.
+
 ## Wordclouds
 
+The wordclouds picture all the most important words of a subset by the use of TF-IDF. By using the wordclouds for each genre it therefore shows which words are the most used or are most important for that genre, divided into plot description and tags.
+
 ### Visualization of plot description
+
+First the plot description will be visualized by the wordclouds. Each genre consisting of all the corresponding plot description is one part of the full corpus. The full corpus therefore consists of all genres with plot descriptions. The wordclouds for each genre can be seen by clicking the corresponding button for the wanted genre.
 
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_(no genres listed).png'">no genres</button>
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Action.png'">Action</button>
@@ -105,6 +130,8 @@ All the movies was divided into genres. All movies have a plot, where the sentim
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Thriller.png'">Thriller</button>
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_War.png'">War</button>
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Western.png'">Western</button>
+
+Overall it can be seen how the words in the wordclouds are as expected. For a genre as
 
 <img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:600px">
 
