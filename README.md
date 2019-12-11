@@ -61,8 +61,8 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Social graph
 
-<button class="button1, center" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
-<button class="button1, center" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
+<button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
+<button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
 
 <img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
@@ -70,9 +70,12 @@ To get more information about the data and how the webpage is created see the [e
 
 <img class="center" src="images/graph_partition.png" style="width:700px">
 
+### Community detection by genres
 
 <img src="images/orig_genre_table.png" style="width:254px">
 <img src="images/stand_genre_table.png" style="width:300px">
+
+### Community detection by ratings
 
 <img class="center" src="images/rating_table.png" style="width:450px">
 
