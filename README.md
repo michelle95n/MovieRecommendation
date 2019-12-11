@@ -58,10 +58,10 @@ To get more information about the data and how the webpage is created see the [e
 <img src="images/graph_partition.png" style="width:600px">
 
 
-<img src="images/orig_genre_table.png" style="width:250px">
+<img src="images/orig_genre_table.png" style="width:252px">
 <img src="images/stand_genre_table.png" style="width:300px">
 
-<img src="images/rating_table.png" style="width:500px">
+<img src="images/rating_table.png" style="width:500px" class="center">
 
 
 ## Sentiment analysis
