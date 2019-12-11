@@ -51,10 +51,8 @@ By using this data, the goal is to create an overview of user behavior regarding
 
 ## Social graph
 
-<div class="center">
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
-</div>
 
 <img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
