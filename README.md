@@ -182,4 +182,4 @@ Next the negative and positive plot descriptions and tags will now be visualized
 <button class="button" onclick="document.getElementById('pos').src='images/pos_plot.png.png'">Plot description</button>
 <button class="button" onclick="document.getElementById('pos').src='images/pos_tag.png.png'">Tags</button>
 
-<img src="images/pos_plot.png" style="width:600px"/>
+<img id="pos" src="images/pos_plot.png" style="width:600px"/>
