@@ -9,13 +9,6 @@
 	width: 82px;
 	height: 22px;
 }
-</style>
-</body>
-</html>
-
-<html>
-<body>
-<style>
 .button1
 {
 	background-color: black;
@@ -25,30 +18,21 @@
 	height: 22px;
 	margin: 0 auto
 }
-</style>
-</body>
-</html>
 
-<html>
-<body>
-<style>
-  .button:hover{background-color:#C21E0D;}
-  .button1:hover{background-color:#C21E0D;}
-  .button:focus {color: red;}
-  .button1:focus {color: red;}
-</style>
-</body>
-</html>
+.button:hover{background-color:#C21E0D;}
+.button1:hover{background-color:#C21E0D;}
+.button:focus {color: red;}
+.button1:focus {color: red;}
 
-<html>
-<body>
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+container{text-align: center;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
 </body>
 </html>
@@ -67,8 +51,10 @@ By using this data, the goal is to create an overview of user behavior regarding
 
 ## Social graph
 
+<div id="container">
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
+</div>
 
 <img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
