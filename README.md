@@ -5,7 +5,6 @@
 {
 	background-color: black;
 	color: white;
-  display:inline-block;
 	width: 82px;
 	height: 22px;
 }
@@ -13,7 +12,6 @@
 {
 	background-color: black;
 	color: white;
-  display:inline-block;
   width: 164px;
 	height: 22px;
 	margin: 0 auto
@@ -23,8 +21,6 @@
 .button1:hover{background-color:#C21E0D;}
 .button:focus {color: red;}
 .button1:focus {color: red;}
-
-container{text-align: center;}
 
 .center {
   display: block;
@@ -54,7 +50,7 @@ By using this data, the goal is to create an overview of user behavior regarding
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
 <button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
 
-<img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
+<img class="center" id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
 ## Community detection
 
