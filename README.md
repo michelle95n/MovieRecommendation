@@ -5,7 +5,7 @@
 {
 	background-color: black;
 	color: white;
-	width: 85px;
+	width: 82px;
 	height: 22px;
 }
 </style>
@@ -19,7 +19,7 @@
 {
 	background-color: black;
 	color: white;
-  width: 170px;
+  width: 164px;
 	height: 22px;
 	margin: 0 auto
 }
@@ -32,6 +32,19 @@
 <style>
   .button:hover{background-color:#C21E0D;}
   .button1:hover{background-color:#C21E0D;}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+<style>
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 </style>
 </body>
 </html>
