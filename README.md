@@ -60,11 +60,13 @@ Below is two ways to visualize the social graph. The first button 'Average ratin
 
 <img class="center" id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
-First of all when looking at the 'Average rating' graph, it can be seen that it seems as if the nodes are clustered into genre groups, where 'drama' and 'comedy' dominates and are the most seperated. Furthermore, we see that other popular genres are 'adventure', 'action' 'thriller', but those are more intertwined. 
+First of all when looking at the 'Average rating' graph, it can be seen that it seems as if the nodes are clustered into genre groups, where 'drama' and 'comedy' dominates and are the most seperated. Furthermore, we see that other popular genres are 'adventure', 'action' and 'thriller', but those are more intertwined. 
 
-When 
+When looking at the graph where the node sizes are a Eigenvector Centrality score, a pattern can be seen. The Eigenvector Centrality score is a measure of how influential a node is, if a node is connected to many other nodes, which themselves have a high score, then that node also get a high score. I.e. the score depends on number of connections and the connected nodes score. Having this in mind, it can be observed that the genres 'drama' and 'comedy' generally gets the higher scores, i.e. 'drama' and 'comedy' nodes are generally more connected and influential in the graph. 
 
 ## Community detection
+
+Community detection is for exploring whether or not there are some communities formed in the graph. By 'communities' is meant a partition, i.e. the graph is partitioned into a number of different groups. In this project the Louvain partition algorithm were used to find the 'best' partitioning. The Louvain algorithm (tries to) maximize the modularity of a partitioning. The partitioning in this case gets a modularity of 0.48 which is relatively good. 
 
 <img class="center" src="images/graph_partition.png" style="width:700px">
 
