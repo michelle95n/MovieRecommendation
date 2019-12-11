@@ -15,14 +15,6 @@
 <html>
 <body>
 <style>
-  button.selected{color:#C21E0D;}
-</style>
-</body>
-</html>
-
-<html>
-<body>
-<style>
   button:hover{background-color:#C21E0D;}
 </style>
 </body>
@@ -31,7 +23,7 @@
 <html>
 <body>
 <style>
-  button:active {background: #C21E0D;}
+  button:target {background: #C21E0D;}
 </style>
 </body>
 </html>
