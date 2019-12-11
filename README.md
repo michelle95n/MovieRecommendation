@@ -61,20 +61,20 @@ To get more information about the data and how the webpage is created see the [e
 
 ## Social graph
 
-<button class="button1" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
-<button class="button1" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
+<button class="button1" class="center" onclick="document.getElementById('graph').src='images/graph_rating_colour_genre.png'">Average rating</button>
+<button class="button1" class="center" onclick="document.getElementById('graph').src='images/graph_eigenvector_colour_genre.png'">Eigenvector centrality</button>
 
 <img id="graph" src="images/graph_rating_colour_genre.png" style="width:700px">
 
 ## Community detection
 
-<img src="images/graph_partition.png" style="width:700px">
+<img class="center" src="images/graph_partition.png" style="width:700px">
 
 
-<img class="center" src="images/orig_genre_table.png" style="width:254px">
-<img class="center" src="images/stand_genre_table.png" style="width:300px">
+<img src="images/orig_genre_table.png" style="width:254px">
+<img src="images/stand_genre_table.png" style="width:300px">
 
-<img class="center" src="images/rating_table.png" style="width:500px">
+<img class="center" src="images/rating_table.png" style="width:450px">
 
 
 ## Sentiment analysis
@@ -108,7 +108,7 @@ Afterwards all the movies was divided into genres. For each genre the sentiment 
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_War.png'">War</button>
 <button class="button" onclick="document.getElementById('sentiment_plot').src='images/plot_sentiment_Western.png'">Western</button>
 
-<img id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:700px">
+<img class="center" id="sentiment_plot" src="images/plot_sentiment_(no genres listed).png" style="width:700px">
 
 When looking at the sentiment distribution for each genre, it can be seen how all the sentiments are distributed around the neutral 5 with a low spreading. This means that the plot descriptions in general are very neutral and does not bias a movie into being negative or positive.
 
@@ -141,7 +141,7 @@ In same manner as for the plot description, the tags were divided into each genr
 <button class="button" onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_War.png'">War</button>
 <button class="button" onclick="document.getElementById('sentiment_tag').src='images/tag_sentiment_Western.png'">Western</button>
 
-<img id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:700px">
+<img class="center" id="sentiment_tag" src="images/tag_sentiment_(no genres listed).png" style="width:700px">
 
 Again it can be seen how the sentiment is distributed around the neutral 5, though with a slightly higher spreading. This is a bit surprising, since it would be easy to think that a user tag would be more prone into being negative or positive. The reason for these results could be because of the tags only being a few words, making the sentiment of the tags more general.
 
@@ -178,7 +178,7 @@ First the plot description will be visualized by the wordclouds. Each genre cons
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_War.png'">War</button>
 <button class="button" onclick="document.getElementById('wordcloud_plot').src='images/plot_wordcloud_Western.png'">Western</button>
 
-<img id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:700px">
+<img class="center" id="wordcloud_plot" src="images/plot_wordcloud_(no genres listed).png" style="width:700px">
 
 Overall it can be seen how the words in the wordclouds are as expected. For a genre as Children, words as "rabbit", "princess" and "pinocchio" comes up, whereas a genre as Horror, have words as "zombie", "monster" and "vampire".
 
@@ -209,7 +209,7 @@ The full corpus this time is all the tags for the different genre. One part of t
 <button class="button" onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_War.png'">War</button>
 <button class="button" onclick="document.getElementById('wordcloud_tag').src='images/tag_wordcloud_Western.png'">Western</button>
 
-<img id="wordcloud_tag" src="images/tag_wordcloud_(no genres listed).png" style="width:700px">
+<img class="center" id="wordcloud_tag" src="images/tag_wordcloud_(no genres listed).png" style="width:700px">
 
 Looking at the genre Children, words as "pixar", "animals" and "cartoon" comes up. Looking at Horror "zombie", "alien" and "twist" are words that can be seen. When comparing these words to the ones for the plot descriptions, it is clear that for each genre they have the same overall sense. It seems that the plot description uses more specific words, whereas the tags uses more general words.
 
@@ -222,12 +222,12 @@ A visualization of the negative plot descriptions compared to the negative tags 
 <button class="button1" onclick="document.getElementById('neg').src='images/neg_plot.png'">Plots</button>
 <button class="button1" onclick="document.getElementById('neg').src='images/neg_tag.png'">Tags</button>
 
-<img id="neg" src="images/neg_plot.png" style="width:700px"/>
+<img class="center" id="neg" src="images/neg_plot.png" style="width:700px"/>
 
 <button class="button1" onclick="document.getElementById('pos').src='images/pos_plot.png'">Plots</button>
 <button class="button1" onclick="document.getElementById('pos').src='images/pos_tag.png'">Tags</button>
 
-<img id="pos" src="images/pos_plot.png" style="width:700px"/>
+<img class="center" id="pos" src="images/pos_plot.png" style="width:700px"/>
 
 When looking at the individual wordclouds, it is not clear to see that one is negative movies and one is positive movies. A few words does make sense, for example for the negative movies words as "beast" and "fuck" can be seen. But other than a few words, the words in each cloud seems random. Comparing the plot description with the tags does not show any resemblance either. Of course this is due to the sentiment mean being around the neutral 5, and the standard deviation of these sentiments being very small.
 
